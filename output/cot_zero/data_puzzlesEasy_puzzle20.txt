@@ -1,0 +1,15 @@
+Attempt: 
+
+:**
+
+- **45**: Olga - Raft Spider
+- **60**: Lonnie - Whip Spider
+- **75**: Anthony - Wolf Spider
+- **90**: Tim - Redback
+
+This arrangement satisfies all the logical clues provided.
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

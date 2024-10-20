@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+2001: Camping - Not Dustin, Not James, Eventually could assign to Yvonne.
+2002: Cycling - Yvonne
+2003: Kayaking - James
+2004: Hang gliding - Zachary (fulfills Dustin’s scenario)
+```
+
+Grade: 
+[False, True, True, False]
+Success: 
+False

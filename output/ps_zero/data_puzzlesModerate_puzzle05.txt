@@ -1,0 +1,13 @@
+Attempt: 
+
+: 
+- Methuselah: 32 years, black neck
+- Shelly: 50 years, pitch belly
+- Toredo: 14 years, unidentified species but Toredo
+- Yoda: 68 years, two rimmed
+```
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

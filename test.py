@@ -1,6 +1,6 @@
 from openai import OpenAI
 
-from puzzle_parser import PuzzleParser
+from puzzle_parser import PuzzleParser, Strategy
 
 client = OpenAI()
 
@@ -28,4 +28,7 @@ client = OpenAI()
 
 parser = PuzzleParser(["puzzles", "puzzlesEasy", "puzzlesModerate"])
 parser.load_puzzles()
-parser.retrieve_answers()
+
+# parser.retrieve_answers(Strategy.BASELINE, "output/baseline_zero")
+# parser.retrieve_answers(Strategy.COT_ZERO, "output/cot_zero")
+parser.retrieve_answers(Strategy.PS_ZERO, "output/ps_zero")

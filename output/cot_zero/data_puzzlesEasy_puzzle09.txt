@@ -1,0 +1,13 @@
+Attempt: 
+
+:**
+
+- **Bailey**: 7 weeks, Trainer: Stephanie
+- **Buster**: 8 weeks, Trainer: Teresa
+- **Gizmo**: 6 weeks, Trainer: Odette
+- **Jake**: 9 weeks, Trainer: Martha
+
+Grade: 
+[True, False, True, False]
+Success: 
+False

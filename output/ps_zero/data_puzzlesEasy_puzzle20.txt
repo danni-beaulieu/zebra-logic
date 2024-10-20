@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+
+- **Anthony**: Redback spider, priced at $75.
+- **Lonnie**: Whip spider, priced at $90.
+- **Olga**: Raft spider, priced at $60.
+- **Tim**: Wolf spider, priced at $45.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

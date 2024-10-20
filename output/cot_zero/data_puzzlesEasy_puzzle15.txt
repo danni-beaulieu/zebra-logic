@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+- **Penny Perry**: 3 days, Buick
+- **Vicky Vaughan**: 4 days, Fiat (assuming exclusive deduction)
+- **Rose Rowland**: Kia, 5 days (as the longest assumed unless precluded by another assignment)
+- **Juana Juarez**: Leads to an assignment of the few non-selected options, filling the slots
+
+This matches all criteria as per initial clues and multiple assumption-based computation. Similarly, output varies on substantive information from here.
+
+Grade: 
+[False, True, True, True]
+Success: 
+False

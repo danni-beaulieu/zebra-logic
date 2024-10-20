@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- Ernesto: 110 years old, Virginia
+- Preston: 109 years old, Texas
+- Olivia: 111 years old, Missouri
+- Larry: 112 years old, Alaska 
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

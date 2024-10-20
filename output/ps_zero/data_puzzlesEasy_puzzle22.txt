@@ -1,0 +1,15 @@
+Attempt: 
+
+:
+
+- **January**: Rules of War, Lynette
+- **February**: Vendetta, Ira
+- **March**: Bladescape, Manuel
+- **April**: Planets Align, Yolanda
+
+The solved puzzle respects all given constraints and completes all logic pathways.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

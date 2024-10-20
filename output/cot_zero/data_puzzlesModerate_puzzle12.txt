@@ -1,0 +1,13 @@
+Attempt: 
+
+":
+
+- Charles City: Berkshire, Population 31000
+- Luther: Essex, Population 28000
+- Oakland Acres: Nantucket, Population 37000
+- Quasqueton: Hampshire, Population 34000
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

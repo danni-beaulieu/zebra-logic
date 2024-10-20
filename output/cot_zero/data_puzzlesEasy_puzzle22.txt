@@ -1,0 +1,15 @@
+Attempt: 
+
+:
+January - Vendetta - Lynette
+February - Planets Align - Manuel
+March - Bladescape - Yolanda
+April - Rules of War - Ira
+```
+
+Here, Yolanda hosts in March, Ira can now only host in April as confirmed from the process of elimination. Therefore, the final association per month and game aligns sequentially and logically with all given constraints.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

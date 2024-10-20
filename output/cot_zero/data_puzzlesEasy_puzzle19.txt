@@ -1,0 +1,15 @@
+Attempt: 
+
+:**
+
+- Cannonball: $400, Burr Woods
+- Diamond Ring: $475, Gillis Park
+- Earring: Colbert Run, $250
+- Silver Coin: Colbert Run, $325
+
+Hence, the logic grid solution aligns with all the clues provided and deductions.
+
+Grade: 
+[True, False, True, True]
+Success: 
+False

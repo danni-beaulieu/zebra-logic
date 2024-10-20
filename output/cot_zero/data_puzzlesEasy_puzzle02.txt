@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- **June 10**: Eugene / Jackman
+- **June 11**: Stanley / Kyle
+- **June 12**: Chris / Leland
+- **June 13**: Kyle / Daly City
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- **Old Jarvis:** 144 ft, 85 years
+- **Nolan's Pine:** 153 ft, 79 years (taller as required by clues)
+- **Roger's Oak:** 147 ft, 99 years
+- **The Senator:** 150 ft, 94 years (filling the needed age to height relation)
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

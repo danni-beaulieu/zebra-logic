@@ -1,0 +1,26 @@
+Attempt: 
+
+:**
+
+- **Year 2007**
+  - Superhero: Criminal Bane
+  - Real Name: Not needed (as linked to the role)
+
+- **Year 2008**
+  - Superhero: Green Avenger
+  - Real Name: Fred Fleming
+
+- **Year 2009**
+  - Superhero: Ultra Hex
+  - Real Name: Ned Nielsen
+
+- **Year 2010**
+  - Superhero: Prism Shield
+  - Real Name: Edsel Eaton
+
+This grid matches both preliminary given conditions and the alternate logical deductions employed to find distinct resident years and their associated superheroes and identities.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

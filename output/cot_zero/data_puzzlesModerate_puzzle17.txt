@@ -1,0 +1,15 @@
+Attempt: 
+
+:
+1. Luis - Evans Gambit
+2. Tara - Reti Opening
+3. Rose - Giuoco Start
+4. Mae - Torre Attack
+```
+
+This ordering appropriately considers each clue without contradicting established requirements.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

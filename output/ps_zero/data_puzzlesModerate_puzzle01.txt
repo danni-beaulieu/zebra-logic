@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- Adagio III, Ernesto Ellis, 28 ft
+- Irish Pride, Hetta Hensley, 31 ft
+- Restless Wave, Ann Alvarado, 22 ft
+- White Squid, Betsy Becker, 25 ft
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

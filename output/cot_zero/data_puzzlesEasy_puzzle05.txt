@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- Rodney - Happy Hermits - 7 million views
+- Tonya - Beach Brouhaha - 4 million views
+- Daryl - You Otter Know - 5 million views 
+- Yvonne - Gabe Goes Nuts - 6 million views
+
+Grade: 
+[False, True, False, False]
+Success: 
+False

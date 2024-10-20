@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- **Evan's Fir**: 79 years old, 144 ft
+- **Nolan's Pine**: 85 years old, 153 ft
+- **Roger's Oak**: 87 years old, 147 ft
+- **Zeke's Spruce**: 94 years old, 150 ft
+
+Grade: 
+[True, False, True, False]
+Success: 
+False

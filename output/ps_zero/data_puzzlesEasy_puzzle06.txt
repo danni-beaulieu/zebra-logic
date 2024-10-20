@@ -1,0 +1,13 @@
+Attempt: 
+
+:**
+- **Prices & Units:**
+  - Binson C40 = $440, Capacity = 5000 BTUs.
+  - Chiller Z = $375, Capacity = 25000 BTUs.
+  - Freezon Flux = $570, Capacity = 10000 BTUs.
+  - Z-Free XL = $505, Capacity = 20000 BTUs.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

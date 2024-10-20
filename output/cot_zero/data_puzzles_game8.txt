@@ -1,0 +1,17 @@
+Attempt: 
+
+**:
+```
+| Name    | Points  | Order  |
+|---------|---------|--------|
+| Evelyn  | 190     | first  |
+| Melissa | 187     | seventh|
+| Natasha | 184     | second |
+| Willie  | 181     | eighth |
+```
+All conditions from the clues are satisfied, confirming the solution is correct.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

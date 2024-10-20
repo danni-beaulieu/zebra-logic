@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- **Barnabas**: 5 years old, 12.0 feet long
+- **Bubba**: 20 years old, length associated by elimination (9.4 feet)
+- **Draco**: 10 years old, 14.0 feet long
+- **Merlin**: 15 years old, 10.2 feet long
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

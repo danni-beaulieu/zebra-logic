@@ -1,0 +1,12 @@
+Attempt: 
+
+**:
+- Bai Yun: March, Mother: Tian Tian
+- Den Ping: February, Mother: Nan Sheng
+- Gao Gao: April, Mother: Wang Yu
+- Ling Ling: January, Mother: Tai Shan
+
+Grade: 
+[False, True, True, False]
+Success: 
+False

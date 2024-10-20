@@ -1,0 +1,12 @@
+Attempt: 
+
+
+- **Dean Courtis**: Discovered in 2009
+- **Gilda Frank**: Discovered Klionne in 2008
+- **Ken Jones**: Discovered Gostroma in 2011
+- **Klein**: Discovered Sporrin in 2010
+
+Grade: 
+[False, False, True, True]
+Success: 
+False

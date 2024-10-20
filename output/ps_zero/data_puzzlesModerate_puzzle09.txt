@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+
+- Cheelia orbits star MKP 427, 45 light years
+- Ereph orbits star HV 491, 43 light years
+- Llyrak orbits star VJD 913, 47 light years
+- Xidat orbits star BDF 198, 41 light years.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

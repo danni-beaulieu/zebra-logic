@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- Bai Yun: January, Tian Tian
+- Chi Chi: February, Wang Yu
+- Ling Ling: March, Po Lang
+- Po Lang's baby: April, Yuan Zai
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

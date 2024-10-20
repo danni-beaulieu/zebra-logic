@@ -1,0 +1,13 @@
+Attempt: 
+
+:**
+
+- 69 million: Mirasaurus - 1250
+- 75 million: Unknown - 500 (cannot deduce, no clue property left!)
+- 78 million: Pilodontus - 1000
+- 85 million: Senosaurus - 750
+
+Grade: 
+[False, True, True, False]
+Success: 
+False

@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- Brit Bradley: 107 meters, First
+- Hill Harvey: 104 meters, Second
+- Ed Elliott: (determined by elimination)
+- Gumbo Giles: depending on clues left position; match into 101 meters or 98 meters.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False
