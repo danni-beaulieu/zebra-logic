@@ -1,0 +1,12 @@
+Attempt: 
+
+":
+- First Game: Mae - Reti Opening
+- Second Game: Evans Gambit
+- Third Game: Rose - Torre Attack
+- Fourth Game: Luis - Giuoco Start
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

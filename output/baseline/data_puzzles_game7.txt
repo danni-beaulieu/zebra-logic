@@ -1,0 +1,13 @@
+Attempt: 
+
+:**
+
+- Greg: 21 minutes, Silver shirt
+- Herman: 22 minutes, Violet shirt
+- Kelly: 23 minutes, Maroon shirt
+- Patrick: 24 minutes, Orange shirt
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- **Istryn**: 41 light years, BDF 198
+- **Quael**: 43 light years, PLC 120
+- **Rodul**: 45 light years, MKP 427
+- **Vestor**: 47 light years, HV 491
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- **9:00am:** Ira with Karla
+- **10:00am:** Harold with Nelson
+- **11:00am:** Charlie with Orlando
+- **12:00pm:** Frederick with Sophie
+
+Grade: 
+[False, True, False, False]
+Success: 
+False

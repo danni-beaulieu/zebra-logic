@@ -1,0 +1,16 @@
+Attempt: 
+
+:**
+- Beulah: May, Orion
+- Darryl: April
+- Henrietta: June, Odyssey
+- Joy: (Inferred - not critical for final placement)
+- Yvonne: June
+- Escape: March
+- Liberty: July
+
+
+Grade: 
+[False, False, False, False, False]
+Success: 
+False

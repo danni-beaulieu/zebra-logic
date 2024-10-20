@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+
+- **April 4th**: Peter Peck - Royal Wedding
+- **April 5th**: [Unknown Reporter] - Flooding
+- **April 6th**: Sid Snyder - Mass Protests
+- **April 7th**: Randy Reid - Earthquake
+
+Grade: 
+[True, False, True, True]
+Success: 
+False

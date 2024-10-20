@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+- $250: Silver Coin found at Heffen Lane
+- $325: Cannonball found at Colbert Run
+- $400: Earring found at Burr Woods
+- $475: Diamond Ring found at Gillis Park
+```
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

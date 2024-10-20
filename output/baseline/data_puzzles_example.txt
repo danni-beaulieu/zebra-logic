@@ -1,0 +1,13 @@
+Attempt: 
+
+:**
+
+- Olga: Bistric, 25 liters
+- Gene: Grennel, 35 liters
+- Leroy: Pinkster, 30 liters
+- Jeffrey: Travelore, 40 liters
+
+Grade: 
+[False, True, True, False]
+Success: 
+False

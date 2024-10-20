@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+- Methuselah: Black Neck, 50 years old
+- Shelly: Swoop-Backed, 14 years old
+- Toredo: Unidentified species, 32 years old
+- Yoda: Two Rimmed, 68 years old
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

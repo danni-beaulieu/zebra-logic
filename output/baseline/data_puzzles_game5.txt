@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- Archadon: 78 million years, 1000 dollars.
+- Mirassaurus: 69 million years, 1250 dollars.
+- Pilodontus: 75 million years, 500 dollars.
+- Senosaurus: 85 million years, 1250 dollars.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

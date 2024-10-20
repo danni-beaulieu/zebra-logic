@@ -1,0 +1,13 @@
+Attempt: 
+
+:**
+
+- First Place: Kermit (#118)
+- Second Place: Ophelia (#128)
+- Third Place: Stretch (#126)
+- Fourth Place: Bridget
+
+Grade: 
+[True, True, True, False]
+Success: 
+False

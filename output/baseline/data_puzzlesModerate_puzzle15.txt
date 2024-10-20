@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Dean Courtis - Klionne - 2010
+- Gilda Frank - Sporrin - 2008
+- Ken Jones - Gostroma - 2011
+- Klein - Casputi - 2009
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

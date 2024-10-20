@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- January: Rules of War, Lynette
+- February: Vendetta, Yolanda
+- March: Bladescape, Manuel
+- April: Planets Align, Ira
+
+Grade: 
+[False, True, False, False]
+Success: 
+False

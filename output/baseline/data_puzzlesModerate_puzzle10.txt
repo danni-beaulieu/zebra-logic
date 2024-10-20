@@ -1,0 +1,13 @@
+Attempt: 
+
+:**
+
+- Ira is paired with Patrick at 9:00am.
+- Joann is paired with Tyler at 10:00am.
+- Frederick is paired with Nelson at 11:00am.
+- Earnest is paired with Karla at 12:00pm.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False
