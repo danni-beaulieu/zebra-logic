@@ -1,0 +1,12 @@
+Attempt: 
+
+**:
+- Evelyn: Second, 190 points
+- Melissa: Eighth, 184 points
+- Natasha: First, 187 points
+- Willie: Seventh, 181 points
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

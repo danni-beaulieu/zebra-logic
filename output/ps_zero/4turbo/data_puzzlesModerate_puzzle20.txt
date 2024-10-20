@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+- **Bev Baird** - Teacher, 9500 votes
+- **Cate Carlson** - Academic, 9000 votes
+- **Gilda Gray** - Architect, 10000 votes
+- **Ida Ingram** - Writer, 8500 votes
+
+With this resolution, all entities and constraints given in the clues are logically consistent.
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

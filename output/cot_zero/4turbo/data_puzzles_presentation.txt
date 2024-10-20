@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- **Bold Service**: directed by Adrienne Day, 3 nominations.
+- **Fatal Sheen**: directed by Virgil Katz, 2 nominations.
+- **Maximum Risk**: directed by Danny Trevor, 4 nominations.
+- **Wild Ones**: directed by Gabby Jones, 5 nominations.
+
+Grade: 
+[False, True, False, False]
+Success: 
+False

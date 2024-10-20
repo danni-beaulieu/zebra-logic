@@ -1,0 +1,15 @@
+Attempt: 
+
+:**
+
+- Dustin: Hang Gliding, 2002
+- James: Kayaking, 2003
+- Yvonne: Camping, 2001
+- Zachary: Cycling, 2004
+
+This assignment follows logically from the clues provided, fitting all the constraints perfectly.
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

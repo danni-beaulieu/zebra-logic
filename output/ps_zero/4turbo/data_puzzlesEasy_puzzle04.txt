@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- $550, Camera: G-290, Company: Cober
+- $575, Camera: Tela G5, Company: Nectron
+- $600, Camera: DM-5000, Company: Lirios
+- $625, Camera: Zenix 2C, Company: Torvia
+
+Grade: 
+[False, False, True, True]
+Success: 
+False

@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+- Archer Quest (Tarco Inc, 1976)
+- Bowling Alley (Hayco Inc, 1976)
+- Disco Mania (Dow Games, 1974)
+- Meteor Rise (Pinnefore, 1975)
+
+Thus, we've resolved the puzzle consistent with all the clues.
+
+Grade: 
+[False, True, False, False]
+Success: 
+False

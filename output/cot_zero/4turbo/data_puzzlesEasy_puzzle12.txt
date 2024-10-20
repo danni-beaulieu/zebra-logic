@@ -1,0 +1,13 @@
+Attempt: 
+
+:**
+- Joann and Karla at 9:00am,
+- Orlando and interpereted by (process of elimination) Gordon at 10:00am,
+- Annie and (process of elimination) Sophie at 11:00am,
+- Gordon and Rafael at 12:00pm, and,
+- Charlie and the remaining student at 12:00pm (Sophie).
+
+Grade: 
+[True, True, False, True]
+Success: 
+False

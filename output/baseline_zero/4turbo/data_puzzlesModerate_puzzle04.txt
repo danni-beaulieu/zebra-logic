@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Jeanne to Jamaica, departs at 2:30 pm
+- Claude to Malta, departs at 3:30 pm
+- Pablo to Peru, departs at 3:30 pm
+- Terrance to Qatar, departs at 4:30 pm
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

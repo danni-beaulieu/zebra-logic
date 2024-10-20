@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+   - April 4th, Peter Peck covers Royal Wedding.
+   - April 5th, Tam Terry covers Earthquake.
+   - April 6th, Randy Reid covers Flooding.
+   - April 7th, Sid Snyder covers Mass Protests.
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

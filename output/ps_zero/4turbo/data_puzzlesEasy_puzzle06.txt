@@ -1,0 +1,14 @@
+Attempt: 
+
+:**
+1. Binson C40 - $440, 5000 BTUs
+2. Chiller Z - $375, 25000 BTUs
+3. Freezon Flux - $570, 10000 BTUs
+4. Z-Free XL - $505, 20000 BTUs
+
+This layout corresponds accurately to all given clues and connections.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

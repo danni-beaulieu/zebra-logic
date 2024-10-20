@@ -1,0 +1,12 @@
+Attempt: 
+
+”:**
+- Kermit finishes first, is #118
+- Ophelia finishes second, is #128
+- Bridget finishes third, is #126
+- Stretch finishes fourth, is #105
+
+Grade: 
+[True, True, False, False]
+Success: 
+False

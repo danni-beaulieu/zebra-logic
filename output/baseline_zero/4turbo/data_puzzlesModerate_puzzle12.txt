@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- Charles City: Essex, 34000
+- Luther: Unassigned County, 28000
+- Oakland Acres: Essex, 37000
+- Quasqueton: Nantucket, 31000
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

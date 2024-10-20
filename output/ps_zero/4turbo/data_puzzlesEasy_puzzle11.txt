@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+- Mt. Dawson (14340 feet) - not summited by Hal (Norman) or Gerry (Ingram) or Kermit (shorter than 14600), so Irving Igor.
+- Mt. Ingram (14600 feet) - Gerry Gamble
+- Mt. Larsen (14210 feet) - Irving Igor-contracting (fix Igor to the leftover climber, re-set as Hal Hudson).
+- Mt. Norman (14470 feet) - Hal Hudson.
+Thus Mt. Larsen = 14210 - Kermit Kramer due to the leftover assignment.
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+- Z-Free XL: $505, 20000 BTUs
+- Chiller Z: $375, 25000 BTUs
+- Binson C40: $440, 5000 BTUs
+- Freezon Flux: $570, 10000 BTUs
+
+This fits all the clues, including relative costs for the 10000 BTUs and 25000 BTUs ACs, and allocating all capacities and prices uniquely and distinctly across all AC units.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

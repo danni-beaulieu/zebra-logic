@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- **June 10**: Stanley from Hardwick
+- **June 11**: Kyle from Jackman
+- **June 12**: Eugene from Daly City
+- **June 13**: Chris from Leland
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

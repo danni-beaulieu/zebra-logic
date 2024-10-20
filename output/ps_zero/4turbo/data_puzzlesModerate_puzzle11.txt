@@ -1,0 +1,51 @@
+Attempt: 
+
+To solve this logic grid puzzle, let's start by summarizing the information given and use it to fill out a grid that matches customers, RAM, and hard drives.
+
+We know that:
+1. Of Wade's computer and Jack's build, one has a 128 GB hard drive and the other has 6 GB of RAM.
+2. Rex's build has a hard drive that is 256 GB larger than the build with 6 GB of RAM.
+3. Wade's system has a hard drive that is 128 GB larger than the system with 1 GB of RAM.
+4. Rex's system has 3 GB of RAM.
+
+Let's start filling in some of the information:
+- Since Rex has 3 GB of RAM, neither Jack nor Wade can have the 3 GB RAM. 
+- Since Rex does not have 6 GB of RAM, the system with 6 GB of RAM is either Wade's or Jack's. Therefore, the other among Wade and Jack must have the 128 GB hard drive.
+
+Based on clue 3, let's see the implications:
+- Wade's system has a hard drive 128 GB bigger than the system with 1 GB of RAM. This means Wade must have either the 256 GB, 384 GB, or 512 GB hard drive.
+
+Since Wade either has a 128 GB hard drive or 6 GB of RAM, and Wade’s drive is 128 GB larger than the 1 GB RAM drive:
+- Wade can't be the one with 1 GB of RAM too. So, whoever has 1 GB of RAM must possess less than Wade’s HD capacity minus 128 GB.
+
+Now consider clue 2 and limit the hard drives:
+- Rex's build must be 256 GB larger than the 6 GB of RAM build.
+
+Now with specific relationships:
+- If Wade has 128 GB HD, then he can't be the 6 GB RAM user (conflicts with both needing to be bigger than another entity). Thus, Wade has 6 GB RAM, and Jack has the 128 GB HD. 
+- As Rex must have 3 GB of RAM, it means:
+  - Wade has 6 GB RAM (as deduced earlier).
+  - Remaining RAM, 1 GB and 12 GB RAM, will be for Fernando and Jack with Jack already having a constraint with hard drive.
+  
+Operating on the hard drives:
+- Wade must then have 512 GB (as it's the only value exceeding another by over 128 GB available for remaining persons; the system with 1 GB of RAM is the lesser one, so its hard drive can be 384 GB).
+- Rex, having 3 GB of RAM would now, based on previous points, have a drive 256 GB over 256 GB (from 6 GB RAM), giving him 512 GB minus 256 GB = 384 GB.
+- This leaves Fernando with 1 GB of RAM and 256 GB capacity.
+- Jack has 128 GB HD and is left with the only RAM option, which is 12 GB.
+
+Summary:
+1. Fernando: 1 GB of RAM, 256 GB HD
+2. Jack: 12 GB of RAM, 128 GB HD
+3. Rex: 3 GB of RAM, 384 GB HD
+4. Wade: 6 GB of RAM, 512 GB HD
+
+Final answer:
+- **Fernando**: 1 GB RAM, 256 GB HD
+- **Jack**: 12 GB RAM, 128 GB HD
+- **Rex**: 3 GB RAM, 384 GB HD
+- **Wade**: 6 GB RAM, 512 GB HD
+
+Grade: 
+[False, True, False, True]
+Success: 
+False

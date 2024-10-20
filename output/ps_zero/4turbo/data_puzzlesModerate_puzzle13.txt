@@ -1,0 +1,15 @@
+Attempt: 
+
+:**
+- **January: Ling Ling, Po Lang**
+- **February: Gao Gao, Wang Yu**
+- **March: Hua Mei, Nan Sheng**
+- **April: Den Ping, Tai Shan**
+
+This solution should fit all the given constraints and combine the logical deductions we made to place each entity correctly.
+
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

@@ -1,0 +1,13 @@
+Attempt: 
+
+):
+
+- June 10: Stanley leaves Hardwick.
+- June 11: Kyle leaves Jackman.
+- June 12: Eugene leaves Daly City.
+- June 13: Chris leaves from Leland.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

@@ -1,0 +1,48 @@
+Attempt: 
+
+Sure, let's figure out this logic puzzle step by step. To begin, we'll make a grid with the entities and fill in the known information from the clues provided:
+
+### Initial Setup:
+1. **Planets:** Istryn, Quael, Rodul, Vestor
+2. **Stars:** BDF 198, HV 491, MKP 427, PLC 120
+3. **Distances:** 41 light years, 43 light years, 45 light years, 47 light years
+
+### Clues Break Down:
+1. **Clue 1:** Istryn orbits HV 491 and is not the same planet that orbits PLC 120.
+    - Istryn -> HV 491
+    - Istryn ≠ PLC 120
+2. **Clue 2:** Vestor is either at 47 light years or orbits BDF 198.
+3. **Clue 3:** Istryn is closer than the planet orbiting MKP 427.
+4. **Clue 4:** Vestor orbits HV 491.
+    - Vestor -> HV 491
+    - Since Istryn also orbits HV 491 and both Istryn and Vestor cannot be the same, this creates a conflict unless they refer to a joint planetary system or the clue might be interpreted slightly differently.
+5. **Clue 5:** The planet orbiting PLC 120 is 2 light years closer than Rodul.
+    - Planet at PLC 120 = Rodul - 2 light years
+
+### Detailed Analysis:
+- With Clue 4 and Clue 1, since Istryn and Vestor can't both orbit HV 491 without referring to some complex scenario, we need to resolve this; let's assume Clue 4 might have been misinterpreted and revisit as needed.
+- Since Istryn is closer than the planet orbiting MKP 427, it must be one of the closer distances.
+- The planet orbiting PLC 120 is 2 light years closer than Rodul, so both can't be the closest or the farthest two (as there are only three distance options).
+
+### Filling The Grid Based on Analysis:
+1. Given Istryn -> HV 491 and closer than MKP 427, let's tentatively place Istryn at 41 light years, as it’s the closest option we have.
+2. The planet at PLC 120 would thus be 2 light years closer than Rodul:
+    - If Istryn is at 41, and neither PLC 120 nor Rodul can use 41 light-years, let's assume Rodul is at 45:
+        - PLC 120 then would be 43 light years.
+3. Vestor faults to having to be at one of the remaining distances left since it's contested where it orbits.
+    - Since it was interpreted as HV 491 and conflicts with Istryn, unless clarified, let's place Vestor at 47 light years.
+4. The only star left for Rodul by elimination is MKP 427.
+5. So MKP 427 is closer than Istryn's orbital star, this fits as Istryn is not at the farthest distance.
+
+### Final Assignments:
+- **Istryn** - HV 491, 41 light years
+- **Quael** - PLC 120, 43 light years (remaining combination)
+- **Rodul** - MKP 427, 45 light years
+- **Vestor** - Either HV 491 or BDF 198 (based on a possible ambiguity from the clues), 47 light years
+
+This assumes all details provided and understanding may need adjustments as new information or interpretations are clarified! This is my best setup with the provided data and possible interpretation of clues.
+
+Grade: 
+[False, True, True, False]
+Success: 
+False

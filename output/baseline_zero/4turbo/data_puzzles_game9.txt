@@ -1,0 +1,63 @@
+Attempt: 
+
+:**
+
+Let's use the provided clues to fill out the grid by linking each student with their respective ship and start month for the assignment.
+
+1. **Henrietta's assignment is on the Odyssey.**
+   - This is straightforward. Henrietta = Odyssey.
+
+2. **Darryl's study is either the project beginning in April or the project beginning in July.**
+   - Darryl's assignment either starts in April or July.
+
+3. **The study beginning in March is either the assignment on the Escape or Henrietta's project.**
+   - Since Henrietta is on the Odyssey, the project in March must be on the Escape.
+
+4. **Beulah's assignment starts 2 months before the assignment on the Liberty.**
+   - We need to determine where to place the Liberty and then assign Beulah accordingly.
+
+5. **Yvonne's assignment starts 1 month after the project on the Serenity.**
+   - We'll assign Yvonne to a month after Serenity.
+
+6. **The five projects are the study on the Orion, Beulah's study, Henrietta’s assignment, the project beginning in July and the assignment beginning in March.**
+   - This already aligns with what we figured out so far and eliminates any irrelevant options.
+
+We can start putting pieces together with these details:
+
+- Henrietta = Odyssey. We do not yet know the month.
+- March = Escape.
+- Liberty is 2 months after Beulah's assignment.
+
+Let's begin to assign specific months:
+
+- If March = Escape and Darryl is either April or July, and March is either Escape or Henrietta’s project, then Henrietta can't be in March.
+- Since Henrietta = Odyssey, therefore the Odyssey cannot be in March.
+- As Darryl is for April or July, let's provisionally place him on one of these, knowing that Henrietta hence must be either May or June (since July could be for Darryl).
+
+Looking at 2-month intervals before Liberty:
+- Beulah should start 2 months before Liberty. If Beulah were March, then May would be Liberty, or if Beulah were in April, then June would be Liberty, and then Yvonne would be July (since it's 1 month after Serenity, which would then be in June).
+
+To fit all:
+- Beulah’s assignment can't be as early as March or April since Liberty would need to be May or June for a 2-month gap.
+- Considering June for Liberty (since this satisfies the interval from Beulah's timeline), Beulah would start in April attributable to a 2-month gap.
+
+Then:
+- Beulah in April. Thus, Darryl in July.
+- Liberty in June. Beulah is 2 months before so, April for Beulah.
+- Yvonne is 1 month after Serenity, so Yvonne in July makes Serenity in June. This aligns as June can't be Liberty or any other already identified.
+
+Further, Henrietta starting in May as Odyssey.
+
+**Final assignment:**
+- Henrietta = Odyssey, May
+- Beulah = Orion, April
+- Darryl = Escape, July
+- Joy = Liberty, June
+- Yvonne = Serenity, July
+
+Each assignment fits with the constraints given by the clues.
+
+Grade: 
+[True, False, False, False, False]
+Success: 
+False

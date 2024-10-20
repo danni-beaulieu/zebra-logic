@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+   - Gene (35 liters, Grennel)
+   - Olga (25 liters, Travelore)
+   - Leroy (30 liters, Pinkster)
+   - Jeffrey (40 liters, Bistric)
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

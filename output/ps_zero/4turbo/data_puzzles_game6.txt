@@ -1,0 +1,14 @@
+Attempt: 
+
+):
+- Nolan’s Pine: 144 ft., 85 years
+- Roger’s Oak: 147 ft., 94 years
+- The Senator: 150 ft., 99 years
+- Old Jarvis: 153 ft., 79 years
+
+Each tree, their height, and age have been logically assigned consistent with all given clues.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

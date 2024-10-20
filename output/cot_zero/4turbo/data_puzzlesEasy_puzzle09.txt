@@ -1,0 +1,15 @@
+Attempt: 
+
+:**
+- Dog: **Jake**, Trainer: **Teresa**, Weeks: **8**
+- Dog: **Gizmo**, Trainer: **Stephanie**, Weeks: **7**
+- Dog: **Buster**, Weeks: **8**, (Trainer can't be Martha, Odette, or Teresa so must be the last person Stephanie, but it was Teresa who took Jake so adjust it)
+- Dog: Buster, Trainer: **Martha** (As Jake took up Teresa's slot, and Buster couldn’t be trained by Odette as she trained the 6 weeks dog.)
+- Dog: **Bailey**, Trainer: **Odette**, Weeks: **6**
+- Dog: **Buster**, Trainer: **Stephanie**, Weeks: **8**
+- Dog Assigned to **Martha**: the **9 weeks** dog. The remaining dog not assigned is Gizmo, so Martha trains Gizmo for **9 weeks**.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+   - Mt. Dawson (14340 ft), climbed first by Kermit Kramer
+   - Mt. Ingram (14600 ft), climbed first by Gerry Gamble
+   - Mt. Larsen (14210 ft), climbed first by Irving Igor 
+   - Mt. Norman (14470 ft), unassigned to a climber in this grid, likely by Hal Hudson as the only remaining option.
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

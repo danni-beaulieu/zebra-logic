@@ -1,0 +1,14 @@
+Attempt: 
+
+: 
+- January, Planets Align, Lynette
+- February, Vendetta, unassigned host (does not fit Manuel or Yolanda)
+- March, Bladescape, Ira
+- April, Rules of War, Yolanda
+
+Further determination like which house accommodates Vendetta, which if any, would require additional clues or deductive connections not readily apparent from the provided information.
+
+Grade: 
+[True, True, True, False]
+Success: 
+False

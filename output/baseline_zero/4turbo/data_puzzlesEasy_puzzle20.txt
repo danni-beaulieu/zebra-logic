@@ -1,0 +1,13 @@
+Attempt: 
+
+:** 
+- Anthony bought the spider for $75.
+- Lonnie bought the whip spider for $75.
+- Olga bought the redback spider for $60.
+- Tim bought the wolf spider for $90.
+- The raft spider cost $45.
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

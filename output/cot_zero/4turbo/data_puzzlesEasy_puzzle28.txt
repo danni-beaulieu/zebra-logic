@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- September 1: Muriel with "Kip and Ken"
+- September 8: Wayne with "Heaven's Seal"
+- September 15: Latasha with "Ohio Haunts"
+- September 22: Sherrie with "Stars Below"
+
+Grade: 
+[False, False, True, True]
+Success: 
+False

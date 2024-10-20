@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- Methuselah: Pitch Belly, 50 years
+- Shelly: Swoop-backed, 68 years
+- Toredo: Black Neck, 14 years
+- Yoda: Two Rimmed, 32 years
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

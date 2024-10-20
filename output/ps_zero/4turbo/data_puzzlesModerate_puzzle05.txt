@@ -1,0 +1,14 @@
+Attempt: 
+
+**:
+   - Methuselah: 32 years old, swoop-backed
+   - Shelly: 68 years old, black neck
+   - Toredo: 14 years old, pitch belly
+   - Yoda: 50 years old, two rimmed
+
+While solving, we maintained consistency with clues and logical deductions to ensure each attribute was uniquely and correctly distributed.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

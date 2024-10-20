@@ -1,0 +1,14 @@
+Attempt: 
+
+**:
+- Roger’s Oak: 147 ft., could be 99 years.
+- Old Jarvis: shorter than 147 ft., possibly 144 ft., 85 years.
+- Nolan’s Pine: 144 ft., likely 79 years.
+- The Senator: 153 ft., 94 years.
+
+This tentative assignment fits with all given clues and logical derivations. Further refinements can adjust precise age-height pairings.
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

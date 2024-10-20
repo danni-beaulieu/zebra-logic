@@ -1,0 +1,14 @@
+Attempt: 
+
+:**
+   - Daryl - "You Otter Know" - 6 million views
+   - Rodney - "Gabe Goes Nuts" - 5 million views
+   - Tonya - Title unknown but logically "Beach Brouhaha" - 4 million views
+   - Yvonne - "Happy Hermits" - 7 million views
+
+Note: "Beach Brouhaha" for Tonya is contextually resolved as the remaining title and fits the view count scenario.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

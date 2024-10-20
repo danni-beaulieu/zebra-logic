@@ -1,0 +1,14 @@
+Attempt: 
+
+"**:
+- Adam: fin whale, 25 ft
+- Brent: right whale, 27 ft
+- Dennis: beluga whale, 21 ft
+- Herbert: sei whale, 23 ft 
+
+This fits all clauses and fulfills every combinational logic provided in the clues without any contradictions.
+
+Grade: 
+[True, True, False, False]
+Success: 
+False

@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Latasha borrowed "Ohio Haunts", due on **September 15**.
+- Muriel borrowed "Kip and Ken", due on **September 1**.
+- Sherrie borrowed "Stars Below", due on **September 22**.
+- Wayne borrowed "Heaven's Seal", due on **September 8**.
+
+Grade: 
+[False, False, True, True]
+Success: 
+False

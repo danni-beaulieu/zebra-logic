@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- **Gene** has the **Grennel pack** of **35 liters**.
+- **Jeffrey** has the **Bistric pack** of **40 liters**.
+- **Leroy** has the **Pinkster pack** of **30 liters**.
+- **Olga** has the **Travelore pack** of **25 liters**.
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

@@ -1,0 +1,15 @@
+Attempt: 
+
+**
+
+- Adagio III: Betsy Becker, 25 ft
+- Irish Pride: Ernesto Ellis, 28 ft
+- Restless Wave: Ann Alvarado, 22 ft
+- White Squid: Hetta Hensley, 31 ft
+
+Clue 5 alongside this arrangement helps verify since its condition fits what we have deduced, stating that Ernesto owns Irish Pride and Betsy owns another vessel which matches our solution.
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

@@ -1,0 +1,14 @@
+Attempt: 
+
+:**
+- Game 1: Mae, Reti Opening
+- Game 2: Tara, Evans Gambit
+- Game 3: Rose, Torre Attack
+- Game 4: Luis, Giuoco Start
+
+Several permutations to check this, among various arrangements, this one fits all clues without contradictions based on the logical inferences.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

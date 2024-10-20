@@ -1,0 +1,25 @@
+Attempt: 
+
+):
+- **Charles City:**
+  - *County: Nantucket*
+  - *Population: 34000*
+
+- **Luther:**
+  - *County: Essex*
+  - *Population: 37000*
+
+- **Oakland Acres:**
+  - *County: Berkshire*
+  - *Population: 34000*
+
+- **Quasqueton:**
+  - *County: Hampshire*
+  - *Population: 31000*
+
+The cities, counties, and populations are allocated based on the given clues and the deductions correctly adhering to the logical constraints set out by the puzzle, mapping all conditions correctly.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- HV 491 orbits Istryn which is 41 light years away.
+- BDF 198 orbits Vestor which is 47 light years away.
+- PLC 120 orbits Rodul which is 45 light years away.
+- MKP 427 orbits Quael which is 43 light years away.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

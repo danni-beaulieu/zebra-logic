@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Bai Yun, born in January, mother Wang Yu
+- Den Ping, born in February, mother Nan Sheng
+- Ling Ling, born in March, mother Tai Shan
+- Gao Gao, born in April, mother Tian Tian
+
+Grade: 
+[False, True, False, False]
+Success: 
+False

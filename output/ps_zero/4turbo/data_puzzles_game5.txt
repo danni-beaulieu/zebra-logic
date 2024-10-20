@@ -1,0 +1,14 @@
+Attempt: 
+
+"):
+- Archadon = 78 million years = 1000
+- Mirasaurus = 69 million years = 1250
+- Pilodontus = 78 million years = 1000
+- Senosaurus = 85 million years = 750
+
+This handles all prices, dinosaurs, and ages correspondingly per the clues provided.
+
+Grade: 
+[False, True, True, False]
+Success: 
+False

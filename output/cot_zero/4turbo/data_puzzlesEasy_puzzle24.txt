@@ -1,0 +1,12 @@
+Attempt: 
+
+**:
+- Bertha made Cajun chili and scored 63.
+- Hattie made Turkey soup and scored 56.
+- Luther made Smoked pork and scored 49.
+- Wade made Cashew tofu and scored 42.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

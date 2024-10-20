@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- September 1: "Kip and Ken" (Wayne)
+- September 8: "Not yet identified" title (Muriel)
+- September 15: "Ohio Haunts" (Latasha)
+- September 22: "Stars Below" (Sherrie)
+
+Grade: 
+[False, False, True, True]
+Success: 
+False

@@ -1,0 +1,14 @@
+Attempt: 
+
+
+   - **Ernesto**: 112 years, Texas
+   - **Larry**: 110 years, Virginia
+   - **Olivia**: 111 years, Missouri
+   - **Preston**: 109 years, Alaska
+
+These roles fit all the conditions given in the clues.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

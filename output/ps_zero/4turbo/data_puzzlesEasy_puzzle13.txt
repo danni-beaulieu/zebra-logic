@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- **Citizen Trust**: 7% return, Manager: Walter Wade
+- **First Crescent**: 9% return, Manager: Kip Kerr
+- **Hudson Brook**: 6% return, Manager: Mike McClain
+- **Oak Capital**: 8% return, Manager: Ule Underwood
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

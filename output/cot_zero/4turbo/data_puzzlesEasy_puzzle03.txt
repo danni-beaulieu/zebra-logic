@@ -1,0 +1,15 @@
+Attempt: 
+
+:
+
+- Allen at Camlin Hotel, paid $12.50
+- Kate was picked up at the Space Needle, paid $6.50
+- Max was picked up at the Arctic Building, paid $15.50
+- Vera was picked up at the Moore Mansion, paid $9.50
+
+This solution meets all provided clues and fare logic.
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

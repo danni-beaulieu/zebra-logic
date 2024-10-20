@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Herbert studies the 25 ft sei whale.
+- Brent studies the 25 ft fin whale.
+- Adam studies the 21 ft right whale.
+- Dennis studies the 27 ft beluga whale.
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- January: Ling Ling, mother: Po Lang
+- February: Gao Gao, mother: Wang Yu
+- March: Hua Mei, mother: Nan Sheng
+- April: Den Ping, mother: Tai Shan
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

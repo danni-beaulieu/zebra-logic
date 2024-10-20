@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- Terrance @ 2:30 pm to Malta
+- Jeanne @ 4:30 pm to Jamaica
+- Claude @ 5:30 pm to Qatar
+- Pablo @ 3:30 pm to Peru
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

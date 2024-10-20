@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- Avery Bridge: suspension, 10000 ft
+- Bay Bridge: cantilever, 11500 ft
+- Gorem Bridge: truss, 13000 ft
+- North Bridge: girder, 8500 ft
+
+Grade: 
+[True, True, False, False]
+Success: 
+False

@@ -1,0 +1,8 @@
+Attempt: 
+
+" based on the logic and clues given. Revise as necessary due to constraints observed.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

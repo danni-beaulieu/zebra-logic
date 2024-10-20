@@ -1,0 +1,14 @@
+Attempt: 
+
+:**
+- Claude - Jamaica - 5:30 pm
+- Jeanne - Malta - 4:30 pm
+- Pablo - Peru - 3:30 pm
+- Terrance - Qatar - 2:30 pm
+
+These assignments respect all the given clues and conditions.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

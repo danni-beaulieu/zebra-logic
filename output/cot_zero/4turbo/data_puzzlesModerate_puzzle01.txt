@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- Ernesto Ellis owns the Irish Pride (White Squid, 31 ft) and the Adagio III (28 ft).
+- Betsy Becker owns Restless Wave (25 ft).
+- Ann Alvarado owns the remaining unnamed boat, which is 22 ft.
+- The fourth boat and owner will be revealed once we identify the remaining person - Hetta Hensley, and the boat she owns must be the one not owned by the others, which by elimination will help us identify its length and name.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

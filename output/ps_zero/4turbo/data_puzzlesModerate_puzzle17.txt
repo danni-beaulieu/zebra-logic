@@ -1,0 +1,12 @@
+Attempt: 
+
+
+- **Luis**: 1st game, Torre Attack
+- **Tara**: 2nd game, Evans Gambit
+- **Rose**: 3rd game, Giuoco Start
+- **Mae**: 4th game, Reti Opening
+
+Grade: 
+[False, False, False, False]
+Success: 
+False
