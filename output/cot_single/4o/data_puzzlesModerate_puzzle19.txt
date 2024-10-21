@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- **1974:** Disco Mania, Hayco Inc.
+- **1975:** (Machine name not specified, by Pinnefore)
+- **1976:** Bowling Alley, Tarco Inc.
+- **1977:** Archer Quest, Dow Games
+
+Grade: 
+[True, False, True, True]
+Success: 
+False

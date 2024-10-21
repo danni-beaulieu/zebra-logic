@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+- Adam is with the Right Whale and is 21 ft long.
+- Brent is with the Fin Whale and is 25 ft long.
+- Dennis is with the Beluga Whale and is 23 ft long.
+- Herbert is with the Sei Whale and is 27 ft long.
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

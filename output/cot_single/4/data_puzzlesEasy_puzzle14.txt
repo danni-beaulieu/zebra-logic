@@ -1,0 +1,13 @@
+Attempt: 
+
+: 
+
+Istryn, 41 light years away, orbits HV 491 
+Vestor, 43 light years away, orbits PLC 120
+Quael, 45 light years away, orbits BDF 198
+Rodul, 47 light years away, orbits MKP 427
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

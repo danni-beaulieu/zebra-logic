@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Adrienne Day, Bold Service, 5
+Danny Trevor, Maximum Risk, 4
+Gabby Jones, Wild Ones, 5
+Virgil Katz, Fatal Sheen, 3
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

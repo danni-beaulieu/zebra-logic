@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Ed Ewing, lawyer, 10000
+Fred Francis, writer, 9500
+Jed Jarvis, teacher, 8500
+Kelly Kirby, doctor, 9000
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

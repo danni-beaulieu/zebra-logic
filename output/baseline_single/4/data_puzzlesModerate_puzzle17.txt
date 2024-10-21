@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Luis, Torre Attack, first 
+Rose, Reti Opening, second 
+Mae, Giuoco Start, third 
+Tara, Evans Gambit, fourth
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

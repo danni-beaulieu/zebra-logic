@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Toredo, pitch belly, 14 (computed directly from clues)
+- Methuselah, two rimmed, 32 (deduced from second clue options)
+- Yoda, black neck, 68 (available valid assignment)
+- Shelly, swoop-backed, 50 (left from elimination).
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

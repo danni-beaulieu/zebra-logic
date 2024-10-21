@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Old Jarvis, 144 ft., 94
+Nolan's Pine, 150 ft., 99
+Roger's Oak, 147 ft., 85
+The Senator, 153 ft., 79
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

@@ -1,0 +1,18 @@
+Attempt: 
+
+:**
+- Fatal Sheen, Gabby Jones, 5 nominations
+- Maximum Risk, Danny Trevor, 2 nominations
+- Bold Service, Adrienne Day, 3 nominations
+- Wild Ones, Virgil Katz, 4 nominations
+
+*Correcting Gabby Jones and Virgil Katz situation based on Clue 2, Fatal Sheen directed by Gabby received 5 noms (due to Katz's entry for movie-directed connection):*
+- Fatal Sheen, Gabby Jones, 5 nominations
+- Maximum Risk, Danny Trevor, 2 nominations
+- Bold Service, Adrienne Day, 3 nominations
+- Wild Ones, Virgil Katz, 4 nominations
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

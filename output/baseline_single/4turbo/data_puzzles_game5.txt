@@ -1,0 +1,12 @@
+Attempt: 
+
+: (Assumption based on price-to-age relationships derived)
+Arachadon, 1000, 69 million  
+Pilodontus, 750, 78 million  
+Mirasaurus, 500, 75 million  
+Senosaurus, 1250, 85 million
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

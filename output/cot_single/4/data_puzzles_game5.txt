@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+archadon, 1250, 69 million years
+mirasaurus, 500, 75 million years
+senosaurus, 750, 85 million years
+pilodontus, 1000, 78 million years
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

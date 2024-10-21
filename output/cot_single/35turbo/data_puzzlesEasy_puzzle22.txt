@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+January: Lynette, board game
+February: Vendetta
+March: Bladescape
+April: Yolanda, Planets Align
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

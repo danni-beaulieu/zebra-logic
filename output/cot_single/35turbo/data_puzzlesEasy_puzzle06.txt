@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+$375, Chiller Z, 10000 BTUs
+$440, Binson C40, 20000 BTUs
+$505, Freezon Flux, 10000 BTUs
+$570, Z-Free XL, 25000 BTUs
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

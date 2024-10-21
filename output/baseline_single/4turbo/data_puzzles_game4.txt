@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- **2007:** Criminal Bane, Real Name: Edsel Eaton
+- **2008:** Prism Shield, Real Name: Fred Fleming
+- **2009:** Ultra Hex, Real Name: Ned Nielsen
+- **2010:** Green Avenger, Real Name: Peter Powers
+
+Grade: 
+[False, True, True, False]
+Success: 
+False

@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- William on September 1st, $115000
+- Shannon on September 8th, $130000
+- Jim on September 15th, $85000
+- Bruce on September 29th, $100000
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

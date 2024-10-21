@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Latasha, Ohio Haunts, September 15
+Muriel, Heaven's Seal, September 8
+Sherrie, Stars Below, September 8
+Wayne, Kip and Ken, September 1
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

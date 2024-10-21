@@ -1,0 +1,12 @@
+Attempt: 
+
+ for the Second Puzzle:**
+- Tonya, "Gabe Goes Nuts", 4 million views
+- Rodney, "Beach Brouhaha", 5 million views
+- Daryl, "You Otter Know", 6 million views
+- Yvonne, "Happy Hermits", 7 million views
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

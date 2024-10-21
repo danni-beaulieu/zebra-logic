@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Bai Yun: Tian Tian's baby, born in March.
+- Den Ping: Unknown mother, born in February.
+- Gao Gao: Nan Sheng's baby, born in January.
+- Ling Ling: Tai Shan's baby, born in April.
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

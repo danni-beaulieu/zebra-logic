@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- January: Bai Yun (Tian Tian)
+- February: Den Ping (Yuan Zai)
+- March: Chi Chi (Wang Yu)
+- April: Ling Ling (Po Lang)
+
+Grade: 
+[True, False, True, False]
+Success: 
+False

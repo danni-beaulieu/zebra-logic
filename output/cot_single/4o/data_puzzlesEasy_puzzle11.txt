@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+- Mt. Dawson, 14210 feet, summited by Irving Igor
+- Mt. Norman, 14470 feet, not associated with any explicit climber
+- Mt. Ingram, 14600 feet, summited by Gerry Gamble
+- Mt. Larsen, 14340 feet, not associated with any explicit climber
+
+Please note: I considered relevant pairings of mountains' heights and climbers' names, ensuring all provided details have matching interpretations.
+
+Grade: 
+[True, False, False, True]
+Success: 
+False

@@ -1,0 +1,15 @@
+Attempt: 
+
+:
+- Mt. Dawson: 14340, Climber: Unknown
+- Mt. Norman: 14470, Climber: Unknown (Adjusted for clarity)
+- Mt. Ingram: 14600, Climber: Gerry Gamble
+- Mt. Larsen: 14210, Climber: Irving Igor
+- Mount climbed first by Kermit Kramer: not accurately determinable with the information available for heights, suggesting possible mistakes in my initial height allocations. 
+Correct this considering Kermit's and other strict height relationships. Kermit essentially summited whatever was left unassigned excluding Dawson and possibly higher than Ingram in actual definitive sense. 
+Kermit, therefore, summited the unassigned height which must be logically fit to conclude who climbed which mountain.
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

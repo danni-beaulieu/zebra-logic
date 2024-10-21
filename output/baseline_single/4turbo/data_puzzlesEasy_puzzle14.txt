@@ -1,0 +1,72 @@
+Attempt: 
+
+**Step-by-Step Logic Grid Puzzle Solution for First Set:**
+
+1. **Clue**: Olga's pack is 25 liters.
+   - Olga's pack = 25 liters
+
+2. **Clue**: The Pinkster pack is 5 liters smaller than the Grennel pack.
+   - Without absolute values for either, hold this information for combination with other clues.
+
+3. **Clue**: The 30 liter pack, the Bistric pack, and the Grennel pack are all different packs.
+   - The Bistric and Grennel packs can't be 30 liters.
+
+4. **Clue**: Of Leroy's pack and the Travelore pack, one is 25 liters and the other is 30 liters.
+   - Since Olga has the 25-liter pack, Leroy can't have 25 liters.
+   - Leroy's pack = 30 liters
+   - Travelore = 25 liters (because Olga's pack size matches and only 25 and 30 liters are options)
+
+5. **Clue**: Gene's pack is 35 liters.
+   - Gene's pack = 35 liters
+
+6. **Remaining Logic**:
+   - Four pack sizes are 25, 30, 35, and 40. Olga has 25 liters, Leroy has 30 liters, Gene has 35 liters.
+   - Jeffrey gets the remaining size = 40 liters.
+   - Grennel and Bistric aren't 30 liters; Gene's 35-liter pack must be either Pinkster or Grennel. 
+   - Since Pinkster is 5 liters smaller than Grennel, Gene's 35-liter pack must be Grennel, and Pinkster pack = 30 liters (next smallest). 
+   - Leroy = Pinkster = 30 liters.
+   - Jeffrey must have the Bistric pack, as it's the only one left, and since Grennel ≠ 30 liters, Jeffrey's 40-liter pack can’t be Grennel or Pinkster.
+
+**Final Assignments for First Set**:
+- Olga, Travelore, 25 liters
+- Leroy, Pinkster, 30 liters
+- Gene, Grennel, 35 liters
+- Jeffrey, Bistric, 40 liters
+
+---
+
+**Step-by-Step Logic Puzzle Solution for Second Set:**
+
+1. **Clue**: Vestor orbits star HV 491.
+   - Vestor-star = HV 491
+
+2. **Clue**: Vestor is either the exoplanet 47 light years from earth or the planet orbiting star BDF 198.
+   - Vestor can't orbit BDF 198, because Vestor orbits HV 491.
+   - Vestor = 47 light years
+
+3. **Clue**: Istryn is closer to us than the exoplanet orbiting star MKP 427.
+   - Istryn < MKP 427-dist
+
+4. **Clue**: The exoplanet orbiting star PLC 120 is 2 light years closer to us than Rodul.
+   - PLC 120-dist = Rodul-dist - 2
+
+5. **Clue**: Istryn, the exoplanet orbiting star HV 491, and the planet orbiting star PLC 120 are all different planets.
+   - Istryn is neither HV 491 nor PLC 120.
+
+6. **Remaining Logic**:
+   - Distances: 41, 43, 45, 47. Vestor = 47. Remaining distances: 41, 43, 45.
+   - Stars: HV 491, MKP 427, PLC 120, BDF 198. Vestor-star = HV 491. Istryn-star ≠ HV 491 or PLC 120.
+   - Rodul-star = PLC 120 (assuming the closest condition constraint).
+   - Placing PLC 120-dist = Rodul-dist - 2, and Rodul's feasible distances are 45 or 43 due to Vestor already taking 47.
+   - If Rodul = 45, PLC 120-dist = 43.
+
+**Conjecture for Further Details**:
+- BDF 198 orbit's planet is the only remaining star for Istryn which is closer to us than MKP 427's planet. If MKP 427's planet is closer than Istryn, and given their order, MKP 427-dist might be 45, leaving 41 for Istryn.
+
+**Final Assignments for Second Set**:
+- This requires validation and further cross-check with distances and detailed star-planetary placements. Proceed with planetary distance adjustments in accordance with additional clarifying clues or detailed cross-checking.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

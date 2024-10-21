@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+
+- Methuselah, black neck, 32
+- Shelly, two rimmed, 68
+- Toredo, _, 14 (with now unspecified species)
+- Yoda, pitch belly, 50
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

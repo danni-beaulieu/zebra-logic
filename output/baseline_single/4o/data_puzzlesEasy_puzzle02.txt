@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- June 10: Stanley departs Jackman.
+- June 11: Kyle departs Hardwick (it's the possible assignable option after considering other clues and possibilities).
+- June 12: Eugene departs Daly City.
+- June 13: Chris departs Leland.
+
+Grade: 
+[True, True, False, False]
+Success: 
+False

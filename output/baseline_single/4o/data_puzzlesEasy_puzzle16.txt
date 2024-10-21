@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- 1100 sq ft, La Palma, $1600/month
+- 1225 sq ft, Capitola, $1525/month
+- 1350 sq ft, Monticello, $1100/month
+- 1475 sq ft, Eagle Grove, $825/month
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

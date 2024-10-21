@@ -1,0 +1,51 @@
+Attempt: 
+
+Using the clues, we will analyze each statement to determine the relationships between the maximum depths, divers, and their order.
+
+1. "The contestant who went second dove 6 meters deeper than the diver who went seventh."
+- This sets a relationship involving depth differences between the second and seventh divers.
+
+2. "Brit Bradley went to a maximum depth of 107 meters."
+- We know Brit Bradley's exact diving depth, which is the maximum possible, 107 meters.
+
+3. "Hill Harvey went to a maximum depth of 104 meters."
+- We know Hill Harvey's diving depth, 104 meters.
+
+4. "The four divers were Gumbo Giles, the diver who went seventh, the person who reached a depth of 107 meters, and the contestant who went first."
+- Identifies the participants and some specific roles, but due to the overlap of categories (person and order), we must be cautious linking these characteristics directly.
+
+Given all divers have unique orders and depths and using the maximum depth possibilities (107, 104, 101, 98 meters):
+
+Step by step analysis considering all clues:
+- Brit went to a depth of 107 meters. Assuming Brit is one of the divers stated, he could be the diver first or not seventh (because he has the deepest dive and cannot fit the relationship rule by itself).
+- Hill Harvey went to 104 meters.
+- Gumbo Giles is one of the divers. His exact order and depth are not directly stated, which we will have to deduce.
+
+From clue 1, a relationship between second and seventh diver about depth:
+- Brit went deepest, so Brit couldn't be seventh. 
+- Hill Harvey needed to be less deep than Brit by precisely 6 meters, fitting the depths if he was the seventh diver. But there is more depth left for 101 meters and 98 meters needing position still.
+- Thus, the second diver dove 6 meters deeper than 98 meters (only logical depth left for the seventh diver), which correctly makes the depth of the second diver 104 meters, fitting Hill Harvey here.
+
+Positions of Brit and Gumbo Giles thus:
+- Brit Bradley must be first (deeper than any other position relation fits).
+- Brit Bradley cannot be second by above logic, meaning either Gumbo or an unnamed diver goes second.
+- Brit cannot be seventh as it contradicts the deepest dive.
+- Thus, Hill Harvey went second and to a depth of 104 meters, and the seventh diver went to a depth of 98 meters.
+
+Only depths left and positions:
+- Brit, 107 meters, first.
+- Gumbo must fit into third or seventh. Given clue 4 specifying roles, Gumbo must be the third (since he’s neither first nor seventh, and Brit is the diver who went to 107 meters).
+- The unnamed diver goes at a depth of 98 meters in the seventh position.
+
+Final ordering:
+- Brit Bradley, 107 meters, first
+- Hill Harvey, 104 meters, second
+- Gumbo Giles, 101 meters, third
+- Unnamed Diver, 98 meters, seventh
+
+This fully utilizes all clues and logical deductions based on the provided relationships and identifies.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

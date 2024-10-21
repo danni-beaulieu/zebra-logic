@@ -1,0 +1,12 @@
+Attempt: 
+
+ for the second puzzle:**
+Draco - 5 years, 14.0 feet
+Bubba - 15 years
+Merlin - 20 years, 10.2 feet
+Barnabas - 10 years, 12.0 feet
+
+Grade: 
+[True, True, False, True]
+Success: 
+False

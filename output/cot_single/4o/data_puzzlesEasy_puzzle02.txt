@@ -1,0 +1,12 @@
+Attempt: 
+
+:  
+- Stanley departs June 10 from Jackman  
+- Kyle departs June 11 from Hardwick  
+- Chris departs June 12 from Leland  
+- Eugene departs June 13 from Daly City  
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

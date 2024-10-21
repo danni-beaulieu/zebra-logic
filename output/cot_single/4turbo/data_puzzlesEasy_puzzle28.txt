@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Borrower Muriel took out "Kip and Ken," due on September 1.
+- Borrower Wayne took out an unidentified book but not "Kip and Ken" (as it's Muriel's), not "Ohio Haunts" (as it's Latasha's), so either "Stars Below"; due on September 8.
+- Borrower Latasha took out "Ohio Haunts," due on September 15.
+- Borrower Sherrie took out "Stars Below," due on September 22.
+
+Grade: 
+[False, True, True, True]
+Success: 
+False

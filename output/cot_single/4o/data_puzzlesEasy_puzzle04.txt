@@ -1,0 +1,12 @@
+Attempt: 
+
+**:
+- The G-290 is made by Torvia for $625.
+- The DM-5000 is made by Lirios for $600.
+- The Tela G5 is made by Nectron for $575.
+- The Zenix 2C is made by Cober for $550.
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

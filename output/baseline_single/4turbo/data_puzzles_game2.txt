@@ -1,0 +1,12 @@
+Attempt: 
+
+ for Cake Configuration:**
+- Massey, sailboat, October 8.
+- Becker, turtle, October 7.
+- Keller, rocket ship, October 6.
+- Ingram (since he is the only one left unassigned), bowling pin, October 5.
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

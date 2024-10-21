@@ -1,0 +1,4 @@
+Grade Average: 
+44.39655172413793
+Success Percent: 
+27.586206896551722

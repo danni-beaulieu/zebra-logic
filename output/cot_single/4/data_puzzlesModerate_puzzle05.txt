@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+
+Toredo, Swoop-backed, 14
+Yoda, Black neck, 32
+Shelly, Pitch belly, 50
+Methuselah, Two-rimmed, 68
+
+Grade: 
+[True, True, True, False]
+Success: 
+False

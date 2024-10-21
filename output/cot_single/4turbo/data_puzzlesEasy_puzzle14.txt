@@ -1,0 +1,16 @@
+Attempt: 
+
+:**
+Istryn, BDF 198, 41 light years
+Quael, MKP 427, 45 light years
+Rodul, no specific star yet, 43 light years
+Vestor, HV 491, 47 light years
+Planet @ PLC 120, PLC 120, 43 light years
+
+**Review and Correction of overlap for Rodul (Mistake Identified):**
+- If PLC 120 = 43 LY, Rodul may need a different setting. However, with given connections and links, likely priority attention was needed on distance tie backs, which limits unless more clues are provided. Consequently, Rodul at 45 LY (unassigned star to verify and adjust).
+
+Grade: 
+[True, False, False, True]
+Success: 
+False

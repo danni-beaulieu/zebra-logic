@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Cober, G-290, 550
+Lirios, DM-5000, 550
+Nectron, Tela G5, 575
+Torvia, $625 camera, 625
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

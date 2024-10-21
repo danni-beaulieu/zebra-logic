@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- **Cheelia**, **MKP 427**, **45 light years**
+- **Ereph**, **BDF 198**, **41 light years**
+- **Llyrak**, **VJD 913**, **43 light years** (aligned with star not detailed and by elimination)
+- **Xidat**, **HV 491**, **47 light years** (corrected after fixing mixed clues and distances)
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

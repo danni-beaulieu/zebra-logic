@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Adam, fin whale, 25 
+Brent, right whale, 27 
+Herbert, sei whale, 23 
+Dennis, beluga whale, 21
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

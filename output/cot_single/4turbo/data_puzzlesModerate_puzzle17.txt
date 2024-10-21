@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+Luis - game 1
+Tara - Giuoco Start, game 2
+Rose - Torre Attack, game 3
+Mae - Reti Opening, game 4
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

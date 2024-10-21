@@ -1,0 +1,14 @@
+Attempt: 
+
+ for Second Puzzle:**
+- Citizen Trust, Walter Wade, 7%
+- First Crescent, Kip Kerr, 9%
+- Hudson Brook, Mike McClain, 6%
+- Oak Capital, Ule Underwood, 8% 
+
+Both puzzles are solved with the entities assigned as per the provided clues ensuring all details align logically.
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

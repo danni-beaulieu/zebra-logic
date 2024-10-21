@@ -1,0 +1,12 @@
+Attempt: 
+
+** for the second scenario:
+Bev Baird, Architect, 8500
+Cate Carlson, Academic, 9500
+Gilda Gray, Writer, 10000
+Ida Ingram, Teacher, 9000
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

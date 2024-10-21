@@ -1,0 +1,15 @@
+Attempt: 
+
+:
+- Al Anderson, Clara Street, April
+- Irma Ingram, (remaining street from Fred Lane or Norway Court based on consistency below), May
+- Dawn Daniels, Norway Court, June
+- Gail Garrett, York Court, July
+
+To finalize and correct inconsistencies with the list:
+Irma Ingram may manage the remaining street at May, which wasn't specified explicitly due to data provided; sequentially from elimination Fred Lane is left for May.
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

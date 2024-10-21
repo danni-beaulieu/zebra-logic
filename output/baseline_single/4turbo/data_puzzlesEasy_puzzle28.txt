@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Latasha, Ohio Haunts, September 15
+- Wayne, Kip and Ken, September 8
+- Sherrie, Stars Below, September 22
+- Muriel then must have the remaining book, Heaven's Seal, due September 1.
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

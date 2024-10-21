@@ -1,0 +1,13 @@
+Attempt: 
+
+:**
+
+- **January:** Exatris, **Company:** Techtrin
+- **February:** Foltron, **Company:** Omnipax
+- **March:** Worul, **Company:** Vexatech
+- **April:** Athios, **Company:** SpaceZen
+
+Grade: 
+[False, True, False, False]
+Success: 
+False

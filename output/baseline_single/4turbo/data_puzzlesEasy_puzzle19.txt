@@ -1,0 +1,17 @@
+Attempt: 
+
+:
+Olga, Travelore, 25 liters  
+Leroy, Pinkster, 30 liters  
+Gene, Grennel, 35 liters  
+Jeffrey, Bistric, 40 liters 
+
+Earring, $400, Burr Woods  
+Silver Coin, $325, Heffen Lane  
+Cannonball, $400, Colbert Run  
+Diamond Ring, $475, Gillis Park
+
+Grade: 
+[False, True, False, True]
+Success: 
+False

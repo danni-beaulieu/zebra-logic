@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Greg, Maroon, 21 minutes
+Herman, Orange, 22 minutes
+Kelly, Violet, 23 minutes
+Patrick, Silver, 24 minutes
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

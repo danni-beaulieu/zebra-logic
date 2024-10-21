@@ -1,0 +1,13 @@
+Attempt: 
+
+:**
+
+- Bertha, 56, smoked pork  
+- Hattie, 42, cashew tofu  
+- Luther, 49, turkey soup  
+- Wade, 63, cajun chili
+
+Grade: 
+[True, True, False, False]
+Success: 
+False

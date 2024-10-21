@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- Citizen Trust: 7%, Walter Wade
+- First Crescent: 9%, Kip Kerr
+- Hudson Brook: 6%, not yet specified (but since managers and funds were fully occupied, this doesn’t require another manager’s name as only the return matters)
+- Oak Capital: 8%, Ule Underwood
+
+Grade: 
+[False, True, True, True]
+Success: 
+False

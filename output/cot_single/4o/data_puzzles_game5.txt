@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+
+- **Prices and Dinosaurs:**
+  - Archadon: 750 dollars, 69 million years
+  - Pilodontus: 1000 dollars, 78 million years
+  - Senosaurus: 1250 dollars, 85 million years
+  - Mirasaurus: 500 dollars, 75 million years
+
+Grade: 
+[True, False, True, False]
+Success: 
+False

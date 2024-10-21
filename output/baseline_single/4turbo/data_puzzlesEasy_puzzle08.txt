@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+Ed Ewing, Lawyer, 10000 votes  
+Fred Francis, Writer, 9500 votes  
+Jed Jarvis, Teacher, 8500 votes  
+Kelly Kirby, Doctor, 9000 votes  
+
+This setup adheres to all clues provided.
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

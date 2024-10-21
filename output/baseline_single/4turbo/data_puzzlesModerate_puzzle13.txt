@@ -1,0 +1,14 @@
+Attempt: 
+
+ for Logic Grid Puzzle 2:**
+- **Ling Ling, Jan**
+- **Hua Mei, Feb, Wang Yu**
+- **Den Ping, Apr, Nan Sheng**
+- **Gao Gao, Mar, Po Lang**
+- **Tai Shan lacks a month, but if aligned, it’s May or the assumption goes wrong.**
+
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

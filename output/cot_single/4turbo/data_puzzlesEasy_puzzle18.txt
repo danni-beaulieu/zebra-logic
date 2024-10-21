@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- First: Bridget, #118
+- Second: Ophelia, #128
+- Third: Kermit, #126
+- Fourth: Stretch (remaining number #105 if not specified otherwise).
+
+Grade: 
+[False, True, False, False]
+Success: 
+False

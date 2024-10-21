@@ -1,0 +1,8 @@
+Attempt: 
+
+: Lonnie, Olga, Anthony, Tim, whip spider, wolf spider, raft spider, redback, $60, $60, $45, $75
+
+Grade: 
+[True, True, True, False]
+Success: 
+False

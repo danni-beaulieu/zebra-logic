@@ -1,0 +1,53 @@
+Attempt: 
+
+Let's process the second set of clues:
+
+1. Bladescape was played in March.
+2. The four games were the board game played in April, the game hosted at Ira's house, Planets Align, and the game hosted at Yolanda's house.
+3. Vendetta was either the game hosted at Ira's house or the game played in February.
+4. The game played in January was hosted by Lynette.
+
+Starting with clue 1:
+- March: Bladescape
+
+From clue 4:
+- January: Hosted by Lynette
+
+Considering clue 3:
+- Since Vendetta was either hosted by Ira or played in February, there are two possibilities.
+
+Considering clue 2:
+- Since the board games are discrete (April, hosted by Ira, Planets Align, hosted by Yolanda), if any one of these is identified, the others must be the remaining options. Also, one of them is in April.
+- Bladescape is in March already; therefore, it cannot be the April game nor hosted by Ira or Yolanda.
+
+If we assume ‌Games Align as one of the games in clue 2:
+- It must be in either April, Ira's, or Yolanda's, and it cannot have been played in January or March.
+
+Assessing possible host for January's game (clue 4):
+- Since Bladescape in March and January's game is hosted by Lynette, Bladescape wasn't hosted by Lynette.
+- Lynette's game in January is not Vendetta (because Vendetta is either hosted by Ira or in February).
+- Planets Align wasn't in January because that leaves it for April or to be hosted by either Ira or Yolanda.
+- If we assume Lynette hosted Vendetta, it contradicts the condition of Vendetta (Vendetta must be Ira's or in February).
+
+Since Lynette can't host Vendetta or Planets Align, and Bladescape is in March, Lynette must have hosted Rules of War in January. This leaves the remaining months:
+- February: The game is Vendetta because it couldn't be Ira's due to Lynette (clue 2 implies that Ira and Yolanda host different games).
+- April: The remaining game not yet placed is Planets Align.
+
+Host allocations are:
+- Ira hosts Vendetta per deduction.
+- Lynette hosts Rules of War.
+- Yolanda hosts Planets Align as it's the only remaining game not assigned, and it must fit in April.
+
+Summary of the second logic puzzle solution:
+
+January: Rules of War, Lynette
+February: Vendetta, Ira
+March: Bladescape, (host not Yolanda, Lynette, or Ira)
+April: Planets Align, Yolanda
+
+Therefore, Manuel must be hosting Bladescape in March.
+
+Grade: 
+[True, True, False, False]
+Success: 
+False

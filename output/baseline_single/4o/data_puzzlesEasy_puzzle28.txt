@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- September 1: Wayne, Heaven's Seal  
+- September 8: Muriel, Stars Below  
+- September 15: Latasha, Ohio Haunts  
+- September 22: Sherrie, Kip and Ken  
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

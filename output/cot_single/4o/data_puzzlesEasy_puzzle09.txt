@@ -1,0 +1,13 @@
+Attempt: 
+
+:**
+
+- **Bailey**, **Martha**, **9 weeks**
+- **Jake**, **Stephanie**, **7 weeks**
+- **Buster**, **Teresa**, **8 weeks**
+- **Gizmo**, **Odette**, **6 weeks**
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

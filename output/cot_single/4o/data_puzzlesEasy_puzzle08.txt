@@ -1,0 +1,15 @@
+Attempt: 
+
+":
+
+- Ed Ewing, doctor, 9500
+- Fred Francis, lawyer, 10000
+- Jed Jarvis, teacher, 8500
+- Kelly Kirby, writer, 9000
+
+This concludes the logical deductions based on the given clues and ensures that the constraints are satisfied.
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

@@ -1,0 +1,14 @@
+Attempt: 
+
+:**
+- Dean Courtis - Klionne - 2009
+- Klein - Sporrin - 2010
+- Gilda Frank - Casputi - 2008
+- Ken Jones - Gostroma - 2011
+
+This final assignment satisfies all conditions set by clues when adjusted for proper interpretation of times in relation to each other.
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+Barnabas, 12, 9.4 
+Bubba, 20, 14 
+Draco, 5, 10.2 
+Merlin, 15, 14
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

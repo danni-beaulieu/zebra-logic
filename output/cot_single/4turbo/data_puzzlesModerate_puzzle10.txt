@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Joann with Karla at 10:00am.
+- Earnest with Nelson at 12:00pm.
+- Ira with Tyler at 11:00am.
+- Frederick with Patrick at 9:00am.
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

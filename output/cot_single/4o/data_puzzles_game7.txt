@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- **21 minutes:** Greg, violet shirt
+- **22 minutes:** Patrick, violet shirt
+- **23 minutes:** Kelly, maroon shirt
+- **24 minutes:** Runner with orange shirt
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- January: Foltron (Omnipax)
+- February: Exatris (Omnipax)
+- March: Orchis (Vexatech)
+- April: Worul (Techtrin)
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

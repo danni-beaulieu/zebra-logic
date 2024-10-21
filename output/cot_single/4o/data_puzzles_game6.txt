@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+Old Jarvis, 144 ft., 79
+Nolan's Pine, 144 ft., ?
+Roger's Oak, 147 ft., 85
+The Senator, 153 ft., 94
+
+In terms of associating ages directly to the trees, the Senator is 153 ft. and 94 years old, while Roger's Oak is 147 ft. and 85 years old. Old Jarvis is shorter than Roger's Oak, so it must be shorter than Roger's Oak and hence likely 144 ft. While it doesn’t provide information necessarily for both tree names, it fits the given data within provided clues without extra assumptions. This leaves you with the remaining height/tallness comparison for Nolan's Pine of unknown age.
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

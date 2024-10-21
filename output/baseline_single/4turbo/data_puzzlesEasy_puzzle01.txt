@@ -1,0 +1,67 @@
+Attempt: 
+
+From the clues provided, we start by mapping out the given information and logical deductions based on the relationships and facts provided.
+
+**Puzzle 1:**
+1. **Pack Sizes**: 
+    - Pinkster is 5 liters smaller than Grennel.
+    - Olga’s pack is 25 liters.
+    - The 30-liter pack, Bistric pack, and Grennel pack are all different.
+    - Leroy's pack and Travelore pack, one is 25 liters, and the other is 30 liters.
+    - Gene's pack is 35 liters.
+
+Mapping this out:
+- Since Olga's pack (25 liters), it can't be Bistric or Grennel (which differ from the 30-liter pack).
+- Gene's pack is 35 liters, so it can't be Pinkster (because Grennel would then be 40 liters, violating the remaining sizes).
+- Since the 30-liter pack can't be Bistric or Grennel and considering available sizes, Jeffrey's pack must be 40 liters and must be the Bistric pack.
+
+Continuing deductions:
+- Since Leroy must have either 25 or 30 liters and we know Olga has 25 liters, Leroy must have the 30 liters. Therefore, the only available size for Grennel is 35 liters.
+- Therefore, Gene must have the Grennel pack (35 liters), which makes Pinkster 30 liters and Travelore 25 liters.
+
+Thus, the full setup is:
+- Olga has the Travelore pack (25 liters).
+- Gene has the Grennel pack (35 liters).
+- Leroy has the Pinkster pack (30 liters).
+- Jeffrey has the Bistric pack (40 liters).
+
+**Puzzle 2:**
+1. **Sales and Albums**: 
+    - The album in June sold 200,000 more than Sodium Green's.
+    - Jagged Knee’s released in September.
+    - Jagged Knee's sold more than Sodium Green's.
+    - August release sold 100,000 less than January's release.
+    - Audio Array's album is either September's or the one with 1.5 million sales.
+
+Mapping of albums:
+- If Jagged Knee sold more than Sodium Green and was released in September, and the June release sold more than Sodium Green, it can’t be Sodium Green's album in June.
+- Range and difference in sales between June and January and between January and August helps establish a base.
+
+Sales pattern (from lowest to highest given the sales differences):
+- Let's assign 1.2 million sales to Sodium Green (remaining records are higher).
+- Then:
+    - January > August by 100,000, hence if Sodium Green is 1.2 million then possible scenarios could be: January 1.4 million, August 1.3 million; or if Sodium Green is 1.3 million (adjust accordingly).
+    - June > Sodium Green by 200,000, this can set June's sales at 1.4 million if Sodium Green sold 1.2 million.
+  
+Considering the constraint of Audio Array (either September or 1.5 million sales):
+- If Jagged Knee’s release in September and sold more than Sodium Green, September should have high sales, possibly 1.5 million, making Audio Array's album as September's release.
+
+Placing Sodium Green in January could align, as then:
+- Sodium Green in January: 1.2 million.
+- August just below January: 1.3 million.
+- June above Sodium Green: 1.4 million.
+- September (Jagged Knee): 1.5 million.
+
+Finalized setup:
+- Sodium Green, January, 1.2 million sales.
+- Unspecified band, August, 1.3 million sales.
+- Unspecified band, June, 1.4 million sales.
+- Jagged Knee (Audio Array, due to clue of September/1.5 million sales), September, 1.5 million sales.
+
+Unfortunately, without more information on Lip Savage or the precise matching of the other bands to their months and sales, the full specifics of all placements cannot be completely determined.
+
+
+Grade: 
+[False, True, False, False]
+Success: 
+False

@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Willie, 181, first
+Evelyn, 184, seventh
+Melissa, 190, second
+Natasha, 187, eighth
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

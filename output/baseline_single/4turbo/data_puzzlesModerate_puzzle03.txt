@@ -1,0 +1,41 @@
+Attempt: 
+
+:
+- Olga, Travelore, 25 liters
+- Leroy, Pinkster, 30 liters
+- Gene, Grennel, 35 liters
+- Jeffrey, Bistric, 40 liters
+
+**Second Puzzle: Bridges**
+
+1. **Clue 1:** North Bridge is the girder bridge.
+2. **Clue 2:** Gorem Bridge is 3000 feet longer than the girder bridge (North Bridge).
+3. **Clue 3:** Of Avery Bridge and North Bridge, one is the suspension bridge and the other is 8500 ft.
+4. **Clue 4:** Gorem Bridge is 1500 feet shorter than Bay Bridge.
+5. **Clue 5:** The 11500 ft bridge is either the truss structure or Bay Bridge.
+
+Start with fact: If North Bridge is the girder bridge, let's assign the lengths:
+Assuming North Bridge is the girder bridge and is the shortest (8500 ft), Gorem is then 8500 + 3000 = 11500 ft. This makes Bay Bridge 11500 + 1500 = 13000 ft, leaving the last bridge (Avery) at 10000 ft. 
+
+From Clue 3, if North Bridge is either an 8500 ft or the suspension bridge, North Bridge is not the suspension bridge (it’s girder), so Avery Bridge must be the suspension bridge at 10000 ft.
+
+From Clue 5, the 11500 ft bridge is Gorem, which cannot be truss (as it is Bay Bridge or truss-based on Clue 5), so it must be Bay Bridge. By elimination, Gorem Bridge is truss.
+
+So, the results are:
+- Avery Bridge, 10000 ft, Suspension
+- Bay Bridge, 13000 ft, Girder (as corrected from Clue 1: North Bridge, not Bay, is the Girder)
+- Gorem Bridge, 11500 ft, Truss
+- North Bridge, 8500 ft, Girder
+
+However, based on the assumption, Bay Bridge would already have a type (Girder). Let's correctly identify:
+- Avery Bridge, Suspension, 10000 ft
+- North Bridge, Girder, 8500 ft
+- Gorem Bridge, Truss, 11500 ft
+- Bay Bridge, Cantilever, 13000 ft
+ 
+This correctly uses all clues and entities without conflicting information.
+
+Grade: 
+[False, False, False, True]
+Success: 
+False
