@@ -1,0 +1,16 @@
+Attempt: 
+
+: 
+prices (dollars): $5.50, $6.50, $7.50, $8.50
+nectars: alfalfa, lemon blossom, sage, sourwood
+providers: Jim Joyner, Keith Koch, Linda Lynn, Midge Mintz
+
+Midge Mintz produces alfalfa honey for $5.50.
+Jim Joyner produces lemon blossom honey for $6.50.
+Keith Koch produces sage honey for $8.50.
+Linda Lynn produces sourwood honey for $7.50.
+
+Grade: 
+[True, True, False, False]
+Success: 
+False

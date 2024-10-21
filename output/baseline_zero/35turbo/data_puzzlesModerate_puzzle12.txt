@@ -1,0 +1,14 @@
+Attempt: 
+
+: 
+|            | City          | County       | Population     |
+|------------|---------------|--------------|----------------|
+| 1          | Charles City  | Essex        | 31000          |
+| 2          | Luther        | Berkshire    | 28000          |
+| 3          | Oakland Acres | Hampshire    | 34000          |
+| 4          | Quasqueton    | Nantucket    | 28000          |
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

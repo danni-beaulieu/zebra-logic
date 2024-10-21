@@ -1,0 +1,38 @@
+Attempt: 
+
+1. Bai Yun was born in January
+2. Chi Chi was Wang Yu's baby
+3. Ling Ling was born sometime after Tian Tian's baby
+4. Po Lang's baby was born sometime after Ling Ling
+5. Wang Yu's baby was born 1 month after Yuan Zai's baby
+
+Using clue 1, we know:
+Bai Yun - January
+
+Using clue 2, we know:
+Chi Chi - Wang Yu
+
+Using clue 5, we know:
+Yuan Zai - ? - ? - Wang Yu - Chi Chi
+This leaves Tian Tian and Po Lang as the possible mothers for the positions between Yuan Zai and Wang Yu.
+
+Using clues 3 and 4 together:
+If Tian Tian was the mother before Ling Ling, that means Po Lang must be the mother after Ling Ling. But Po Lang cannot be after Ling Ling, so Tian Tian is not before Ling Ling. Therefore, Tian Tian must be after Ling Ling.
+This gives us: Ling Ling - Tian Tian
+
+Putting everything together in the grid:
+Bai Yun - January - ?
+Chi Chi - Wang Yu - Yuan Zai - Ling Ling - Tian Tian
+
+Using clue 3 (Ling Ling was born sometime after Tian Tian's baby), we know that Ling Ling was born in March or April.
+
+Using clue 4 (Po Lang's baby was born sometime after Ling Ling), we know that Po Lang cannot be in January (Bai Yun) and must be after Ling Ling in March or April. This leaves April for Po Lang's baby.
+
+Final solution:
+Bai Yun - January - Po Lang - Ling Ling - Tian Tian
+Chi Chi - Wang Yu - Yuan Zai - April
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

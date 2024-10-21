@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+Mt. Larsen - 14210 feet - Irving Igor
+Mt. Dawson - 14340 feet - Kermit Kramer
+Mt. Norman - 14470 feet
+Mt. Ingram - 14600 feet - Kermit Kramer
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

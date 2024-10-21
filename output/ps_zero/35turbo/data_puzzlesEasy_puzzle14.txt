@@ -1,0 +1,25 @@
+Attempt: 
+
+: 
+Distances: 
+41 light years - Vestor 
+43 light years - Istryn 
+45 light years - Rodul 
+47 light years - Quael 
+
+Planets: 
+Istryn - HV 491 
+Quael - BDF 198 
+Rodul - PLC 120 
+Vestor - MKP 427 
+
+Stars: 
+BDF 198 - Quael 
+HV 491 - Istryn 
+MKP 427 - Vestor 
+PLC 120 - Rodul
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

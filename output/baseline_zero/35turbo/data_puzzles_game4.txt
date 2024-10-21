@@ -1,0 +1,14 @@
+Attempt: 
+
+: 
+| Year | Superhero | Real Name  |
+|------|-----------|------------|
+| 2007 | Criminal Bane | Peter Powers |
+| 2008 | Green Avenger | Fred Fleming |
+| 2009 | Prism Shield | Ned Nielsen |
+| 2010 | Ultra Hex | Edsel Eaton |
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

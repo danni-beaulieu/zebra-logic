@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Evelyn danced first and scored 190 points.
+- Natasha danced second and scored 184 points.
+- Melissa danced seventh and scored 187 points.
+- Willie danced eighth and scored 181 points.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

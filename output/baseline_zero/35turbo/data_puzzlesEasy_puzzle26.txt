@@ -1,0 +1,11 @@
+Attempt: 
+
+      | Candied Yams  | Chicken Cutlet | Mac and Cheese | Meatloaf | 
+|-------------|---------------|-----------------|----------------|---------|
+| Baking time | 30 minutes    | 25 minutes      | 25 minutes     | 40 minutes |
+| Temperature | 340 degrees   |                 |                | 410 degrees |
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

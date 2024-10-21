@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+Bai Yun was born in January to mother Yuan Zai
+Chi Chi was born in February to mother Wang Yu
+Den Ping was born in March to mother Po Lang
+Ling Ling was born in April to mother Tian Tian
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

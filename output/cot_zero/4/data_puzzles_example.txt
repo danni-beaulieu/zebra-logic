@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Gene owns the Pinkster pack that is 35 liters.
+Jeffrey owns the Bistric pack that is 30 liters.
+Leroy owns the Travelore pack that is 40 liters.
+Olga owns the Grennel pack that is 25 liters.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

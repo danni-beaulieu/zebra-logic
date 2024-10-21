@@ -57,8 +57,8 @@ class PuzzleParser:
             puzzle.response = completion.choices[0].message
             puzzle.content = puzzle.response.content
             puzzle.grade_answer()
-            print("Grade: " + str(puzzle.grade))
-            print("Success: " + str(puzzle.success))
+            # print("Grade: " + str(puzzle.grade))
+            # print("Success: " + str(puzzle.success))
             puzzle.output_puzzle(outdir)
 
     def tabulate_score(self, expdir):

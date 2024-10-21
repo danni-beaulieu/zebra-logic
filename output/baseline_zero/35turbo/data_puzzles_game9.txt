@@ -1,0 +1,15 @@
+Attempt: 
+
+:
+|         | Students  | Ships     | Months   | 
+|---------|-----------|-----------|----------| 
+| 1       | Beulah    | Escape    | June     |
+| 2       | Darryl    | Liberty   | May      |
+| 3       | Henrietta | Odyssey   | April    |
+| 4       | Joy       | Orion     | March    |
+| 5       | Yvonne    | Serenity  | July     |
+
+Grade: 
+[False, False, True, False, False]
+Success: 
+False

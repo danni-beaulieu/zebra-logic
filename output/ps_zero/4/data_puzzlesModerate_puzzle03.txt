@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+
+- Avery Bridge is a suspension bridge and is 10000 feet.
+- Bay Bridge is a cantilever bridge and is 13000 feet.
+- Gorem Bridge is a truss bridge and is 11500 feet.
+- North Bridge is a girder bridge and is 8500 feet.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

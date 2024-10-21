@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+1. The Cannonball was sold for $250 and was found at Colbert Run.
+2. The Diamond Ring was sold for $475 and was found at Gillis Park.
+3. The Earring was sold for $400 and was found at Burr Woods.
+4. The Silver Coin was sold for $325 and was found at Heffen Lane.
+
+Grade: 
+[False, True, False, True]
+Success: 
+False

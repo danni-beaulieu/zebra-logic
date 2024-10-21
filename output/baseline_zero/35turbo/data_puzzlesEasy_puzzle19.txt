@@ -1,0 +1,15 @@
+Attempt: 
+
+:
+|         | Price  | Item        | Location     |
+|---------|--------|-------------|--------------|
+| 1       | $250   | Silver Coin | Heffen Lane  |
+| 2       | $325   | Earring     | Colbert Run  |
+| 3       | $400   | Cannonball  | Burr Woods   |
+| 4       | $475   | Diamond Ring|              |
+| 5       |        | Silver Coin |              |
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

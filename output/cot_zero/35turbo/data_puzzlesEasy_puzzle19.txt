@@ -1,0 +1,11 @@
+Attempt: 
+
+:
+- Heffen Lane: Cannonball
+- Burr Woods: Silver Coin
+- Gillis Park: Diamond ring, Earring
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

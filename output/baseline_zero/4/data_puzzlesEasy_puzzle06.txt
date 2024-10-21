@@ -1,0 +1,13 @@
+Attempt: 
+
+: 
+
+Z-Free XL is $505 and has a 10000 BTUs capacity.
+Binson C40 is $570 and has a 5000 BTUs capacity.
+Freezon Flux is $375 and has a 20000 BTUs capacity.
+Chiller Z is $375 and has a 25000 BTUs capacity.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

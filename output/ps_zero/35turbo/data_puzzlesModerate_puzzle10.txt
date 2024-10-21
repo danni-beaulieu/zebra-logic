@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+|          | Karla    | Nelson  | Patrick | Tyler   |
+|----------|----------|---------|---------|---------|
+| Earnest  | Tyler    |         |         |         |
+| Frederick|          |         | 11:00am |         |
+| Ira      | Karla    |         |         |         |
+| Joann    |          | 11:00am | 9:00am  | 9:00am  |
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

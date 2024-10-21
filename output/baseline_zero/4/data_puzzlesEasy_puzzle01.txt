@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Audio Array released in January with 1.5 million copies sold.
+- Jagged Knee released in September with 1.2 million copies sold.
+- Lip Savage released in June with 1.5 million copies sold.
+- Sodium Green released in August with 1.3 million copies sold.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

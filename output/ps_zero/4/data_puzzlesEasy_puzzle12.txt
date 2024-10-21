@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+
+Annie is with Rafael at 11:00am.
+Charlie is with Sophie at 12:00pm.
+Gordon is with Orlando at 10:00am.
+Joann is with Karla at 9:00am.
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

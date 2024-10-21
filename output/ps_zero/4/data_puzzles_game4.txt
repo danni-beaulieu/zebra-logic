@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+- Criminal Bane is Peter Powers who started his crusade in 2007.
+- Green Avenger is Fred Fleming who started his crusade in 2008.
+- Ultra Hex is Ned Nielsen who started his crusade in 2009.
+- Prism Shield is Edsel Eaton who started his crusade in 2010.
+
+Grade: 
+[True, False, True, False]
+Success: 
+False

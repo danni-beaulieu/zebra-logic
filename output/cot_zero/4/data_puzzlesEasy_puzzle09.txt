@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Bailey was trained by Martha for 9 weeks.
+- Buster was trained by Stephanie for 8 weeks.
+- Gizmo was trained by Odette for 6 weeks.
+- Jake was trained by Teresa for 7 weeks.
+
+Grade: 
+[True, False, False, True]
+Success: 
+False

@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+
+Bai Yun is the baby panda born in January, its mother is Wang Yu.
+Den Ping is the baby panda born in February, its mother is Nan Sheng.
+Ling Ling is the baby panda born in March, its mother is Tai Shan.
+Gao Gao is the baby panda born in April, its mother is Tian Tian. 
+
+
+Grade: 
+[False, True, False, False]
+Success: 
+False

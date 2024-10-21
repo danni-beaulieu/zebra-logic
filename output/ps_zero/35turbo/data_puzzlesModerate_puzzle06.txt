@@ -1,0 +1,16 @@
+Attempt: 
+
+:
+- Evan's tree: Fir
+- Nolan's tree: Pine
+- Roger's tree: Oak
+- Zeke's tree: Spruce
+- Evan's tree age: 85 years
+- Nolan's tree height: 153 ft
+- Roger's tree height: 147 ft
+- Zeke's tree age: 94 years
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

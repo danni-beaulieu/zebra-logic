@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+|          | Votes | Candidate    | Profession  |
+|----------|-------|--------------|-------------|
+| Person 1 | 8500  | Fred Francis | lawyer      |
+| Person 2 | 9000  | Kelly Kirby  | writer      |
+| Person 3 | 9500  | Jed Jarvis   | teacher     |
+| Person 4 | 10000 | Ed Ewing     | doctor      |
+
+Grade: 
+[False, True, False, False]
+Success: 
+False

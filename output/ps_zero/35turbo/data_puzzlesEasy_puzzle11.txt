@@ -1,0 +1,14 @@
+Attempt: 
+
+: 
+| Heights | Mountains   | Climbers       |
+| ------- | ----------- | -------------- |
+| 14210   | Mt. Larsen  | Irving Igor    |
+| 14340   | Mt. Dawson  | Kermit Kramer  |
+| 14470   | Mt. Norman  | Gerry Gamble   |
+| 14600   | Mt. Ingram  | Hal Hudson     |
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

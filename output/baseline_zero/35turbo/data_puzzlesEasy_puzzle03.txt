@@ -1,0 +1,15 @@
+Attempt: 
+
+: 
+
+| Customer | Pickup Point    | Fare  |
+|----------|-----------------|-------|
+| Allen    | Arctic Building | $12.50|
+| Kate     | Camlin Hotel    | $6.50 |
+| Max      | Space Needle    | $15.50|
+| Vera     | Moore Mansion   | $9.50 |
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

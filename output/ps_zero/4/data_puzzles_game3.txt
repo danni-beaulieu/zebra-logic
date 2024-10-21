@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+Turkmenistan won 4 gold medals and 2 silver medals.
+Russia won 3 gold medals and 12 silver medals.
+Namibia won 2 gold medals and 8 silver medals.
+Paraguay won 1 gold medal and 1 silver medal.
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

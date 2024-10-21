@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+
+- Rodney's video is 'Beach Brouhaha' and it has 5 million views.
+- Tonya's video is 'Happy Hermits' and it has 4 million views.
+- Daryl's video is 'You Otter Know' and it has 6 million views.
+- Yvonne's video is 'Gabe Goes Nuts' and it has 7 million views.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

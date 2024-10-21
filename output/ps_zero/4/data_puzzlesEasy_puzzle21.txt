@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+- Alfalfa honey is produced by Midge Mintz for $5.50.
+- Lemon Blossom honey is produced by Linda Lynn for $6.50.
+- Sage honey is produced by Keith Koch for $7.50.
+- Sourwood honey is produced by Jim Joyner for $8.50.
+
+Grade: 
+[True, False, True, False]
+Success: 
+False

@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+|            | Companies | Machines     | Years |
+|------------|-----------|--------------|-------|
+| Machine 1  | Pinnefore | Disco Mania  | 1974  |
+| Machine 2  | Tarco Inc | Archer Quest | 1977  |
+| Machine 3  | Dow Games | Bowling Alley| 1976  |
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

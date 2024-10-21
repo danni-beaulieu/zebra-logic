@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+1. Al Anderson is managing the Clara Street project that starts in April.
+2. Irma Ingram is managing the York Court project that starts in May.
+3. Dawn Daniels is managing the Norway Court project that starts in June.
+4. Gail Garrett is managing the Fred Lane project that starts in July.
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

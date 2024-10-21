@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+1. BDF 198 has Ereph at 41 light years.
+2. Xidat orbits MKP 427 and is 45 light years from earth.
+3. Llyrak orbits HV 491 and is 43 light years from earth.
+4. Cheelia orbits VJD 913 and is 47 light years from earth.
+
+Grade: 
+[True, True, False, False]
+Success: 
+False

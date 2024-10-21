@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+The Russets used the trebuchet and landed from 165 ft.
+The Super Tubers used the catapult and landed from 150 ft.
+The Mad Mashers used the slingshot and landed from 180 ft.
+The Spud Chuckers used the vacuum cannon and landed from 135 ft.
+
+Grade: 
+[False, True, True, False]
+Success: 
+False

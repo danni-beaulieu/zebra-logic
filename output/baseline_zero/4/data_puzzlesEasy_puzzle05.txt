@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+- Daryl created "You Otter Know" and received 6 million views.
+- Rodney created "Gabe Goes Nuts" and received 4 million views.
+- Tonya created "Happy Hermits" and received 7 million views.
+- Yvonne created "Beach Brouhaha" and received 5 million views.
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

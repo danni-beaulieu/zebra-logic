@@ -1,0 +1,8 @@
+Attempt: 
+
+ ** Greg finished in 21 minutes and wore the Maroon shirt. Herman finished in 22 minutes and wore the Violet shirt. Kelly finished in 23 minutes and wore the Silver shirt. Patrick finished in 24 minutes and wore the Orange shirt.
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

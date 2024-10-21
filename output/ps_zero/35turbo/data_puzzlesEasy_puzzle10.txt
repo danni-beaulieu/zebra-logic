@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+1. Olivia, 111 years old, from Virginia
+2. Larry, 110 years old, from Missouri
+3. Ernesto, 111 years old, from Texas
+4. Preston, 112 years old, from Alaska.
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

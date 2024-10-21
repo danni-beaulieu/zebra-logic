@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+contract length   customers         cars
+1.     3 day           Penny Perry     Buick
+2.     5 day           Vicky Vaughan   Kia
+3.     4 day           Juana Juarez    Fiat
+4.     2 day           Rose Rowland    Jeep
+
+Grade: 
+[False, True, False, False]
+Success: 
+False

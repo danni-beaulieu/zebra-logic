@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+|        | Distances     | Planets   | Stars    |
+|--------|---------------|-----------|----------|
+| 1      | 41            | Rodul     |          |
+| 2      | 43            | PLC 120   |          |
+| 3      | 45            | Istryn    |          |
+| 4      | 47            | Vestor    | BDF 198  |
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

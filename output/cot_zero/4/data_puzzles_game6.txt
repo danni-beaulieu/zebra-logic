@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Old Jarvis is 144ft tall and 85 years old.
+Roger's Oak is 147ft tall and 94 years old.
+Nolan's Pine is 150ft tall. By process of elimination, Nolan's Pine must be 99 years old.
+The Senator is 153ft tall and 79 years old.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

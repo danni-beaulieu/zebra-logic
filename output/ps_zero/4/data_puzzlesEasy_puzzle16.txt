@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+
+* The 1100 sq ft home in La Palma rents for $1100/month.
+* The 1100 sq ft home in Eagle Grove rents for $825/month.
+* The 1225 sq ft home in Monticello rents for $1525/month.
+* The 1350 sq ft home also rents for $825/month.
+* The 1475 sq ft home in Capitola rents for $1600/month.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

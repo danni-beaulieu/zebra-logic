@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+1. Gizmo trained for 7 weeks with Odette.
+2. Jake trained for 8 weeks with Teresa.
+3. The unnamed dog trained for 9 weeks with Martha.
+4. The unnamed dog trained for 6 weeks with Stephanie.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

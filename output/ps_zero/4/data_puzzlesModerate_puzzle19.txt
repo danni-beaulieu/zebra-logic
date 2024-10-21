@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Disco Mania was released by Hayco Inc. in 1974.
+Bowling Alley was released by Pinnefore in 1975.
+Archer Quest was released by Dow Games in 1976.
+Meteor Rise was released by Tarco Inc. in 1977.
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

@@ -1,0 +1,14 @@
+Attempt: 
+
+:** 
+| Months    | Games          | Hosts    |
+|-----------|----------------|----------|
+| March     | Bladescape     |          |
+| April     | Rules of War   | Manuel   |
+| February  | Vendetta       | Yolanda  |
+| January   | Planets Align  | Ira      |
+
+Grade: 
+[False, True, False, True]
+Success: 
+False

@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Ernesto - Texas - 112 years old
+Larry - Missouri - N/A
+Olivia - Virginia - 110 years old
+Preston - Alaska - 109 years old
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+1. Old Jarvis is 79 years old and 147 feet tall.
+2. Nolan's Pine is 99 years old and 144 feet tall.
+3. Roger's Oak is 85 years old and 153 feet tall.
+4. The Senator is 94 years old and 150 feet tall.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

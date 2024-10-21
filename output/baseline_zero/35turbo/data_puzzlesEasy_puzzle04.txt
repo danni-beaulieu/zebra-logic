@@ -1,0 +1,14 @@
+Attempt: 
+
+: 
+| Prices | Companies | Cameras   |
+|--------|-----------|-----------|
+| 550    | Cober     | G-290     |
+| 575    | Nectron   | DM-5000   |
+| 600    | Lirios    | Tela G5   |
+| 625    | Torvia    | Zenix 2C  |
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+- Anthony (Lonnie) bought the whip spider for $90
+- Olga bought the raft spider for $30
+- Tim bought the redback spider for $45
+- The wolf spider was bought for $75, not by Anthony (Lonnie), Olga, or Tim, hence must have been bought by the remaining person i.e., Olga.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

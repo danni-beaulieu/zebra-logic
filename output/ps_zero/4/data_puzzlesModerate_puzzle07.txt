@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+
+Adam has the 21ft long right whale.
+Brent (Herbert) has the 23ft long beluga whale.
+Dennis has the 25ft long sei whale.
+Brent has the 27ft long fin whale.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

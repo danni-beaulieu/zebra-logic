@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+- Kermit Kramer first summited Mt. Norman (14470 feet).
+- Gerry Gamble first summited Mt. Ingram (14600 feet).
+- Irving Igor first summited Mt. Larsen (14210 feet).
+- Hal Hudson first summited Mt. Dawson (14340 feet).
+
+Grade: 
+[False, False, True, True]
+Success: 
+False

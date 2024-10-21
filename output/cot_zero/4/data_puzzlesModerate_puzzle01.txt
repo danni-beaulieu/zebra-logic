@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Adagio III is 25 ft and is owned by Betsy Becker.
+- Irish Pride is 28 ft and is owned by Ernesto Ellis.
+- Restless Wave is 22 ft and is owned by Ann Alvarado.
+- White Squid is 31 ft and is owned by Hetta Hensely.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

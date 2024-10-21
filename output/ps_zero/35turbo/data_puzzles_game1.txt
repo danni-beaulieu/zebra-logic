@@ -1,0 +1,15 @@
+Attempt: 
+
+:
+|          | Camping | Cycling | Hang Gliding | Kayaking |
+|----------|---------|---------|--------------|----------|
+| Dustin   |         |         | 2004         |          |
+| James    | 2002    |         |              |          |
+| Yvonne   |         |         |              |          |
+| Zachary  |         |         |              | 2003     |
+|          |         | 2004    |              |          |
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

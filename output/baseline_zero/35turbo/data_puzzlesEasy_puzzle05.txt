@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+| Views       | Authors | Titles           |
+|-------------|---------|------------------|
+| 4 million   | Tonya   | Happy Hermits    |
+| 5 million   | Rodney  | Beach Brouhaha   |
+| 6 million   | Daryl   | You Otter Know   |
+| 7 million   |         | Happy Hermits    |
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

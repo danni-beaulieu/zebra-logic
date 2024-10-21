@@ -1,0 +1,8 @@
+Attempt: 
+
+: Kate was picked up at the Space Needle and paid $6.50, Allen was picked up at the Camlin Hotel and paid $9.50.
+
+Grade: 
+[True, True, False, False]
+Success: 
+False

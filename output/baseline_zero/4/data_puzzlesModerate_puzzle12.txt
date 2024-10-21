@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+Charles City is in Berkshire with a population of 31000.
+Luther is in Nantucket with a population of 37000.
+Oakland Acres is in Essex with a population of 28000.
+Quasqueton is in Hampshire with a population of 34000.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Adagio III is 22 ft long and owned by Ann Alvarado.
+- Irish Pride is 25 ft long and owned by Betsy Becker.
+- Restless Wave is 28 ft long and owned by Ernesto Ellis.
+- White Squid is 31 ft long.
+
+Grade: 
+[True, True, True, False]
+Success: 
+False

@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+1. Charles City is in Berkshire County with a population of 31000.
+2. Luther is in Oakland Acres with a population of 37000.
+3. Quasqueton is in Essex County with a population of 28000.
+4. The city in Hampshire County is Nantucket with a population of 34000.
+
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

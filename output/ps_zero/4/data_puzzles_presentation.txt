@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+Fatal Sheen, 2 nominations, Virgil Katz 
+Maximum Risk, 4 nominations, Gabby Jones
+Bold Service, 5 nominations, Adrienne Day
+Wild Ones, 3 nominations, Danny Trevor
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

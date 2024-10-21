@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Ira is working with Sophie at 9:00am.
+Frederick is working with Nelson at 10:00am.
+Harold is working with Karla at 11:00am.
+Charlie is working with Orlando at 12:00pm.
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

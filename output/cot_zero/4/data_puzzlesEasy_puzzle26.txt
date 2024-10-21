@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- The meatloaf cooks at 350 degrees for 40 minutes.
+- The candied yams cook at 325 degrees for 30 minutes.
+- The chicken cutlet cooks at 410 degrees for 35 minutes.
+- The mac and cheese cooks at 340 degrees for 25 minutes.
+
+Grade: 
+[False, True, False, False]
+Success: 
+False

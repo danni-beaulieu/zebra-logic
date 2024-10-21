@@ -1,0 +1,4 @@
+Grade Average: 
+26.949152542372882
+Success Percent: 
+13.559322033898304

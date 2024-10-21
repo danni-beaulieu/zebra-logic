@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+|         | Fares  | Customers | Pickup Points   |
+|---------|--------|-----------|-----------------|
+| Allen   | $12.50 | Vera      | Arctic Building |
+| Kate    | $9.50  | Kate      | Space Needle    |
+| Max     | $15.50 | Max       |                 |
+| Vera    | $6.50  | Allen     | Moore Mansion    |
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

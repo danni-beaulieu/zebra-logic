@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+- Sid Snyder reported on the Flooding on April 4th.
+- Tam Terry reported on the Earthquake on April 5th.
+- Peter Peck reported on the Royal wedding on April 6th.
+- Randy Reid reported on the Mass protests on April 7th.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

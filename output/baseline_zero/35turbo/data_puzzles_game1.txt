@@ -1,0 +1,15 @@
+Attempt: 
+
+:
+|            | 2001    | 2002    | 2003    | 2004   |
+|------------|---------|---------|---------|--------|
+| Dustin     | camping |         |         |        |
+| James      |         | cycling | camping | hang-gliding |
+| Yvonne     |         | cycling |         |        |
+| Zachary    |         |         |         | kayaking |
+| Activity   | camping | cycling | kayaking| hang-gliding |
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

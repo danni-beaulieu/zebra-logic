@@ -1,0 +1,16 @@
+Attempt: 
+
+:
+|            | Nan Sheng  | Tai Shan | Tian Tian | Wang Yu |
+|------------|------------|----------|-----------|---------|
+| Bai Yun    | Wang Yu    |          |           |         |
+| Den Ping   | Gao Gao     |          | Bai Yun   |         |
+| Gao Gao    | Nan Sheng  |          |           |         |
+| Ling Ling  |            | Tai Shan | Tian Tian |         | 
+
+Therefore, the final solution to the logic grid puzzle is completed.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

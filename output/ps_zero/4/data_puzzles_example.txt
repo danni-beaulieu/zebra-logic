@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+Olga has the 25-liters Travelore pack.
+Leroy has the 30-liters Bistric pack.
+Gene has the 35-liters Pinkster pack.
+Jeffrey has the 40-liters Grennel pack.
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

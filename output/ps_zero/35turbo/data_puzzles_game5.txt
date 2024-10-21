@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+|         | Prices  | Dinosaurs  | Ages         |
+|---------|---------|------------|--------------|
+| Fossil1 | 1250    | archadon    | 78 million  |
+| Fossil2 | 750      | pilodontus | 75 million  |
+| Fossil3 | 1000    | mirasaurus  | 69 million  |
+| Fossil4 | 500      | senosaurus | 85 million  |
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

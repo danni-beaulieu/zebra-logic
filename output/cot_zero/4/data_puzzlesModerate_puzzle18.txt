@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Charlie will be working with Orlando at 12:00pm.
+- Frederick will be working with Karla at 11:00am.
+- Harold will be working with Nelson at 10:00am.
+- Ira will be working with Sophie at 9:00am.
+
+Grade: 
+[True, True, False, False]
+Success: 
+False

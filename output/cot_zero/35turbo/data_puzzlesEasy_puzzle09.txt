@@ -1,0 +1,14 @@
+Attempt: 
+
+: 
+|       | Training (weeks) | Dog     | Trainer  |
+|-------|------------------|---------|----------|
+| 1     | 9                | Bailey  | Martha   |
+| 2     | 6                | Gizmo   | Odette   |
+| 3     | 8                | Buster  |          |
+| 4     | 7                | Jake    | Teresa   |
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

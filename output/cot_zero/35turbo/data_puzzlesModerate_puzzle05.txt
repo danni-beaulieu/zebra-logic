@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Methuselah: 14 years old, black neck
+Shelly: 32 years old, two rimmed
+Toredo: 14 years old, pitch belly
+Yoda: 50 years old
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

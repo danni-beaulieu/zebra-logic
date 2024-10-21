@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+
+March (Escape) - Beulah
+April (Serenity) - Yvonne
+May (Odyssey) - Henrietta
+June (Liberty) - Joy (the only student left)
+July (Orion) - Darryl
+
+Grade: 
+[False, False, False, False, False]
+Success: 
+False

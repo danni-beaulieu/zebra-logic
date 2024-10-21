@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+|         | Times       | Runners   | Shirt Colors |
+|---------|-------------|-----------|--------------|
+|         | 21 minutes  | Greg      | Silver       |
+|         | 22 minutes  | Herman    | Violet       |
+|         | 23 minutes  | Kelly     | Orange       |
+|         | 24 minutes  | Patrick   | Maroon       |
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

@@ -1,0 +1,33 @@
+Attempt: 
+
+|           | Scores | Chefs  | Dishes     |
+|-----------|--------|--------|------------|
+| 1         | 42     |        | Cashew Tofu|
+| 2         | 49     | Luther |            |
+| 3         | 56     |        |            |
+| 4         | 63     |        |            |
+
+|           | Scores | Chefs  | Dishes     |
+|-----------|--------|--------|------------|
+| 1         | 42     |        | Cashew Tofu|
+| 2         | 49     | Luther |            |
+| 3         | 56     |        |            |
+| 4         | 63     |        |            |
+
+Hattie, Cashew Tofu, 42 points
+Luther, Cajun Chili, 49 points
+Bertha, Turkey Soup, 56 points
+Wade, Smoked Pork, 63 points
+
+Therefore, the answer is:
+|           | Scores | Chefs  | Dishes        |
+|-----------|--------|--------|---------------|
+| 1         | 42     | Hattie | Cashew Tofu   |
+| 2         | 49     | Luther | Cajun Chili   |
+| 3         | 56     | Bertha | Turkey Soup   |
+| 4         | 63     | Wade   | Smoked Pork   |
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

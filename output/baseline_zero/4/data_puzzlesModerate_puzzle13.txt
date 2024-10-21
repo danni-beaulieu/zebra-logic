@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+Po Lang's baby is Ling Ling, born in January.
+Wang Yu's baby is Gao Gao, born in February.
+Nan Sheng's baby is Hua Mei, born in March.
+Tai Shan's baby is Den Ping, born in April.
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

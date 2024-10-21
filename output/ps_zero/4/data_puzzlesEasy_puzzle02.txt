@@ -1,0 +1,13 @@
+Attempt: 
+
+: 
+
+Stanley - June 10 - Hardwick
+Kyle - June 11 - Hardwick
+Eugene - June 12 - Daly City
+Chris - June 13 - Leland
+
+Grade: 
+[False, True, False, False]
+Success: 
+False

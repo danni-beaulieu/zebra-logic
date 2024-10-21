@@ -1,0 +1,10 @@
+Attempt: 
+
+:
+prices (dollars): Cannonball - $475, Diamond ring - $250, Earring - $325, Silver coin - $400
+items: Cannonball - Heffen Lane, Diamond ring - Colbert Run, Earring - Heffen Lane, Silver coin - Burr Woods
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

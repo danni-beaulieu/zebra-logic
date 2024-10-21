@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+
+Mad Mashers at 180 ft with a slingshot.
+Russets at 150 ft with a trebuchet.
+Spud Chuckers at 135 ft with a vacuum cannon.
+Super Tubers at 165 ft with a catapult.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

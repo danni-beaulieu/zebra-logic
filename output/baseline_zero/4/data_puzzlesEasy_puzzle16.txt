@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+1. The rental in Capitola is 1100 sq ft and cost $825/month.
+2. The rental in Eagle Grove is 1350 sq ft and cost $1100/month.
+3. The rental in La Palma is 1100 sq ft and cost $1100/month.
+4. The rental in Monticello is 1475 sq ft and cost $1600/month.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

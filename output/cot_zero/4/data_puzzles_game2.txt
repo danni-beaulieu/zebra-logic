@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Becker orders a turtle-shaped cake delivered on October 7.
+- Ingram orders a bowling-pin-shaped cake delivered on October 5.
+- Keller orders a rocket-shaped cake delivered on October 6.
+- Massey orders a sailboat-shaped cake delivered on October 8.
+
+Grade: 
+[True, False, False, True]
+Success: 
+False

@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Merlin is 15 years old and 10.2ft long.
+Barnabas is 20 years old and 12.0ft long.
+Bubba is 10 years old and 9.4ft long.
+Draco is 5 years old and 14.0ft long.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

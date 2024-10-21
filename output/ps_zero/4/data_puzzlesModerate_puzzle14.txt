@@ -1,0 +1,8 @@
+Attempt: 
+
+: Nan Sheng is the mother of Bai Yun who was born in January, Tian Tian is the mother of Den Ping who was born in February, Tai Shan is the mother of Gao Gao who was born in March, and Wang Yu is the mother of Ling Ling who was born in April.
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

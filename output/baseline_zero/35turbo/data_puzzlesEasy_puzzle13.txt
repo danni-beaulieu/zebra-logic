@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+|           | YTD returns | Hedge funds    | Managers     |
+|-----------|-------------|----------------|--------------|
+| 1         | 6%          | First Crescent | Kip Kerr     |
+| 2         | 7%          | Citizen Trust  | Walter Wade  |
+| 3         | 8%          | Hudson Brook    | Ule Underwood|
+| 4         | 9%          | Oak Capital     |  Mike McClain |
+
+Grade: 
+[False, True, False, False]
+Success: 
+False

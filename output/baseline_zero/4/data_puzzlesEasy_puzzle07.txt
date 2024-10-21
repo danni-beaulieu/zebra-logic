@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+Brit Bradley went first and dove to a max depth of 107 meters.
+Hill Harvey went second and dove to a max depth of 104 meters.
+Ed Elliott went third and dove to a max depth of 101 meters.
+Gumbo Giles went seventh and dove to a max depth of 98 meters.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

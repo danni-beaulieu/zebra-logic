@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+1. Old Jarvis: 150 ft., 94 years old
+2. Nolan's Pine: 144 ft., 85 years old
+3. Roger's Oak: 147 ft., 79 years old
+4. The Senator: 153 ft., 99 years old
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

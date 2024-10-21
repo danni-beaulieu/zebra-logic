@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+Citizen Trust is run by Walter Wade and had a return of 7%.
+First Crescent is managed by Kip Kerr and had a return of 9%.
+Hudson Brook is run by Mike McClain and had a return of 6%.
+Oak Capital is managed by Ule Underwood and had a return of 8%.
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

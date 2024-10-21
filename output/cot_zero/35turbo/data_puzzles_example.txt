@@ -1,0 +1,19 @@
+Attempt: 
+
+:
+Names: 
+Gene - 35 liters
+Jeffrey - Pinkster, 25 liters
+Leroy - 30 liters
+Olga - 25 liters
+
+Brands:
+Bistric - 35 liters
+Grennel - 30 liters
+Pinkster - 25 liters
+Travelore - 25 liters
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

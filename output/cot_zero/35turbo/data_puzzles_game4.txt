@@ -1,0 +1,11 @@
+Attempt: 
+
+:
+Year: 2007, 2008, 2009, 2010
+Superheroe: Criminal Bane (Fred Fleming), Ultra Hex (Ned Nielsen), Prism Shield, Green Avenger (Edsel Eaton)
+Real name: Edsel Eaton, Fred Fleming, Ned Nielsen, Peter Powers
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Bruce films on September 29th for $130,000.
+- Shannon films on September 8th for $115,000.
+- William films on September 1st for $100,000.
+- Jim films on September 15th for $85,000.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+|          | Tree         | Age          | Height       |
+|----------|--------------|--------------|--------------|
+| Evan     | Fir          | 79           | 150          |
+| Nolan    | Pine         | 87           | 147          |
+| Roger    | Oak          | 85           | 153          |
+| Zeke     | Spruce       | 94           | 144          |
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

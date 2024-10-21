@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+
+- Planet Istryn orbits the star MKP 427 and is 41 light years away from earth.
+- Planet Quael orbits the star PLC 120 and is 43 light years away from earth.
+- Planet Rodul orbits the star HV 491 and is 45 light years away from earth.
+- Planet Vestor orbits the star BDF 198 and is 47 light years away from earth.
+
+Grade: 
+[False, True, False, False]
+Success: 
+False

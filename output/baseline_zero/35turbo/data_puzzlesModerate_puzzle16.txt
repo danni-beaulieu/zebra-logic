@@ -1,0 +1,15 @@
+Attempt: 
+
+: 
+|           | Mangers       |      |       |        |
+| Streets   | Al Anderson   | Dawn | Gail  | Irma   |
+|-----------|---------------|------|-------|--------|
+| Clara St  | April         |      |       |        |
+| Fred Ln   |               |      |       |        |
+| Norway Ct | Dawn          | Dawn | May   |        |
+| York Ct   | July          | Gail | June  |        |
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

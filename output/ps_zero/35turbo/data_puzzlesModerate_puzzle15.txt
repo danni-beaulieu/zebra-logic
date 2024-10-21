@@ -1,0 +1,18 @@
+Attempt: 
+
+:
+|             | 2008        | 2009        | 2010        | 2011        |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| Dean Courtis|  Gostroma   |             |             |             |
+| Gilda Frank |  Klionne    |             |             |             |
+| Ken Jones   |             |             |             |  Sporrin    |
+| Klein       |  Casputi    |             |             |             |
+| Casputi     |   X         |             |             |             |
+| Gostroma    |             |             |             |             |
+| Klionne     |             |             |             |             |
+| Sporrin     |             |             |             |             |
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

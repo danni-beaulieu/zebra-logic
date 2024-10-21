@@ -1,0 +1,14 @@
+Attempt: 
+
+: 
+| Team          | Device         | Distance     |
+|---------------|----------------|--------------|
+| Mad Mashers   | trebuchet      | 180 ft       |
+| Russets       | catapult       | 150 ft       |
+| Spud Chuckers | slingshot      | 165 ft       |
+| Super Tubers  | vacuum cannon  | 135 ft       |
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+Avery Bridge: Cantilever, 8500 ft
+Bay Bridge: Suspension, 14500 ft
+Gorem Bridge: Girder, 13000 ft
+North Bridge: Girder, 10000 ft
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

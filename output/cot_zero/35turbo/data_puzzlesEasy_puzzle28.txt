@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+|          | September 1    | September 8    | September 15   | September 22   |
+|----------|----------------|----------------|----------------|----------------|
+| Latasha  |                |                | Ohio Haunts   |                |
+| Muriel   | Kip and Ken    |                |                |                |
+| Sherrie  |                |                |                |                |
+| Wayne    |                |                |                | Stars Below    |
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

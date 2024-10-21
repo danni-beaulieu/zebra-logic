@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+January: Worul (Vexatech)
+February: Exatris (Techtrin)
+March: Omnipax (Foltron)
+April: Athios (SpaceZen)
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

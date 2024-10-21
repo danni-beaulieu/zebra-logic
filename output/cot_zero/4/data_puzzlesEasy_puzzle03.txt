@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+1. Vera was picked up at the Moore Mansion and paid $9.50. 
+2. Max was picked up at Arctic Building and paid $15.50.
+3. Allen was picked up at Camlin Hotel and paid $12.50.
+4. Kate was picked up at Space Needle and paid $6.50.
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

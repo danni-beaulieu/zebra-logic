@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Teresa trained Bailey for 9 weeks.
+Stephanie trained Buster aka Jake for 8 weeks.
+Martha trained Gizmo for 7 weeks.
+Odette trained dogs for 6 weeks.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

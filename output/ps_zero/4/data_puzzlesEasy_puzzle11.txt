@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+
+1. Gerry Gamble climbed Mt. Ingram, which is 14470 feet tall.
+2. Hal Hudson climbed Mt. Dawson, which is 14340 feet tall.
+3. Irving Igor climbed Mt. Larsen, which is 14210 feet tall.
+4. Kermit Kramer climbed Mt. Norman, which is 14600 feet tall.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

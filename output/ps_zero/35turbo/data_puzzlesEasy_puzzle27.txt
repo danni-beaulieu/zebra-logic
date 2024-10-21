@@ -1,0 +1,16 @@
+Attempt: 
+
+: 
+Bai Yun was born in January
+Chi Chi was Wang Yu's baby
+Den Ping was born in February
+Ling Ling was born in March
+Po Lang was Wang Yu's baby
+Tian Tian was Yuan Zai's baby
+Wang Yu was Den Ping's mother
+Yuan Zai was Ling Ling's mother
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

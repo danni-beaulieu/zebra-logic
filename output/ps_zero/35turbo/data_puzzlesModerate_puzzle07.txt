@@ -1,0 +1,14 @@
+Attempt: 
+
+: 
+| Whale        | Name   | Length |
+|--------------|--------|--------|
+| Beluga whale | Dennis | 23 ft  |
+| Fin whale    |        | 25 ft  |
+| Right whale  | Brent  |        |
+| Sei whale    | Adam   | 25 ft  |
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

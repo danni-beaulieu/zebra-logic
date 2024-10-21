@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+| Movies         | Directors    | Nominations |
+|----------------|--------------|-------------|
+| Bold Service   | Adrienne Day |     3       |
+| Fatal Sheen    | Gabby Jones  |     2       |
+| Maximum Risk   | Danny Trevor |     2       |
+| Wild Ones      | Virgil Katz  |     5       |
+
+Grade: 
+[True, True, False, True]
+Success: 
+False

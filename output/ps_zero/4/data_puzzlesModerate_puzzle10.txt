@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+At 9:00am, Earnest will be working with Tyler.
+At 10:00am, Frederick will be working with Nelson.
+At 11:00am, Ira will be working with Patrick.
+At 12:00pm, Joann will be working with Karla.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

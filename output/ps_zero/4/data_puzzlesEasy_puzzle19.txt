@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+
+- The Silver Coin costing $400 was found at Burr Woods
+- The Diamond Ring costing $475 was found at Gillis Park 
+- The Cannonball costing $325 was found at Heffen Lane
+- The Earring costing $250 was found at Colbert Run
+
+Grade: 
+[True, False, False, True]
+Success: 
+False

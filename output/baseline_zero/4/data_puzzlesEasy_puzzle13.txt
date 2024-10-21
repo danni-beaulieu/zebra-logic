@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+- Kip Kerr runs First Crescent with a return of 6%.
+- Mike McClain runs Hudson Brook with a return of 8%.
+- Ule Underwood runs Oak Capital with a return of 9%.
+- Walter Wade runs Citizen Trust with a return of 7%.
+
+Grade: 
+[False, True, False, False]
+Success: 
+False

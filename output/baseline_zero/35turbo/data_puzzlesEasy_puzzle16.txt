@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+|         | Square Footage | Neighborhood | Rent   |
+|---------|----------------|--------------|--------|
+| House 1 | 1100 sq ft     | La Palma     | $825   |
+| House 2 | 1225 sq ft     | Monticello   | $1525  |
+| House 3 | 1350 sq ft     | Capitola     | $1600  |
+| House 4 | 1475 sq ft     | Eagle Grove  | $1100  |
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

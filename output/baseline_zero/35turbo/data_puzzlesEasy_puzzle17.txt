@@ -1,0 +1,92 @@
+Attempt: 
+
+|           | January    | February   | March      | April     |
+|-----------|------------|------------|------------|-----------|
+| Athios    |            |            |            |           |
+| Exatris   |            |            |            |           |
+| Foltron   |            |            |            |           |
+| Worul     |            |            |            |           |
+|-----------|------------|------------|------------|-----------|
+| Omnipax   |            |            |            |           |
+| SpaceZen  |            |            |            |           |
+| Techtrin  |            |            |            |           |
+| Vexatech  |            |            |            |           |
+
+1. The Foltron is either developed by Omnipax or Vexatech.
+2. The rocket launching in February is either Exatris or developed by Omnipax.
+3. The rockets launching in January, Foltron, developed by Vexatech, and Worul are the 4 rockets.
+4. The rocket launching in March is developed by Vexatech.
+5. Athios is developed by SpaceZen.
+
+From clue 5, we know that Athios is developed by SpaceZen.
+
+|           | January    | February   | March      | April     |
+|-----------|------------|------------|------------|-----------|
+| Athios    | SpaceZen   |            |            |           |
+| Exatris   |            |            |            |           |
+| Foltron   |            |            |            |           |
+| Worul     |            |            |            |           |
+|-----------|------------|------------|------------|-----------|
+| Omnipax   |            |            |            |           |
+| SpaceZen  |            |            |            |           |
+| Techtrin  |            |            |            |           |
+| Vexatech  |            |            |            |           |
+
+From clue 3, we know that the rocket launching in January is the Foltron developed by Vexatech, and one of the rockets launching in February has to be the rocket developed by Omnipax.
+
+|           | January    | February   | March      | April     |
+|-----------|------------|------------|------------|-----------|
+| Athios    | SpaceZen   |            |            |           |
+| Exatris   |            |            |            |           |
+| Foltron   | Vexatech   |            |            |           |
+| Worul     |            |            |            |           |
+|-----------|------------|------------|------------|-----------|
+| Omnipax   |            |            |            |           |
+| SpaceZen  |            |            |            |           |
+| Techtrin  |            |            |            |           |
+| Vexatech  |            |            |            |           |
+
+From clue 1, if the Foltron is developed by Vexatech, then the rocket launching in February has to be Exatris developed by Omnipax. This means the rocket launching in April has to be Foltron developed by Omnipax.
+
+|           | January    | February   | March      | April     |
+|-----------|------------|------------|------------|-----------|
+| Athios    | SpaceZen   |            |            |           |
+| Exatris   |            | Omnipax    |            |           |
+| Foltron   | Vexatech   |            |            | Omnipax   |
+| Worul     |            |            |            |           |
+|-----------|------------|------------|------------|-----------|
+| Omnipax   |            |            |            |           |
+| SpaceZen  |            |            |            |           |
+| Techtrin  |            |            |            |           |
+| Vexatech  |            |            |            |           |
+
+From clue 4, we know that the rocket launching in March is developed by Vexatech. Therefore, the rocket launching in March has to be the Worul.
+
+|           | January    | February   | March      | April     |
+|-----------|------------|------------|------------|-----------|
+| Athios    | SpaceZen   |            |            |           |
+| Exatris   |            | Omnipax    |            |           |
+| Foltron   | Vexatech   |            |            | Omnipax   |
+| Worul     |            |            | Vexatech   |           |
+|-----------|------------|------------|------------|-----------|
+| Omnipax   |            |            |            |           |
+| SpaceZen  |            |            |            |           |
+| Techtrin  |            |            |            |           |
+| Vexatech  |            |            |            |           |
+
+Therefore, the final solution is:
+
+|           | January    | February   | March      | April     |
+|-----------|------------|------------|------------|-----------|
+| Athios    | SpaceZen   |            |            |           |
+| Exatris   |            | Omnipax    |            |           |
+| Foltron   | Vexatech   |            |            | Omnipax   |
+| Worul     |            |            | Vexatech   |           |
+|-----------|------------|------------|------------|-----------|
+| Omnipax   |            |            |            |           |
+| SpaceZen  |            |            |            |
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

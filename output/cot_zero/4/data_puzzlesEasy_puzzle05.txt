@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+"Beach Brouhaha" was made by Yvonne and has 3 million views.
+"You Otter Know" was made by Tonya and has 4 million views.
+"Gabe Goes Nuts" was made by Daryl and has 5 million views.
+"Happy Hermits" was made by Rodney and has 7 million views.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

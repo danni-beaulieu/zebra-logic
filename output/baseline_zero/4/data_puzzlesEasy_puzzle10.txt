@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+Ernesto is 110 years old and from Texas.
+Larry is 112 years old and from Virginia.
+Olivia is 111 years old and from Alaska.
+Preston is 109 years old and from Missouri.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

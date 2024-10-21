@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+1. Price: 375, AC Unit: Freezon Flux, Capacity: 10000 BTUs
+2. Price: 440, AC Unit: Binson C40, Capacity: ?
+3. Price: 505, AC Unit: Chiller Z, Capacity: 25000 BTUs
+4. Price: 570, AC Unit: Z-Free XL, Capacity: 20000 BTUs
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

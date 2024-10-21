@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+| Due Dates      | Borrowers | Titles       |
+|----------------|-----------|--------------|
+| September 1    |           |              |
+| September 8    | Sherrie   | Kip and Ken  |
+| September 15   | Latasha   | Wayne        | Ohio Haunts
+| September 22   |           | Stars Below   |
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

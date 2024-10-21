@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+Cober makes the G-290 which costs $550.
+Lirios makes the DM-5000 which costs $575.
+Nectron makes the Tela G5 which costs $600.
+Torvia makes the Zenix 2C which costs $625.
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

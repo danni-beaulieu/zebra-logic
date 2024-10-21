@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Game 1: Mae with the Reti Opening
+Game 2: Tara with the Giuoco Start
+Game 3: Rose with the Torre Attack
+Game 4: Luis with the Evans Gambit
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

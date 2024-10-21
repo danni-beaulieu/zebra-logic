@@ -1,0 +1,40 @@
+Attempt: 
+
+Let's break down each of the clues:
+
+1. Ed Ewing finished 1000 votes ahead of the teacher.
+Since the lowest vote count is 8500, the teacher can't have 8500 votes because then Ed Ewing would have 9500 votes, and there are no 1000 more votes than 9500. Therefore, the teacher must have 9000 votes and Ed Ewing must have 10000 votes.
+
+2. The person who received 9000 votes was either the writer or Jed Jarvis.
+From the first clue, we know that the teacher received 9000 votes. From this clue, it must be that Jed Jarvis, who is the teacher, received these 9000 votes. Therefore, the writer did not receive 9000 votes.
+
+3. Jed Jarvis is the teacher.
+We already knew this from the previous clues.
+
+4. The person who received 9500 votes was either the doctor or Jed Jarvis.
+Jed Jarvis got 9000 votes, which means the doctor must have received 9500 votes.
+
+5. Kelly Kirby finished 500 votes behind the doctor.
+Since the doctor got 9500 votes, Kelly must have finished with 9000 votes. But we know that Jed Jarvis who is the teacher got 9000 votes, so this is a contradiction. This means I made a mistake with my assumptions.
+
+Let's go back to the first clue and try a different approach:
+
+Ed Ewing finished 1000 votes ahead of the teacher.
+This means Ed Ewing's vote count can't be 8500, because there is no vote count 1000 less than that for the teacher. Similarly, the teacher's vote can't be 10000, because there is no vote count 1000 more than that for Ed Ewing. So, Ed Ewing can only have 9500 or 10000 votes, and the teacher can only have 8500 or 9000 votes.
+
+From the second and the fourth clue, we know that Jed Jarvis (who is the teacher) can't have 9500 votes, since they are given to the doctor, or 9000 votes, since they are given to the writer or Jed Jarvis. So, Jed Jarvis must have 8500 votes, and Ed Ewing must then have 9500 votes. The writer then must have the 9000 votes.
+
+From the fifth clue, Kelly Kirby must have 10000 votes, since she is 500 votes behind the doctor and the only vote count 500 more than the doctor (who had 9500 votes) is 10000 votes.
+
+This leaves Fred Francis with the remaining profession, which must be the lawyer, and the remaining vote count, which is 9000.
+
+ANSWER:
+Ed Ewing - Doctor - 9500 votes
+Jed Jarvis - Teacher - 8500 votes
+Kelly Kirby - Writer - 10000 votes
+Fred Francis - Lawyer - 9000 votes
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

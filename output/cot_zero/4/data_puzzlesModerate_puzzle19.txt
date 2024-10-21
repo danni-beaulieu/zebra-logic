@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+"Disco Mania" was made by Dow Games in 1976.
+"Bowling Alley" was made by Hayco Inc in 1975.
+"Meteor Rise" was made by Tarco Inc in 1977.
+"Archer Quest" was made by Pinnefore in 1974.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

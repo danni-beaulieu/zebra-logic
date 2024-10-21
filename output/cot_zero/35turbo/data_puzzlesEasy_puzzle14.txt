@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+| Planets | Stars | Distances |
+| Vestor | HV 491 | 47       |
+| Istryn | MKP 427 | Rodul        |
+| Quael | PLC 120 | 43       |
+| Rodul  | BDF 198| 41       |
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

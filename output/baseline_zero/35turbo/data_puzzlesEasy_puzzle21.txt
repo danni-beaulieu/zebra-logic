@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+|           | prices  | nectars        | providers      |
+|-----------|---------|----------------|----------------|
+| 1         | $5.50   | alfalfa        | Midge Mintz    |
+| 2         | $6.50   | lemon blossom  | Linda Lynn     |
+| 3         | $7.50   | sage           | Keith Koch     |
+| 4         | $8.50   | sourwood       | Jim Joyner     |
+
+Grade: 
+[True, False, True, False]
+Success: 
+False

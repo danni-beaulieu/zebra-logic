@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+- pilodontus is 75 million years old and costs 1000 dollars.
+- archadon is 69 million years old and costs 1250 dollars.
+- mirasaurus is 78 million years old and costs 1000 dollars.
+- senosaurus is 85 million years old and costs 500 dollars.
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

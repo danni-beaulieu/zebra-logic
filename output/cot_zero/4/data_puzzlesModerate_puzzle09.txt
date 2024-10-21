@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+Cheelia - BDF 198 - 41 light years
+Ereph - HV 491 - 43 light years
+Llyrak - VJD 913 - 47 light years
+Xidat - MKP 427 - 45 light years
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

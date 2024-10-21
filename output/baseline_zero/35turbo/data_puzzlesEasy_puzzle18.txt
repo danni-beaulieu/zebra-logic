@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+- First place: Kermit with #118
+- Second place: Ophelia with #128
+- Third place: Bridget with #126
+- Fourth place: Stretch with #105
+
+Grade: 
+[True, True, False, False]
+Success: 
+False

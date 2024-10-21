@@ -1,0 +1,13 @@
+Attempt: 
+
+: 
+
+- Yvonne went camping in 2001.
+- Dustin went hang gliding in 2002.
+- James went kayaking in 2003.
+- Zachary went cycling in 2004.
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

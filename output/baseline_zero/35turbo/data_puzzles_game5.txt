@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+|   Prices   |  Dinosaurs  |    Ages     |
+|------------|------------|-------------|
+|    750     | Mirasaurus |  78 million  |  
+|   1250     | Senosaurus |  85 million  |  
+|   500      | Pilodontus |  75 million  |  
+|   1000     | Archadon   |  69 million  |  
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

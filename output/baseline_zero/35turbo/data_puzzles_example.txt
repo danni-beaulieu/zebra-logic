@@ -1,0 +1,12 @@
+Attempt: 
+
+:** 
+Gene - Grennel - 35
+Jeffrey - Bistric - 40
+Leroy - Travelore - 30
+Olga - Pinkster - 25
+
+Grade: 
+[False, False, True, True]
+Success: 
+False

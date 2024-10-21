@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- The Archadon costs 750 dollars and is 78 million years old.
+- The Mirasaurus costs 500 dollars and is 75 million years old.
+- The Pilodontus costs 1000 dollars and is 69 million years old.
+- The Senosaurus costs 1250 dollars and is 85 million years old.
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

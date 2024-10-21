@@ -1,0 +1,9 @@
+Attempt: 
+
+:** 
+Sherrie's book was "Kip and Ken", Wayne's book was "Heaven's Seal", Latasha's book was "Ohio Haunts", and Muriel's book was "Stars Below".
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

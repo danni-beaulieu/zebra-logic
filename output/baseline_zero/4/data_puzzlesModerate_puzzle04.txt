@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Claude is leaving for Jamaica at 3:30 pm.
+Jeanne is leaving for Malta at 2:30 pm.
+Pablo is leaving for Peru at 2:30 pm.
+Terrance is leaving for Qatar at 4:30 pm.
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

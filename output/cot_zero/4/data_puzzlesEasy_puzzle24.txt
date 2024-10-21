@@ -1,0 +1,13 @@
+Attempt: 
+
+: 
+The final assignment would therefore be:
+- Bertha: 56 points, smoked pork
+- Hattie: 42 points, cashew tofu
+- Luther: 49 points, cajun chili
+- Wade: 63 points, turkey soup.
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

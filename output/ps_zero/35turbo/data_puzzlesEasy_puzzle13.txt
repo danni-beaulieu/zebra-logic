@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+- First Crescent is run by Kip Kerr.
+- Citizen Trust is run by Kip Kerr.
+- Hudson Brook is run by Ule Underwood.
+- Oak Capital is run by Walter Wade.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

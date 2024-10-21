@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+
+Greg finished in 21 minutes wearing a silver shirt.
+Herman finished in 22 minutes wearing a violet shirt.
+Kelly finished in 23 minutes wearing a maroon shirt.
+Patrick finished in 24 minutes wearing an orange shirt.
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+Cheelia orbits star MKP 427 and is ?? light years away from Earth.
+Ereph orbits star HV 491 and is 2 light years away from Earth.
+Llyrak orbits star VJD 913 and is 6 light years away from Earth.
+Xidat is 4 light years away from Earth.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

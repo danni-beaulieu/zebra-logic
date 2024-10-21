@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+Bev Baird - teacher
+Cate Carlson - architect
+Gilda Gray - academic
+Ida Ingram - writer
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

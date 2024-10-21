@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+1) Bertha-scored 63 points-cooked smoked pork. 
+2) Hattie-scored 42 points-cooked cashew tofu.
+3) Luther-scored 49 points-cooked turkey soup.
+4) Wade-scored 56 points-cooked cajun chili.
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

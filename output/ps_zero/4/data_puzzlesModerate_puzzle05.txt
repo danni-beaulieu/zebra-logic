@@ -1,0 +1,35 @@
+Attempt: 
+
+Let's understand the problem: 
+
+We have four tortoises with different names, species and ages. We are given certain clues. We have to match each tortoise with its corresponding species and age.
+
+Plan: Let's break down the statements in the problem and deduce the solution from there.
+
+Clue 1: The four animals are the 14-year-old tortoise, the pitch belly tortoise, the black neck tortoise and Methuselah. 
+- This means that Methuselah can't be 14 years old, nor can it be a pitch belly tortoise or a black neck tortoise. 
+
+Clue 2: Of the 32-year-old one and the two-rimmed tortoise, one is named Methuselah and the other is named Yoda.
+- This means that Methuselah is either a 32-year-old tortoise or a two rimmed tortoise. But based on Clue 1, since Methuselah can't be 14 years old, it must be 32 years old. Therefore, Yoda must be the two-rimmed tortoise.
+
+Clue 3: Toredo is 36 years younger than the pitch belly tortoise.
+- 36 years younger than 32-year-old (the oldest possible if we consider the maximum age to be 68) is -4 which is impossible. 36 years younger than 50-year-old pitch belly would be 14 which is possible. 36 years younger than 68-year-old pitch belly would be 32 years old, but Methuselah is 32 years old. Therefore, the pitch belly must be 50 years old and Toredo must be 14 years old. 
+
+Now we can solve the following relationships:
+
+Methuselah is the 32 year old swoop-backed tortoise (14-year-old is Toredo, pitch belly tortoise is 50 years old and Yoda is the two-rimmed tortoise).
+Shelly is the 68-year-old black neck tortoise (she can't be 14-year-old (that's Toredo), 32-year-old (that's Methuselah), or the two-rimmed tortoise (that's Yoda).
+Yoda is a 14-year-old two-rimmed tortoise (Yoda can't be swoop-backed (that's Methuselah), black necked (that's Shelly), or 50-year-old (that's pitch belly), so he must be 14 years old).
+Toredo is the remaining 14-year-old pitch belly tortoise.
+
+Final answer:
+
+Methuselah: 32 years old, Swoop-backed
+Shelly: 68 years old, Black neck
+Toredo:14 years old, Pitch belly
+Yoda: 50 years old, Two rimmed
+
+Grade: 
+[True, True, True, False]
+Success: 
+False

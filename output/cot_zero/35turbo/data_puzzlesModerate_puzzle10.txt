@@ -1,0 +1,14 @@
+Attempt: 
+
+: 
+| Time    | Interpreter | Student  |
+|---------|-------------|----------|
+| 9:00am  | Joann       | Patrick  |
+| 10:00am | Earnest     | Nelson   |
+| 11:00am | Frederick   | Karla    |
+| 12:00pm | Ira         | Tyler    |
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

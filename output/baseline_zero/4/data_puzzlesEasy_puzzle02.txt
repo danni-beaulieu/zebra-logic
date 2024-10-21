@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+
+- Stanley departs to Jackman on June 10.
+- Kyle departs to an unknown location on June 11.
+- Eugene departs to Hardwick on June 12.
+- Chris departs to Leland on June 13.
+- Finally, Kyle must be departing to Daly City, as it's the only location left.
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

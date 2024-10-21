@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+Istryn is 41 light years away and orbits star BDF 198.
+Vestor is 43 light years away and orbits star HV 491.
+Quael is 45 light years away and orbits star PLC 120.
+Rodul is 47 light years away and orbits star MKP 427.
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

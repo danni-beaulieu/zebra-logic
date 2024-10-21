@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Wang Yu's baby: Hua Mei, February.
+Nan Sheng's baby: Den Ping, April.
+Tai Shan's baby: Ling Ling, January.
+Po Lang's baby: Gao Gao, March.
+
+Grade: 
+[False, True, False, True]
+Success: 
+False

@@ -1,0 +1,14 @@
+Attempt: 
+
+: 
+| Boat           | Owner        | Length    |
+|----------------|--------------|----------|
+| Adagio III     | Ann Alvarado | 22 ft    |
+| Irish Pride    | Ernesto Ellis| 25 ft    |
+| Restless Wave  | Hetta Hensley| 31 ft    |
+| White Squid    | Betsy Becker | 28 ft    |
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

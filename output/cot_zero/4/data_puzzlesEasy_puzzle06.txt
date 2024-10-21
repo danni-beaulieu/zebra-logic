@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+- Binson C40 is $440 and has 5000 BTUs
+- Chiller Z is $505 and has 25000 BTUs
+- Freezon Flux is $570 and has 10000 BTUs
+- Z-Free XL is $375 and has 20000 BTUs.
+
+Grade: 
+[True, False, True, False]
+Success: 
+False

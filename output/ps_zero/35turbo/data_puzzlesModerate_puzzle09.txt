@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+Planet: 
+Cheelia - Star: MKP 427 - Distance: 45 light years  
+Ereph - Star: HV 491 - Distance: 45 light years  
+Llyrak - Star: BDF 198 - Distance: 43 light years  
+Xidat - Star: VJD 913 - Distance: 45 light years  
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

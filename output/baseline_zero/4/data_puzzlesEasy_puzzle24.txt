@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Bertha scored 63 and made the smoked pork.
+- Hattie scored 42 and made the cashew tofu.
+- Luther scored 56 and made the cajun chili. 
+- Wade scored 49 and made the turkey soup.
+
+Grade: 
+[True, False, False, True]
+Success: 
+False

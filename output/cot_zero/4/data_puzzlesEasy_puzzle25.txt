@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+- Peter Peck was out on April 4th and covered the royal wedding.
+- The unknown reporter who covered the flooding was out on April 5th. 
+- Randy Reid was out on April 6th and covered the earthquake.
+- Sid Snyder was out on April 7th and covered the mass protests.
+- Tam Terry was sent out to cover the earthquake.
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

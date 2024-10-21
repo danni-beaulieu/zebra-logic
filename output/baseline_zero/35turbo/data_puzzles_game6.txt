@@ -1,0 +1,14 @@
+Attempt: 
+
+: 
+|         | Height | Tree        | Age |
+|---------|--------|-------------|----|
+| Tree 1  | 144 ft. | Old Jarvis  | 79 |
+| Tree 2  | 147 ft. | Roger's Oak | 99 |
+| Tree 3  | 150 ft. | Nolan's Pine| 85 |
+| Tree 4  | 153 ft. |             | 94 |
+
+Grade: 
+[False, True, False, False]
+Success: 
+False

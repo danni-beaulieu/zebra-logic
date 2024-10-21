@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Namibia: 2 gold medals and 8 silver medals
+- Paraguay: 1 gold medal and 2 silver medals
+- Russia: 3 gold medals and 1 silver medal
+- Turkmenistan: 4 gold medals and 12 silver medals
+
+Grade: 
+[True, False, False, True]
+Success: 
+False

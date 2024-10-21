@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+| Machines     | Companies    | Years |
+|--------------|--------------|-------|
+| Archer Quest | Tarco Inc    | 1974  |
+| Meteor Rise  | Dow Games    | 1975  |
+| Disco Mania  | Hayco Inc    | 1976  |
+| Bowling Alley| Pinnefore    | 1977  |
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

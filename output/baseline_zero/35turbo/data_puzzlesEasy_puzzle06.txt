@@ -1,0 +1,15 @@
+Attempt: 
+
+: 
+
+| Price | AC Unit       | Capacity   |
+|-------|--------------|------------|
+| 375   | Chiller Z    | 25000 BTUs |
+| 440   | Binson C40   | 10000 BTUs |
+| 505   | Freezon Flux | 5000 BTUs  |
+| 570   | Z-Free XL    | 20000 BTUs |
+
+Grade: 
+[False, True, False, False]
+Success: 
+False

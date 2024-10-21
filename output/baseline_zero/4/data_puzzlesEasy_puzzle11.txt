@@ -1,0 +1,13 @@
+Attempt: 
+
+: 
+
+- Mt. Dawson is 14340 feet tall and was first climbed by Hal Hudson. 
+- Mt. Ingram is 14210 feet tall and was first climbed by Gerry Gamble. 
+- Mt. Larsen is 14600 feet tall and was first climbed by Irving Igor. 
+- Mt. Norman is 14470 feet tall and was first climbed by Kermit Kramer.
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

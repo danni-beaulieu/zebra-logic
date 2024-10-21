@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+- Natasha performed first and scored 190 points.
+- Melissa performed seventh and scored 184 points.
+- Evelyn performed eighth and scored 187 points.
+- Willie performed second and scored 181 points.
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

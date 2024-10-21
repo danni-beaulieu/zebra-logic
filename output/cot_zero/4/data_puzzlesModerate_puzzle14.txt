@@ -1,0 +1,11 @@
+Attempt: 
+
+ is:
+Bai Yun's mother is Tai Shan and was born in January.
+Den Ping's mother is Tian Tian (aka Gao Gao) and was born in February.
+Ling Ling's mother is Wang Yu and was born in April.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

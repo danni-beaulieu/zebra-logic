@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+|         |Month     |Game           |Host     |
+|---------|----------|---------------|---------|
+|1        |March     |Bladescape     |Lynette  |
+|2        |February  |Vendetta       |         |
+|3        |April     |Board game     |         |
+|4        |          |Planets Align  |Yolanda  |
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+
+1) Istryn orbits MKP 427 and is 45 light years from earth.
+2) Quael orbits BDF 198 and is 41 light years from earth.
+3) Rodul orbits PLC 120 and is 43 light years from earth.
+4) Vestor orbits HV 491 and is 47 light years from earth.
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

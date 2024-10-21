@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Joann with Karla at 8:00am
+Gordon with Rafael at 9:00am
+Annie with Orlando at 10:00am
+Charlie with Sophie at 12:00pm (since Sophie is the only student left)
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

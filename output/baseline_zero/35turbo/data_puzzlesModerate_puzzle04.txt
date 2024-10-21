@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+|         | Traveler  | Departure | Time   |
+|---------|-----------|-----------|--------|
+| Traveler| Jeanne    | Malta     | 2:30pm|
+|         | Claude    | Jamaica   | 5:30pm|
+|         | Pablo     | Peru      | 4:30pm|
+|         | Terrance  | Qatar     | 3:30pm|
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

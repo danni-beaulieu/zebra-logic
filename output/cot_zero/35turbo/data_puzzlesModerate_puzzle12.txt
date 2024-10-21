@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+- Charles City is in Hampshire County with a population of 31000.
+- Luther is in Nantucket County with a population of 28000.
+- Quasqueton is in Nantucket County with a population of 34000.
+- Oakland Acres is in Essex County with a population of 37000.
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Evelyn is the dancer who performed first and she scored 190 points.
+- Willie is the dancer who performed eighth and he scored 181 points.
+- Natasha is the dancer who performed second and she scored 184 points.
+- Melissa is the dancer who performed seventh and she scored 187 points.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

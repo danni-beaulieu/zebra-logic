@@ -1,0 +1,14 @@
+Attempt: 
+
+: 
+|              | Street       | Manager      | Month       |
+|--------------|--------------|--------------|-------------|
+| 1            | Clara Street | Irma Ingram  | April       |
+| 2            | Fred Lane    | Gail Garrett | July        |
+| 3            | Norway Court | Dawn Daniels | June        |
+| 4            | York Court   | Al Anderson  | May         |
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

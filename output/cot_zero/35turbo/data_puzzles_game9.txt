@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+|       | Liberty | Odyssey | Serenity |
+|-------|---------|---------|----------|
+| Beulah |  April  |         |          |
+| Darryl |  March  |         |          |
+| Henrietta |        |  May    |          |
+| Yvonne |         |         |  June    |
+
+Grade: 
+[False, False, False, False, False]
+Success: 
+False

@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+Cheelia orbits MKP 427 and is 47 light years away.
+Ereph orbits HV 491 and is 43 light years away.
+Llyrak orbits BDF 198 and is 41 light years away.
+Xidat orbits VJD 913 and is 45 light years away.
+
+Grade: 
+[False, False, True, True]
+Success: 
+False

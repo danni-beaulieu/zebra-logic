@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Avery Bridge is a suspension bridge and is 10000 feet long.
+Bay Bridge is a cantilever bridge and is 13000 feet long.
+Gorem Bridge is a truss bridge and is 11500 feet long.
+North Bridge is a girder bridge and is 8500 feet long.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

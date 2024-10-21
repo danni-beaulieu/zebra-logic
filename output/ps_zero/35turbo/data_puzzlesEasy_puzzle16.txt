@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+House 1: 1100 sq ft, $1100/month, La Palma
+House 2: 1225 sq ft, $1525/month
+House 3: 1350 sq ft, Eagle Grove
+House 4: 1475 sq ft, Monticello
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

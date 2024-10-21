@@ -1,0 +1,14 @@
+Attempt: 
+
+: 
+| Views        | Authors     | Titles          |
+|--------------|------------|------------------|
+| 4 million   | Tonya      | Happy Hermits   |
+| 5 million   | Rodney    | Beach Brouhaha |
+| 6 million   | Yvonne     | Gabe Goes Nuts |
+| 7 million   | Daryl       | You Otter Know  |
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

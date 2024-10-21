@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+- 2-day reservation: Jeep with Juana Juarez.
+- 3-day reservation: Buick with Penny Perry.
+- 4-day reservation: Fiat with Vicky Vaughan.
+- 5-day reservation: Kia with Rose Rowland.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

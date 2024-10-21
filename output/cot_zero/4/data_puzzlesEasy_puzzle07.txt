@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+1 107 meters - Brit Bradley
+2 101 meters - Gumbo Giles
+3 104 meters - Hill Harvey
+7 98 meters - Ed Elliott
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

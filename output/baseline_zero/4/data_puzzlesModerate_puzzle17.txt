@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+Mae played the Reti Opening in the first game, 
+Luis played the Torre Attack in the second game, 
+Rose played the Giuoco Start in the third game, 
+Tara played the Evans Gambit in the fourth game.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

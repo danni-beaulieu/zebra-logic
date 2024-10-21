@@ -1,0 +1,15 @@
+Attempt: 
+
+: 
+
+|    | Prices | Winners   | Spiders     | 
+|----|--------|-----------|-------------| 
+| 1  | 45     | Anthony   | Wolf        |
+| 2  | 60     | Lonnie    | Redback     |
+| 3  | 75     | Olga      | Raft        |
+| 4  | 90     | Tim       | Whip        |
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

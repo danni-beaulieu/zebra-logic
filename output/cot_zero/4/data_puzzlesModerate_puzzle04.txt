@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+Jeanne is flying from Jamaica at 2:30 pm.
+Pablo is flying from Peru at 4:30 pm.
+Claude is flying from Malta at 5:30 pm.
+Terrance is flying from Qatar at 2:30 pm.
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+Ed Ewing got 9500 votes and he is a doctor.
+Fred Francis got 10000 votes and he is a lawyer.
+Jed Jarvis got 8500 votes and he is a teacher.
+Kelly Kirby got 9000 votes and she is a writer.
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+- Penny Perry rent a Buick for 3 days.
+- Vicky Vaughan rent a Buick for 4 days.
+- Rose Rowland rent a Kia for 5 days.
+- Juana Juarez rent a Jeep for 2 days.
+
+Grade: 
+[True, True, False, True]
+Success: 
+False

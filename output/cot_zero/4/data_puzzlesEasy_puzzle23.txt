@@ -1,0 +1,16 @@
+Attempt: 
+
+: 
+
+- Barnabas is 15 years old and 12.0 feet long. 
+
+- Bubba is 10 years old and 9.4 feet long. 
+
+- Draco is 5 years old and 14.0 feet long. 
+
+- Merlin is 20 years old and 10.2 feet long.
+
+Grade: 
+[True, False, False, True]
+Success: 
+False

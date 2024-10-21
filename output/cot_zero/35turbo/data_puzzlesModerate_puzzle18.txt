@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+Harold works with Karla and starts at 9:00am. 
+Ira works with Nelson and starts at 10:00am.
+Charlie works with Orlando and starts at 11:00am.
+Sophie works with Fredrick and starts at 12:00pm.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

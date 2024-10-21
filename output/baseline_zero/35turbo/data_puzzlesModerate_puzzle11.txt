@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+|          | Customer | RAM  | Hard Drive |
+|----------|----------|------|------------|
+| Computer | Fernando | 512 GB |            |
+| Build    | Jack     | 6 GB   | 256 GB     |
+| System   | Rex      | 3 GB   | 128 GB     |
+|          | Wade     | 12 GB  | 384 GB     |
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

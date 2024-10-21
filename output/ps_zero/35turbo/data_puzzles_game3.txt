@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+| Country       | Gold Medals | Silver Medals |
+|---------------|-------------|---------------|
+| Namibia       | 3           | 8             |
+| Paraguay      | 1           | 2             |
+| Russia        | 2           | 12            |
+| Turkmenistan  | 4           | 1             |
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

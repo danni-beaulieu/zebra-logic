@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+Bruce is filming on September 29th and making $130000.
+Jim is filming on September 8th and making $100000.
+Shannon is filming on September 15th and making $85000.
+William is filming on September 1st and making $115000.
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

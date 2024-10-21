@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+- William is filming on September 1st and getting $100000.
+- Jim is filming on September 15th and getting $85000.
+- Shannon is filming on September 8th and getting $115000.
+- Bruce is filming on September 29th and getting $130000.
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

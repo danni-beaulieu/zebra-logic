@@ -1,0 +1,12 @@
+Attempt: 
+
+:** 
+Juana: Fiat (2 day)
+Penny: Buick (3 day)
+Rose: Kia (4 day)
+Vicky: Kia (5 day)
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

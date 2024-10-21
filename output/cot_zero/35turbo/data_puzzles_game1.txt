@@ -1,0 +1,31 @@
+Attempt: 
+
+1. The kayaking trip was 2 years after the camping vacation. So, it couldn't be in 2004. And it couldn't be with James or Dustin since their vacations are not the kayaking one.
+2. The camping trip was 2 years before the vacation with James. It also couldn't be in 2001 because the kayaking is 2 years later.
+3. The vacation with Zachary was after the kayaking vacation. Since the kayaking trip wasn't in 2001, then the camping trip is in 2001.
+
+2001:
+- Camping: Yvonne
+- Kayaking: James
+- Zachary
+- Dustin
+
+Now, the kayaking vacation was in 2003. Then, camping in 2001 means kayaking in 2003. Since camping is 2 years before James' vacation, James' vacation is in 2005. However, the years are only 2001-2004. 
+
+2001: 
+- Camping: Yvonne
+- Kayaking: James
+- 2002:
+- 2004: Dustin
+- Zachary
+
+2001:
+- Camping: Yvonne
+- Kayaking: James (2003)
+- Hang gliding: Dustin (2004)
+- Cycling: Zachary
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

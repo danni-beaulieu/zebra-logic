@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+|          | April 4th | April 5th | April 6th | April 7th |
+|----------|-----------|-----------|-----------|-----------|
+| Peter    | Earthquake|           |Royal wedding|           |
+| Randy    |           |Flooding   |           |           |
+| Sid      |           |           |Mass protests|           |
+| Tam      |           |           |           |           |
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

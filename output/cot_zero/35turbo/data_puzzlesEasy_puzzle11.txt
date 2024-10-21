@@ -1,0 +1,19 @@
+Attempt: 
+
+: 
+Height:
+Mt. Dawson - 14210
+Mt. Ingram - 14470
+Mt. Larsen - 14600
+Mt. Norman - 14470
+
+Climber:
+Gerry Gamble - Mt. Ingram
+Hal Hudson - Mt. Norman
+Irving Igor - Mt. Dawson
+Kermit Kramer - Mt. Larsen
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

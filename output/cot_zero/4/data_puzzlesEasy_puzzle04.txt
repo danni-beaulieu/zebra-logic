@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Cober G-290 costs $550.
+- Lirios DM-5000 costs $600.
+- Nectron Tela G5 costs $575.
+- Torvia Zenix 2C costs $625.
+
+Grade: 
+[False, False, True, True]
+Success: 
+False

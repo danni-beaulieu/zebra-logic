@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+| Candidate    | Profession | Votes |
+|--------------|------------|-------|
+| Bev Baird    | Architect  | 8500  |
+| Cate Carlson | Teacher    | 9000  |
+| Gilda Gray   | Academic   | 10000 |
+| Ida Ingram   | Writer     | 9500  |
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

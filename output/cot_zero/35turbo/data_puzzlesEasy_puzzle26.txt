@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+|        | 25    | 30    | 35    | 40    |
+|--------|-------|-------|-------|-------|
+| 325    |       |       |       | Meatloaf     |
+| 340    | Candied yams  |       | Chicken cutlet     |     |
+| 350    |       |       |       | Meat  |
+| 410    |       |       | Chicken cutlet |       |
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

@@ -1,0 +1,13 @@
+Attempt: 
+
+ is:
+
+Adagio III: 22 ft, owned by Ann Alvarado
+Irish Pride: 25 ft, owned by Betsy Becker
+Restless Wave: 28 ft, owned by Ernesto Ellis
+White Squid: 31 ft, owned by Hetta Hensley
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

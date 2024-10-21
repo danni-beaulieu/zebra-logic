@@ -1,0 +1,12 @@
+Attempt: 
+
+:** 
+Bev Baird is a politician and received 8500 votes.
+Cate Carlson is a teacher and received 9000 votes.
+Gilda Gray is an academic and received 9500 votes.
+Ida Ingram is an architect and received 10000 votes.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

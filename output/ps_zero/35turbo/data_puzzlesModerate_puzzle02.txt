@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Actor Bruce will film on September 29th with a fee of $130,000.
+Actor Jim will film on an unspecified date with a fee of $100,000.
+Actor Shannon will film on September 15th with a fee of $85,000.
+Actor William will film on September 1st with a fee of $115,000.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

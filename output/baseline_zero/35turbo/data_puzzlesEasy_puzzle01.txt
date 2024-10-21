@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+1. Lip Savage: January
+2. Sodium Green: June
+3. Jagged Knee: September
+4. Audio Array: August
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

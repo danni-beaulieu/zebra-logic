@@ -1,0 +1,16 @@
+Attempt: 
+
+:
+- Charles City: 31000
+- Luther: 34000
+- Oakland Acres: 28000
+- Quasqueton: 28000
+- Berkshire: 34000
+- Essex: 34000
+- Hampshire: 37000
+- Nantucket: 31000
+
+Grade: 
+[False, False, False, False]
+Success: 
+False
