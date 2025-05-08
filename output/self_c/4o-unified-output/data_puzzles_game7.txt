@@ -1,0 +1,36 @@
+Attempt: 
+
+:
+- **Greg, Silver, 21**
+- **Herman, Violet, 22**
+- **Kelly, Maroon, 23**
+- **Patrick, Orange, 24**
+
+Grade: 
+[False, False, False, False]
+Success: 
+False
+Attempt: 
+
+**:
+- Greg: 22 minutes, violet shirt
+- Herman: 21 minutes, silver shirt
+- Kelly: 23 minutes, maroon shirt
+- Patrick: 24 minutes, orange shirt
+
+Grade: 
+[False, False, False, True]
+Success: 
+False
+Attempt: 
+
+:**
+- Greg, 21 minutes, violet shirt
+- Herman, 22 minutes, silver shirt
+- Kelly, 23 minutes, maroon shirt
+- Patrick, 24 minutes, orange shirt
+
+Grade: 
+[True, False, False, True]
+Success: 
+False

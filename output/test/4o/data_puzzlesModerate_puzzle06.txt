@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- Evan's Fir: 79 years, 144 ft
+- Nolan's Pine: 85 years, 153 ft
+- Roger's Oak: 87 years, 147 ft
+- Zeke's Spruce: 94 years, 150 ft
+
+Grade: 
+[True, False, True, False]
+Success: 
+False

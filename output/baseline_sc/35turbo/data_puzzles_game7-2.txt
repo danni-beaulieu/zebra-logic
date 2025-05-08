@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Greg, orange, 22
+Herman, maroon, 23
+Kelly, violet, 24
+Patrick, silver, 21
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

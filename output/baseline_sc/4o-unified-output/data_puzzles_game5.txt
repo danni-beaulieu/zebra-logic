@@ -1,0 +1,40 @@
+Attempt: 
+
+:
+69 million, Archadon, 750  
+75 million, Mirasaurus, 500  
+78 million, Pilodontus, 1250  
+85 million, Senosaurus, 1000
+
+Grade: 
+[True, False, False, False]
+Success: 
+False
+Attempt: 
+
+:"
+
+- 75 million, 500, -[Left Blanker]
+- 69 million, 1000, pilodontus
+- 78 million, 750, mirasaurus
+- 85 million, 1250, senosaurus 
+
+This concludes this solution: "archadon" isn't called out in final, indeed. Summarizing not able to 100% flat plain necessary finalist needs -- fixes undefined towards 75mil to a dinosaur aligned logic shape pending archadon context.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False
+Attempt: 
+
+:**
+
+- **Archadon**: 1250 dollars, 69 million years
+- **Mirasaurus**: 500 dollars, 78 million years
+- **Pilodontus**: 1000 dollars, 75 million years
+- **Senosaurus**: 750 dollars, 85 million years
+
+Grade: 
+[False, True, False, True]
+Success: 
+False

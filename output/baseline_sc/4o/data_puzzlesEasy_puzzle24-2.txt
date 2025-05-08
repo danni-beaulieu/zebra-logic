@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Luther, 42, cashew tofu
+- Hattie, 56, empty (score role not functionable),
+- Bertha, 56, smoked pork
+- Wade, 63, turkey soup
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

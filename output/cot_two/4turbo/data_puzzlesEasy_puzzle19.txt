@@ -1,0 +1,48 @@
+Attempt: 
+
+Steps to Solve the Puzzle:
+
+1. Analyze Clue Information:
+   - "The silver coin sold for somewhat more than the item found at Colbert Run."
+   - "The cannonball sold for 75 dollars more than the piece found at Heffen Lane."
+   - "The silver coin sold for 150 dollars less than the diamond ring."
+   - "The object that sold for $400 was found at Burr Woods."
+
+2. Utilize the Numeric Clue Adjustments:
+   - Because the silver coin is $150 less than the diamond ring, if the diamond ring is $325, then the silver coin must be $175 ($325 - $150), which is not a configured price. This means the lowest possible price for the diamond ring that's more than $250 for the coin is $400 (making the coin $250). So, the diamond ring must sell for $400 or more.
+   - Since the diamond ring is $400 or more, consider possibilities for the silver coin being $150 less.
+
+3. Deductions From Pricing Options:
+   - The only possible pricing options for the diamond ring, given the silver coin's deduction, are $400 (silver coin = $250) or $475 (silver coin = $325).
+
+4. Use of Location and Price Clue:
+   - "The object that sold for $400 was found at Burr Woods." This establishes a direct price-to-location link.
+
+5. Applying the Step Adjustments:
+   - Since the diamond ring can't be $250 or $325, if it's $400, then it aligns with the Burr Woods object as $400.
+
+6. Remaining Prices Placements and Adjustments:
+   - Given Clue 3 about increases by $75 for the cannonball over the object at Heffen Lane:
+     - If Heffen Lane's item is $325 (cannonball = $400), but since we know $400's item is at Burr Woods, and cannonball isn't connected to Heffen Lane this way.
+     - Possible prices left for Heffen Lane are $250 or $475.
+     - $250 at Heffen Lane would make the Gillis Park object $325 if the silver coin (which isn't the Burr Woods item) is notably higher than Colbert Run.
+
+7. Concrete Assignments:
+   - Place $250 at Heffen Lane (since $400 item is at Burr Woods); cannonball, therefore, must be $325.
+   - We now know the $475 item (diamond ring) which sold for $325 more than $250 cannot be anywhere but Gillis Park, since $400 for diamond ring contradicts the earlier direct clue.
+
+8. Location and Item Assignments:
+   - $475 diamond ring found at Gillis Park ($475 - $150 = $325 for the silver coin).
+   - Silver coin at $250 then matches with Colbert Run.
+   - Diamond ring can’t be at Burr Woods, nor can the earring if silver coin and cannonball are price adjusted elsewhere.
+
+Final Solution:
+- Cannonball, $325, Heffen Lane
+- Diamond Ring, $475, Gillis Park
+- Earring, $400, Burr Woods
+- Silver Coin, $250, Colbert Run
+
+Grade: 
+[False, True, False, False]
+Success: 
+False

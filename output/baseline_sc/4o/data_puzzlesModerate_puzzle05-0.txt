@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- Methuselah: Two rimmed, 68 years old
+- Yoda: Black neck, 32 years old
+- Toredo: Swoop-backed, 14 years old
+- Shelly: Pitch belly, 50 years old
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

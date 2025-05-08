@@ -1,0 +1,13 @@
+Attempt: 
+
+:**
+
+- Silver Coin, $325, found at Colbert Run.
+- Cannonball, $400, found at Burr Woods.
+- Diamond Ring, $475.
+- Earring, $250, found at Heffen Lane.
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

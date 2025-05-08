@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- **April:** Clara Street - Gail Garrett
+- **May:** (Unknown Street) - Irma Ingram
+- **June:** Norway Court - Dawn Daniels
+- **July:** York Court - Al Anderson
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

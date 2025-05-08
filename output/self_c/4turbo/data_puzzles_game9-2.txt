@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+- Henrietta: Odyssey, March
+- Beulah: Liberty, May (since Beulah is 2 months before Liberty and if Liberty is in July)
+- Darryl: Orion, April
+- Yvonne: Serenity, July (Yvonne is 1 month after Serenity, and Serenity is in June)
+- Joy: Escape, June (by process of elimination)
+
+Grade: 
+[False, False, False, False, False]
+Success: 
+False

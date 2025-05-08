@@ -1,0 +1,39 @@
+Attempt: 
+
+**:
+- October 5: Ingram, bowling pin
+- October 6: rocket ship
+- October 7: Becker, turtle
+- October 8: Massey, sailboat
+
+Considering that there are no specific delivery instructions on the rocket ship, it will be one unmatched delivery as it's purely relational context compared to other entries.
+
+Grade: 
+[True, True, False, True]
+Success: 
+False
+Attempt: 
+
+:**
+
+- Becker, Turtle, October 6
+- Ingram, Bowling Pin, October 7
+- Keller, Rocket Ship, October 5
+- Massey, Sailboat, October 8
+
+Grade: 
+[False, False, False, True]
+Success: 
+False
+Attempt: 
+
+:
+- Mrs. Keller, Rocket Ship, October 5
+- Mrs. Ingram, Bowling Pin, October 6
+- Mrs. Becker, Turtle, October 7
+- Mrs. Massey, Sailboat, October 8
+
+Grade: 
+[True, False, False, True]
+Success: 
+False

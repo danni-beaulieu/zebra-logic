@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+Al Anderson, Clara Street, April
+Irma Ingram, Fred Lane, May
+Dawn Daniels, N/A, June
+Gail Garrett, York Court, July
+N/A, Norway Court, June
+
+Grade: 
+[True, True, False, False]
+Success: 
+False

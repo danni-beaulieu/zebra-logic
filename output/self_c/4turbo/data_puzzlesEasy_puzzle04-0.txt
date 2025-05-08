@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- Nectron, Zenix 2C, $550 
+- Tela G5, $575
+- Lirios, DM-5000, $600 
+- Torvia, G-290, $625
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- Mad Mashers, Vacuum Cannon, 135 ft
+- Super Tubers, Catapult, 150 ft
+- Russets, Trebuchet, 165 ft
+- Spud Chuckers, Slingshot, 180 ft
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

@@ -1,0 +1,11 @@
+Attempt: 
+
+:
+Barnabas, 12.0 feet, 15 years
+Bubba, 14.0 feet, 15 years
+Merlin, 10.2 feet, 20 years
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

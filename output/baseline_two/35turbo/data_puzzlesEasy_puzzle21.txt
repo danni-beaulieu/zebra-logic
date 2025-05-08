@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+alfalfa, Midge Mintz, $6.50
+lemon blossom, Linda Lynn, $8.50
+sage, Keith Koch, $7.50
+sourwood, Jim Joyner, $5.50
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

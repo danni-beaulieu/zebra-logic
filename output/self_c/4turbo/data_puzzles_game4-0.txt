@@ -1,0 +1,50 @@
+Attempt: 
+
+From the problem statement and clues, let's work through each clue one by one:
+
+1. **Fred Fleming began 1 year before Ned Nielsen.**
+   - If Ned started in 2008, then Fred must have started in 2007.
+   - If Ned started in 2009, then Fred must have started in 2008.
+   - If Ned started in 2010, then Fred must have started in 2009.
+
+2. **"Prism Shield" began 2 years before Edsel Eaton.**
+   - Prism Shield's start year = Edsel’s year - 2.
+
+3. **"Criminal Bane" began his crusade in 2007.**
+   - Criminal Bane = 2007
+
+4. **"Ultra Hex" is Ned Nielsen.**
+   - Therefore, the year associated with Ned Nielsen also corresponds to "Ultra Hex."
+
+Combine the clues:
+
+- Clue 3 clearly puts "Criminal Bane" starting in 2007.
+- Ned Nielsen is "Ultra Hex", which constrains Ned's identity tightly with the superhero "Ultra Hex".
+
+Let's assign realistic dates to eliminate possibilities:
+- Since "Criminal Bane" started in 2007, Fred cannot have begun then, and Ned, being specified to start a year after Fred, shifts possibilities.
+- Since "Prism Shield" starts 2 years before Edsel Eaton, the year must allow such a gap.
+
+Assigning subsequent possible values:
+- Put "Ultra Hex" (Ned Nielsen) at the next possible year: If we put Ned in 2009 and Fred is one year earlier, Fred begins in 2008. 
+- That leaves "Prism Shield" for either 2008 or earlier, but since it begins 2 years before Edsel Eaton, and considering 2007 is taken by "Criminal Bane", if Edsel starts in 2010, "Prism Shield" starts in 2008.
+
+At this point:
+- Criminal Bane = 2007
+- Prism Shield = 2008
+- Ultra Hex/Ned Nielsen = 2009
+- Fred begins in 2008 and cannot be Ned or Edsel (Fred's start year needs to allow another hero 2 years later), so Fred is not "Prism Shield" or "Ultra Hex". "Green Avenger" fits as it does not have a year conflict.
+- Edsel, starting in 2010, cannot be any other years.
+
+Final Solution:
+- **Criminal Bane:** 2007, Edsel Eaton
+- **Green Avenger:** 2008, Fred Fleming
+- **Prism Shield:** 2009, Peter Powers
+- **Ultra Hex:** 2010, Ned Nielsen
+
+Thus the identities and careers fit logically with the information given.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

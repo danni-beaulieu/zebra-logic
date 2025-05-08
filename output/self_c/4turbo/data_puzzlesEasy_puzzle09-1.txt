@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Gizmo, Odette, 6 weeks
+- Jake, Stephanie, 7 weeks
+- Buster, Teresa, 8 weeks (upon reevaluating based on the trainer Teresa needing longer training than Jake)
+- Bailey, Martha, 9 weeks
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

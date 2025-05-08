@@ -1,0 +1,46 @@
+Attempt: 
+
+:
+
+For the first puzzle:
+1. The Pinkster pack is 5 liters smaller than the Grennel pack.
+2. Olga's pack is 25 liters.
+3. The 30 liter pack, the Bistric pack and the Grennel pack are all different packs.
+4. Of Leroy's pack and the Travelore pack, one is 25 liters and the other is 30 liters.
+5. Gene's pack is 35 liters.
+
+- Olga's pack is 25 liters, and from the options, we know that neither Leroy's pack nor the Travelore pack can be 25 liters. Given clue 4 and the statement about Olga's pack, Leroy's or Travelore's pack is 30 liters.
+- Gene's pack is 35 liters, so the only remaining options for sizes are 30 and 40 liters. But since the Bistric and Grennel packs are neither 30 liter pack, Bistric and Grennel must be 35 or 40 liters.
+- Since the Pinkster pack is 5 liters smaller than the Grennel pack, Pinkster cannot be 35 liters as it would require a 40-liter Grennel. Hence, Pinkster is 30 liters and Grennel is 35 liters.
+- This matches Gene with the 35-liter Grennel pack. Therefore, Pinkster must be 30 liters and associated with Leroy.
+- The only remaining pack size is 40 liters, which must be Bistric and associated with Jeffrey.
+- The only remaining pack for Olga, who has the 25-liter pack, is Travelore. 
+
+Final solution:
+- Olga, Travelore, 25 liters
+- Leroy, Pinkster, 30 liters
+- Gene, Grennel, 35 liters
+- Jeffrey, Bistric, 40 liters
+
+For the second puzzle:
+1. The Super Tubers used the catapult.
+2. The team that made it to 135 ft was either the contestants that used the vacuum cannon or the trebuchet.
+3. One group made it to 150 ft and another to 165 ft: one was the Super Tubers and the other used the trebuchet.
+4. The Russets used the trebuchet.
+5. The Super Tubers landed somewhat short of the Russets.
+6. The group that used the vacuum cannon was either the Mad Mashers or made it to 180 ft.
+
+- The Super Tubers used the catapult and landed short of the Russets (who used the trebuchet). Thus, if the Russets are 165 ft, the Super Tubers must be 150 ft, as these are the two remaining possibilities for these clues.
+- The only choices for the vacuum cannon are then either the Mad Mashers or reaching 180 ft. Since the Super Tubers used the catapult and it's known the trebuchet made 165 ft (with the Russets), the vacuum cannon must reach the unlisted distance 180 ft.
+- The remaining team with the remaining device for 135 ft is the Spud Chuckers using the slingshot.
+
+Final solution:
+- Mad Mashers, vacuum cannon, 180 ft
+- Russets, trebuchet, 165 ft
+- Spud Chuckers, slingshot, 135 ft
+- Super Tubers, catapult, 150 ft
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

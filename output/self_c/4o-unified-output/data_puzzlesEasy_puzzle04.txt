@@ -1,0 +1,37 @@
+Attempt: 
+
+:
+- Cober, Zenix 2C, $550  
+- Lirios, DM-5000, $600  
+- Nectron, Tela G5, $575  
+- Torvia, G-290, $625  
+
+Grade: 
+[False, False, True, False]
+Success: 
+False
+Attempt: 
+
+:**
+- $550 - Cober - G-290
+- $575 - Lirios - DM-5000
+- $600 - Torvia - Tela G5
+- $625 - Nectron - Zenix 2C
+
+Grade: 
+[False, False, False, False]
+Success: 
+False
+Attempt: 
+
+:**
+
+- **Price $550:** Cober, G-290
+- **Price $575:** Nectron, Tela G5
+- **Price $600:** Lirios, DM-5000
+- **Price $625:** Torvia, Zenix 2C
+
+Grade: 
+[False, False, True, True]
+Success: 
+False

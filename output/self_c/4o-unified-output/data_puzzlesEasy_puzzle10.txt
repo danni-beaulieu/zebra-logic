@@ -1,0 +1,36 @@
+Attempt: 
+
+:
+Ernesto - Texas, 110
+Preston - (Alaska / Unsaid), 109
+Olivia - Missouri, 111
+Remaining - Alaska, 112
+
+Grade: 
+[False, False, False, False]
+Success: 
+False
+Attempt: 
+
+:**
+- Ernesto: Texas, 112 years
+- Larry: Virginia, 110 years
+- Olivia: Missouri, 111 years
+- Preston: Alaska, 109 years
+
+Grade: 
+[False, False, False, False]
+Success: 
+False
+Attempt: 
+
+:** 
+- Ernesto, Texas, 110  
+- Preston, Virginia, 109  
+- Olivia, Missouri, 111  
+- Larry, Alaska, 112  
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

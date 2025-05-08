@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Pilodontus, 78 million years, 1000
+- Senosaurus, 85 million years, 1250
+- Archadon, 75 million years, 500
+- Mirasaurus, 69 million years, 750
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Methuselah, Two Rimmed, 32 
+- Shelly, Pitch Belly, 50
+- Toredo, Swoop-backed, 14
+- Yoda, Black Neck, 68
+
+Grade: 
+[True, False, True, False]
+Success: 
+False

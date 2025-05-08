@@ -1,0 +1,36 @@
+Attempt: 
+
+:
+- Juana Juarez, Fiat, 5 day
+- Penny Perry, Buick, 3 day
+- Rose Rowland, Kia, (length unknown from these clues but determined by elimination to be 4 days as Vicky takes that slot for car type)
+- Vicky Vaughan, Jeep, 2 day
+
+Grade: 
+[False, True, False, False]
+Success: 
+False
+Attempt: 
+
+:
+- Juana Juarez, 5-day, Jeep
+- Penny Perry, 3-day, Buick
+- Rose Rowland, Kia
+- Vicky Vaughan, 4-day, Fiat
+
+Grade: 
+[False, False, False, False]
+Success: 
+False
+Attempt: 
+
+:**
+- *Juana Juarez*: 2-day, Jeep
+- *Penny Perry*: 3-day, Buick
+- *Rose Rowland*: 5-day, Kia
+- *Vicky Vaughan*: 4-day, Fiat
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

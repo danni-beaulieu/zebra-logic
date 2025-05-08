@@ -1,0 +1,14 @@
+Attempt: 
+
+:**
+- Juana Juarez, Jeep, 2 day
+- Penny Perry, Buick, 3 day
+- Vicky Vaughan, Fiat, 4 day
+- Rose Rowland, Kia, [unspecified rental period, but it's neither 2, 3, nor 4 days, so the only option remaining is 5 days.]
+
+Rose's rental must be 5 days by elimination, though it's not directly stated in the clues provided, based on logical deduction from the available options for days.
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

@@ -1,0 +1,37 @@
+Attempt: 
+
+:***
+
+- Ernesto, Texas, 112
+- Larry, Virginia, 110
+- Olivia, Missouri, 111
+- Preston, Alaska, 109
+
+Grade: 
+[False, False, False, False]
+Success: 
+False
+Attempt: 
+
+:**
+- Ernesto, Texas, 110
+- Larry, Alaska, 112
+- Olivia, Virginia, 111
+- Preston, Missouri, 109
+
+Grade: 
+[False, False, False, False]
+Success: 
+False
+Attempt: 
+
+:
+- Preston, 109, Missouri
+- Ernesto, 112, Texas
+- Olivia, 111, Alaska
+- Larry, 110, Virginia
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

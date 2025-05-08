@@ -1,0 +1,34 @@
+Attempt: 
+
+Steps:
+
+Extract information from each clue.
+
+1. "The contestant who went second dove 6 meters deeper than the diver who went seventh."
+-The diver who went second went to a maximum depth of either 101 meters, 104 meters, or 107 meters.
+-The diver who went seventh went to a maximum depth of either 98 meters or 101 meters.
+-The maximum depth of the diver who went second equals the maximum depth of the diver who went seventh plus 6 meters.
+
+2. "Brit Bradley went to a maximum depth of 107 meters."
+-Brit is associated to a maximum depth of 107 meters.
+
+3. "Hill Harvey went to a maximum depth of 104 meters."
+-Hill is associated to a maximum depth of 104 meters.
+
+4. "The four divers were Gumbo Giles, the diver who went seventh, the person who reached a depth of 107 meters and the contestant who went first."
+-Gumbo Giles is one of the divers.
+-One of the divers went seventh.
+-One of the divers reached a maximum depth of 107 meters.
+-One of the divers went first.
+-From this, it means Ed Elliott was either second or third.
+
+Combine information from multiple clues.
+
+From clue 2, we know Brit is associated to a maximum depth of 107 meters; from this and clue 4, Brit could not have been seventh or first. So, Brit could only have gone second. From clue 3, we know Hill is associated to a maximum depth of 104 meters; from this and the first part of clue 1, we know Hill could not have gone second, because the difference between 107 meters and 104 meters isn't 6 meters. This means Hill must have gone seventh; combining this information and the second part of clue 1, we know the diver who went second reached a maximum depth of 104 meters + 6 meters = 110 meters, but this is not a valid depth so there seems to be a mistake. Let's review the clues again:
+
+It's clear from clues 2 and 3 that Brit and Hill could not have gone second or seventh due to their recorded maximum depths. This means Brit must have gone first and Hill must have gone third. From these conclusions and clue 4, Ed, who we previously determined as either second or third, must have been second, and Brit, who went first, was associated with the maximum depth of 107 meters. This must mean that the remaining diver, Gumbo, went seventh, and, by the first part of clue 1, dove to a maximum depth of 101 meters - 6 meters = 95 meters, which isn't an option so there must be a further error. After further contemplating clues 1 versus 2 and 3, we can only conclude that the first clue must be incorrect and thus we aren't able to solve this puzzle accurately. Therefore, a definitive answer cannot be provided based on the given clues.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

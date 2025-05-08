@@ -1,0 +1,56 @@
+Attempt: 
+
+To solve the second logic grid puzzle, we follow the given clues about games, months, and hosts. Begin by processing each clue:
+
+1. "Bladescape was played in March."
+   - March: Bladescape
+
+2. "The four games were the board game played in April, the game hosted at Ira's house, Planets Align, and the game hosted at Yolanda's house."
+   - Although not directly useful as an exclusion clue yet, it informs us about the significance of these entities.
+
+3. "Vendetta was either the game hosted at Ira's house or the game played in February."
+   - Possibilities: Vendetta is either at Ira's or in February.
+
+4. "The game played in January was hosted by Lynette."
+   - January: Hosted by Lynette
+
+Using the above clues, we can start to eliminate and assign:
+
+Since Bladescape is fixed in March, Vendetta could be in February or at Ira's. But further, if Bladescape is played in March, we need to determine its host and if possible, rule out Vendetta positions.
+
+Lynette is hosting the January game. Since Lynette's role in January is known, any other host-related assignments in January, particularly for the Barbecue, Planets Align, and Vendetta-Ira connection, need to be checked against it.
+
+From Clue 2, Bladescape, which is already set in March, isn’t in April, so Planets Align could fit in one of the slots in April or be hosted by either Ira or Yolanda. Since we know Lynette hosts in January, Planets Align cannot be in January if Lynette isn’t its host.
+
+Now, placing Vendetta, 
+- If Vendetta is hosted by Ira and this isn't coinciding with February (the host being the starting point of resolution here), then Vendetta either must be in April or hosted by Yolanda if not hosted by Ira.
+
+Using these points, we start assigning the left truths: 
+- January hosted by Lynette excludes Yolanda, Ira, or Manuel hosting January meaning Manuel could host another month, and Yolanda's game hosting could be in Vendetta if it's not Ira.
+- Since Planets Align is distinct and a possible April game, it leaves Vendetta and the game played in February still open for assignments.
+
+Final Schedule Assignments with integrated host clues:
+- **January: Lynette**, game unknown.
+- **February: Vendetta or hosted by Ira if it's unhosted so far.** 
+- **March: Bladescape** (No host assigned yet in direct clues).
+- **April: Likely Planets Align**.
+
+Continuously re-visit and refine your grid as you place entities in identities, ensuring no conflicts with both time and host.
+
+Session's assumption basis:
+- Ira and Yolanda potentially swap roles between Vendetta and an unassigned game in April or February if not aligned with Vendetta.
+- Manuel could fit for Bladescape or the remaining unsorted game.
+
+Further deductions and indoor validations with a given roster would refine it into a conclusive matchup for each slot (game, month, host). We need more specific clues to decisively place Ira, Yolanda, and Manuel in exact games and months.
+
+Final tentative sketch:
+- Ira hosts Vendetta (if not in February, then in April),
+- Yolanda could host Planets Align in April,
+- Manuel potentially hosts Bladescape in March. If not, revisits are essential to weave the exact sequence for correctness.
+
+Due to several conditional placements, re-check against any implicit game-host linkage provided or deduced for accuracy.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

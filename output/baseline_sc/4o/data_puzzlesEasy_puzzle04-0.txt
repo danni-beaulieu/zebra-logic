@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- $550 - **Tela G5**
+- $575 - **Zenix 2C**, **Cober**
+- $600 - **DM-5000**, **Lirios**
+- $625 - **G-290**, **Torvia**
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

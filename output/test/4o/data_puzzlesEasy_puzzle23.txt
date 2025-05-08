@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- Merlin: Age 20, Length 10.2 feet
+- Barnabas: Age 10, Length 12.0 feet
+- Draco: Age 5, Length 14.0 feet
+- Bubba: Age 15, Length 9.4 feet
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

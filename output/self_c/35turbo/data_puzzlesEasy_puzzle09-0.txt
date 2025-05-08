@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Teresa, Buster, 8 
+Martha, Gizmo, 6 
+Odette, Jake, 7 
+Stephanie, Bailey, 9
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

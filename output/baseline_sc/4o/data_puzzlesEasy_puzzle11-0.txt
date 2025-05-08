@@ -1,0 +1,13 @@
+Attempt: 
+
+:**
+
+- Mt. Dawson: 14340 feet, Irving Igor
+- Mt. Ingram: 14210 feet, Gerry Gamble
+- Mt. Larsen: 14600 feet, Kermit Kramer
+- Mt. Norman: 14470 feet, Hal Hudson
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

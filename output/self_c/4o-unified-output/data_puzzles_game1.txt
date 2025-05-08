@@ -1,0 +1,37 @@
+Attempt: 
+
+:**
+- Dustin, Hang Gliding, 2004
+- James, Kayaking, 2003
+- Yvonne, Camping, 2001
+- Zachary, Cycling, 2002
+
+Grade: 
+[False, True, True, False]
+Success: 
+False
+Attempt: 
+
+:**
+
+Yvonne, Camping, 2002  
+Zachary, Kayaking, 2003  
+James, Hang gliding, 2004  
+Dustin, Cycling, 2004
+
+Grade: 
+[False, False, False, False]
+Success: 
+False
+Attempt: 
+
+:
+- Dustin, hang gliding, 2002
+- James, kayaking, 2003
+- Zachary, camping, 2004
+- Yvonne, cycling, 2001
+
+Grade: 
+[True, True, False, False]
+Success: 
+False

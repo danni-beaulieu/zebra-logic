@@ -1,0 +1,12 @@
+Attempt: 
+
+**:
+- Preston, Alaska, 109
+- Larry, Alaska, 112
+- Ernesto, Virginia, 110
+- Olivia, Missouri, 111
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

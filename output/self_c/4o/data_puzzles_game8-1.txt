@@ -1,0 +1,13 @@
+Attempt: 
+
+:**
+
+- Willie, Eighth, 181 points
+- Natasha, Second, 181 points
+- Evelyn, Seventh, 187 points
+- Unspecified Dancer (must be Melissa, not yet identified), First, 184 points
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

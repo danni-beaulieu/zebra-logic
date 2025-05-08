@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Disco Mania, Hayco Inc, 1974  
+Meteor Rise, Pinnefore, 1975  
+Bowling Alley, Dow Games, 1976  
+Archer Quest, Tarco Inc, 1977
+
+Grade: 
+[True, True, False, False]
+Success: 
+False

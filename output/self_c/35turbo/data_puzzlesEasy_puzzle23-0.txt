@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Merlin, 15, 10.2 feet
+Bubba, 10, Unknown
+Barnabas, 12, 12.0 feet
+Draco, 5, 14.0 feet
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

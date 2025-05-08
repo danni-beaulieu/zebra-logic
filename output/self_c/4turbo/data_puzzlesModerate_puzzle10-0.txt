@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Earnest interprets for Patrick at 9:00am.
+- Frederick interprets for Nelson at 11:00am.
+- Ira interprets for Tyler at 10:00am.
+- Joann interprets for Karla at 12:00pm.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

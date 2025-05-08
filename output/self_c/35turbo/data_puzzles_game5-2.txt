@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+75 million, pilodontus, 750
+85 million, senosaurus, 1000
+78 million, archadon, 1000
+69 million, mirasaurus, 500
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

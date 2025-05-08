@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Omnipax, Exatris, January
+SpaceZen, Athios, February
+Vexatech, Foltron, March
+Techtrin, Worul, April
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

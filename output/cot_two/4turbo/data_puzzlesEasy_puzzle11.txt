@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Mt. Dawson, 14340 feet, climbed by Hal Hudson (remaining climber).
+- Mt. Ingram, 14600 feet, climbed by Gerry Gamble.
+- Mt. Larsen, 14210 feet, climbed by Irving Igor.
+- Mt. Norman, 14470 feet, climbed by Kermit Kramer.
+
+Grade: 
+[False, False, True, True]
+Success: 
+False

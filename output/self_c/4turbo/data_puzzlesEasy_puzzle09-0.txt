@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+Bailey, Martha, 9 weeks
+Buster, Teresa, 8 weeks
+Jake, Odette, 6 weeks
+Gizmo, Stephanie, 7 weeks
+
+Grade: 
+[False, False, True, True]
+Success: 
+False

@@ -1,0 +1,36 @@
+Attempt: 
+
+:**
+Methuselah - swoop-backed, 14
+Yoda - two rimmed, 32
+Toredo - black neck, 68
+Shelly - pitch belly, 50
+
+Grade: 
+[False, False, True, False]
+Success: 
+False
+Attempt: 
+
+:**
+- Methuselah: 32 years old, two rimmed  
+- Shelly: Black Neck, 50 years old  
+- Toredo: 14 years old, pitch belly  
+- Yoda: Pitch belly, 68 years old
+
+Grade: 
+[False, False, False, False]
+Success: 
+False
+Attempt: 
+
+:**
+- Methuselah, swoop-backed, 32
+- Shelly, pitch belly, 50
+- Toredo, black neck, 14
+- Yoda, two rimmed, 68
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

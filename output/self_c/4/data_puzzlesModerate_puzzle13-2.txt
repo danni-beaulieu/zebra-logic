@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Po Lang, Ling Ling, January
+Nan Sheng, Hua Mei, February
+Tai Shan, Gao Gao, March
+Wang Yu, Den Ping, April
+
+Grade: 
+[True, False, True, False]
+Success: 
+False

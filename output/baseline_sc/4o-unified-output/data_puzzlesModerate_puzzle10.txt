@@ -1,0 +1,39 @@
+Attempt: 
+
+**:
+
+9:00am: Ira, Tyler  
+10:00am: Earnest, Nelson  
+11:00am: Frederick, Karla  
+12:00pm: Joann, Patrick  
+
+Grade: 
+[False, False, True, False]
+Success: 
+False
+Attempt: 
+
+:**
+
+Joann - Tyler - 9:00am  
+Ira - Patrick - 10:00am  
+Frederick - Nelson - 11:00am  
+Earnest - Karla - 12:00pm
+
+Grade: 
+[True, True, False, False]
+Success: 
+False
+Attempt: 
+
+:**
+
+- Joann, Karla, 9:00am
+- Ira, Patrick, 10:00am
+- Frederick, Nelson, 11:00am
+- Earnest, Tyler, 12:00pm
+
+Grade: 
+[False, True, False, False]
+Success: 
+False

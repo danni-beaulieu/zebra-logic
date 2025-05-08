@@ -1,0 +1,13 @@
+Attempt: 
+
+:**
+
+- Alfalfa honey, $5.50: Midge Mintz
+- Lemon blossom honey, $6.50: Jim Joyner
+- Sage honey, $7.50: Keith Koch
+- Sourwood honey, $8.50: Linda Lynn
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

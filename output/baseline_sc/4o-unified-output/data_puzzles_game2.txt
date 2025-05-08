@@ -1,0 +1,37 @@
+Attempt: 
+
+:
+- Becker, turtle, October 7
+- Ingram, bowling pin, October 5
+- Keller, rocket ship, October 6
+- Massey, sailboat, October 8
+
+Grade: 
+[True, True, True, True]
+Success: 
+True
+Attempt: 
+
+:
+- Becker, Turtle, October 7
+- Ingram, Bowling Pin, October 5
+- Keller, Rocket Ship, October 6
+- Massey, Sailboat, October 8
+
+Grade: 
+[True, True, True, True]
+Success: 
+True
+Attempt: 
+
+:**
+
+October 5: Ingram, Bowling Pin  
+October 6: Keller, Rocket Ship  
+October 7: Becker, Turtle  
+October 8: Massey, Sailboat
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

@@ -1,0 +1,18 @@
+Attempt: 
+
+:
+
+Joy, Escape, March
+Darryl, (undetermined ship), April
+Beulah, Orion, May
+(undetermined student), Serenity, May
+Henrietta, Odyssey, (undetermined month)
+Yvonne, (undetermined ship), June
+(undetermined student), Liberty, July
+
+This puzzle is missing key information to fully determine an answer. The ship Darryl will study is unknown, as is the student who will study the Serenity and the month of Henrietta's project. Yvonne's ship and the student assigned to the Liberty are also undetermined. There are multiple possible outcomes for this puzzle.
+
+Grade: 
+[False, False, False, True, False]
+Success: 
+False

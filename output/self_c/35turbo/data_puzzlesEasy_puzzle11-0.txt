@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Irving Igor, Mt. Larsen, 14210
+Kermit Kramer, Mt. Dawson, 14050
+Gerry Gamble, Mt. Ingram, 14340
+Hal Hudson, Mt. Norman, 14470
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

@@ -1,0 +1,36 @@
+Attempt: 
+
+:**
+- June 10: Stanley, Jackman
+- June 11: Kyle, Hardwick
+- June 12: Chris, Leland
+- June 13: Eugene, Daly City
+
+Grade: 
+[True, True, True, True]
+Success: 
+True
+Attempt: 
+
+:**
+- June 10: Stanley, Daly City
+- June 11: Eugene, Jackman
+- June 12: Kyle, Hardwick
+- June 13: Chris, Leland
+
+Grade: 
+[False, False, False, False]
+Success: 
+False
+Attempt: 
+
+:
+- June 10: Eugene - Jackman
+- June 11: Stanley - Hardwick
+- June 12: Chris - Leland
+- June 13: Kyle - Daly City
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

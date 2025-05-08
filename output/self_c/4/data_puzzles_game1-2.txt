@@ -1,0 +1,12 @@
+Attempt: 
+
+
+Dustin, hang gliding, 2002
+James, cycling, 2003
+Yvonne, kayaking, 2003
+Zachary, camping, 2004
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

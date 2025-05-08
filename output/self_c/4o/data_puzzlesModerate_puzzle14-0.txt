@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+
+Bai Yun, Tian Tian, March\
+Den Ping, Wang Yu, February\
+Gao Gao, Tai Shan, April\
+Ling Ling, Nan Sheng, January
+
+Grade: 
+[False, False, True, True]
+Success: 
+False

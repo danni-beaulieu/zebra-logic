@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- Luther, 49 points, Cajun Chili
+- Bertha, 56 points, Smoked Pork
+- Hattie, 42 points, Cashew Tofu
+- Wade, 63 points, Turkey Soup
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

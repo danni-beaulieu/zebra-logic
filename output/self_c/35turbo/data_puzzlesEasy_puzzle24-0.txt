@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Luther, cajun chili, 49
+Bertha, cashew tofu, 56
+Hattie, turkey soup, 42
+Wade, smoked pork, 63
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

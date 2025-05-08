@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Freezon Flux, 375, 5000
+Binson C40, 440, 10000
+Z-Free XL, 505, 20000
+Chiller Z, 570, 25000
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

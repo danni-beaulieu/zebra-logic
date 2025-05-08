@@ -1,0 +1,6 @@
+Grade Average: 
+100.0
+Success Percent: 
+100.0
+Success: 
+True

@@ -1,0 +1,35 @@
+Attempt: 
+
+:
+
+Henrietta, Odyssey, March
+Darryl, Not Orion/Escapes, July
+Yvonne, Not Orion/Serenity, June
+Beulah, Not Orion/Liberty, May
+Joy, Escape, April
+The remaining ship for the remaining month of July is Liberty, thus:
+
+Henrietta, Odyssey, March
+Darryl, Liberty, July
+Yvonne, Not Orion/Serenity, June
+Beulah, Not Orion/Liberty, May
+Joy, Escape, April
+The remaining ship not yet assigned is the Serenity for Yvonne. Therefore:
+
+Henrietta, Odyssey, March
+Darryl, Liberty, July
+Yvonne, Serenity, June
+Beulah, Not Orion, May
+Joy, Escape, April
+The only unassigned one for Beulah:
+
+Henrietta, Odyssey, March
+Darryl, Liberty, July
+Yvonne, Serenity, June
+Beulah, Orion, May
+Joy, Escape, April
+
+Grade: 
+[False, False, False, False, False]
+Success: 
+False

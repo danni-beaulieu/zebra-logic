@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Penny Perry, Fiat, 3 
+Vicky Vaughan, Jeep, 4 
+Juana Juarez, Buick, 5 
+Rose Rowland, Kia, 2
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

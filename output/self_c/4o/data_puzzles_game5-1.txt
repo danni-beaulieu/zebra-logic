@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- 69 million years old: Archadon, 1250
+- 75 million years old: Mirasaurus, 750
+- 78 million years old: Pilodus, 1000
+- 85 million years old: Senosaurus, 500
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

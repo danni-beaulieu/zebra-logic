@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- 1.2 million, Lip Savage, January
+- 1.5 million, Audio Array, June
+- 1.3 million, Sodium Green, August
+- 1.4 million, Jagged Knee, September
+
+Grade: 
+[False, False, True, True]
+Success: 
+False

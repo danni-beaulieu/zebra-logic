@@ -1,0 +1,13 @@
+Attempt: 
+
+**:
+
+- June 10: Eugene, Jackman
+- June 11: Kyle, (no specific destination given)
+- June 12: Stanley, Daly City
+- June 13: Chris, Leland
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

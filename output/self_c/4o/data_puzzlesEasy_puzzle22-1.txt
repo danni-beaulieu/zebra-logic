@@ -1,0 +1,20 @@
+Attempt: 
+
+:
+- January: Planets Align, hosted by Lynette
+- February: Vendetta
+- March: Bladescape, host not given
+- April: Rules of War, hosted by Yolanda
+- Vendetta is hosted by Ira
+
+Finally:
+January: Planets Align, hosted by Lynette  
+February: Vendetta  
+March: Bladescape  
+April: Rules of War, hosted by Yolanda  
+Vendetta is hosted by Ira
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

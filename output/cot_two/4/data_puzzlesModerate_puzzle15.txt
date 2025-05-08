@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+
+Casputi, Ken Jones, 2009 
+Klionne, Gilda Frank, 2008
+Sporrin, Klein, 2010
+Gostroma, Dean Courtis, 2011
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

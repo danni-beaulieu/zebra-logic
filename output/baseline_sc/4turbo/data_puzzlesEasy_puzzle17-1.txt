@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- Athios will launch in January by SpaceZen.
+- Exatris will launch in February by Omnipax.
+- Foltron will launch in March by Vexatech.
+- Worul will launch in April by Techtrin.
+
+Grade: 
+[True, False, False, True]
+Success: 
+False

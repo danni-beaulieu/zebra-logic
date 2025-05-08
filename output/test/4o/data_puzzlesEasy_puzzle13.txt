@@ -1,0 +1,13 @@
+Attempt: 
+
+:**
+
+- Citizen Trust: 7%, Walter Wade
+- First Crescent: 9%, Kip Kerr
+- Hudson Brook: 6%, [Manager not specified directly, remainder is Mike McClain]
+- Oak Capital: 8%, Ule Underwood
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

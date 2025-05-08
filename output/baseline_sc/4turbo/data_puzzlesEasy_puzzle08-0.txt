@@ -1,0 +1,14 @@
+Attempt: 
+
+**:
+- **Jed Jarvis: Teacher, Doctor, 9500 votes.**
+- **Ed Ewing: Lawyer, 10000 votes.**
+- **Kelly Kirby: Writer, 9000 votes.**
+- **Fred Francis: 8500 votes.**
+
+Given the professions derivation is assumed and not directly said in the clues, Ed and Fred’s professions could be interchanged.
+
+Grade: 
+[False, True, False, False]
+Success: 
+False

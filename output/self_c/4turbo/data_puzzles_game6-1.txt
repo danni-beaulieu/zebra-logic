@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+- Roger's Oak, 147 ft., 94 years old
+- Old Jarvis, 144 ft., 85 years old
+- Nolan's Pine, 150 ft., 99 years old
+- The Senator, 153 ft., 79 years old
+
+Note: Reevaluation might be necessary if any contradiction is noticed, as height adjustments might have been placed incorrectly.
+
+Grade: 
+[True, False, False, True]
+Success: 
+False

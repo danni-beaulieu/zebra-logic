@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+North Bridge, girder, 8500 
+Avery Bridge, suspension, 10000 
+Gorem Bridge, truss, 11500 
+Bay Bridge, cantilever, 13000
+
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

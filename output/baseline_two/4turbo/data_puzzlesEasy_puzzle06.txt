@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- Binson C40, $440, 5000 BTUs
+- Freezon Flux, $375, 10000 BTUs
+- Z-Free XL, $570, 20000 BTUs
+- Chiller Z, $505, 25000 BTUs
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

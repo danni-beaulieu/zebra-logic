@@ -1,0 +1,12 @@
+Attempt: 
+
+):**
+- Luther | Essex | 37000
+- Quasqueton | Nantucket | 31000
+- Charles City | Hampshire | 34000
+- Oakland Acres | Berkshire | 28000
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

@@ -1,0 +1,15 @@
+Attempt: 
+
+:**
+
+- January: **Athios, SpaceZen**
+- February: **Exatris, Vexatech**
+- March: **March Rocket, Vexatech**
+- April: **Worul, Techtrin** (or Omnipax)
+
+Given constraints, mapping awaits specific launch details linked with Foltron and Omnipax besides explicit deducing Athios year start.
+
+Grade: 
+[True, False, False, True]
+Success: 
+False

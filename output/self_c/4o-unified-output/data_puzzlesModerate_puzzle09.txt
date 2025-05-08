@@ -1,0 +1,36 @@
+Attempt: 
+
+:
+Cheelia, BDF 198, 41 light years
+Ereph, HV 491, 43 light years
+Xidat, MKP 427, 45 light years
+Llyrak, VJD 913, 47 light years
+
+Grade: 
+[False, False, False, False]
+Success: 
+False
+Attempt: 
+
+:
+- Cheelia, MKP 427, 45 light years
+- Ereph, VJD 913, 43 light years
+- Llyrak, HV 491, 47 light years
+- Xidat, BDF 198, 41 light years
+
+Grade: 
+[False, False, False, False]
+Success: 
+False
+Attempt: 
+
+:**
+- Cheelia orbits MKP 427 at 47 light years.
+- Ereph orbits BDF 198 at 41 light years.
+- Llyrak orbits HV 491 at 43 light years.
+- Xidat orbits VJD 913 at 45 light years.
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

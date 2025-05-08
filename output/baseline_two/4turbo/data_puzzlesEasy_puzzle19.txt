@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- Gillis Park, diamond ring, $475
+- Burr Woods, Earring, $400
+- Colbert Run, silver coin, $325
+- Heffen Lane, Cannonball, $325
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

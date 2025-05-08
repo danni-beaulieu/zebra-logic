@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Istryn, MKP 427, 43 
+Quael, BDF 198, 45 
+Rodul, PLC 120, 45
+Vestor, HV 491, 47
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

@@ -1,0 +1,37 @@
+Attempt: 
+
+:**
+- **Fernando:** 1 GB RAM, 128 GB Hard Drive
+- **Jack:** 12 GB RAM, 128 GB Hard Drive
+- **Rex:** 3 GB RAM, 512 GB Hard Drive
+- **Wade:** 6 GB RAM, 256 GB Hard Drive
+
+Grade: 
+[False, True, False, True]
+Success: 
+False
+Attempt: 
+
+:**
+Fernando, 1 GB, 256 GB  
+Jack, 6 GB, 256 GB  
+Rex, 3 GB, 512 GB  
+Wade, 12 GB, 384 GB
+
+Grade: 
+[False, False, False, True]
+Success: 
+False
+Attempt: 
+
+:**
+
+- Fernando, 1 GB RAM, 512 GB HDD
+- Jack, 6 GB RAM, 256 GB HDD
+- Rex, 3 GB RAM, 384 GB HDD
+- Wade, 12 GB RAM, 128 GB HDD
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

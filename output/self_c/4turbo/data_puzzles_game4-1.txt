@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+2007: Peter Powers, Criminal Bane
+2008: Fred Fleming, Prism Shield
+2009: [Given assumption Fred started in 2009, could be reevaluated based on other superheroes]
+2010: Ned Nielsen, Ultra Hex
+Edsel Eaton: (dependent on if another superhero fills 2009 based on reconsidering clue 2 - needs a match for the superhero)
+
+Grade: 
+[True, True, False, False]
+Success: 
+False

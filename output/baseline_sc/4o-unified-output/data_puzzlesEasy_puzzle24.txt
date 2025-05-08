@@ -1,0 +1,36 @@
+Attempt: 
+
+:
+- Bertha, smoked pork, 63
+- Hattie, cajun chili, 56
+- Luther, cashew tofu, 42
+- Wade, turkey soup, 63
+
+Grade: 
+[False, False, False, True]
+Success: 
+False
+Attempt: 
+
+:
+Hattie, 42, Cajun chili
+Luther, 49, Cashew tofu
+Bertha, 56, Smoked pork
+Wade, 63, Turkey soup
+
+Grade: 
+[False, False, False, False]
+Success: 
+False
+Attempt: 
+
+:**
+- Bertha scored 56 points with smoked pork  
+- Hattie scored 56 points and made turkey soup
+- Luther scored 49 points with cajun chili 
+- Wade scored 42 points with cashew tofu
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

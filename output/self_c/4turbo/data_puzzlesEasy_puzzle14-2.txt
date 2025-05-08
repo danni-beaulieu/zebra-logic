@@ -1,0 +1,54 @@
+Attempt: 
+
+To solve this second logic grid puzzle involving the entities of distances, planets, and stars, we'll break down the clues and then deduce the solution.
+
+1. "Istryn, the exoplanet orbiting star HV 491, and the planet orbiting star PLC 120 are all different planets."
+   - Istryn isn't orbiting HV 491 or PLC 120.
+
+2. "Vestor is either the exoplanet 47 light years from earth or the planet orbiting star BDF 198."
+   - Vestor orbits either at 47 light years distance or orbits star BDF 198.
+
+3. "Istryn is closer to us than the exoplanet orbiting star MKP 427."
+   - Istryn's distance must be less than that of the planet orbiting MKP 427.
+
+4. "Vestor orbits star HV 491."
+   - Vestor orbits HV 491, so it's not orbiting BDF 198 and it can be 47 light years away.
+
+5. "The exoplanet orbiting star PLC 120 is 2 light years closer to us than Rodul."
+   - PLC 120's planet's distance + 2 = Rodul's distance.
+
+Let's analyze these clues:
+
+- If Vestor orbits HV 491 as per clue 4, clue 1 implies Istryn can't be orbiting HV 491, so Istryn orbits a different star.
+- Vestor's position with HV 491 in clue 4 negates its connection to BDF 198 from clue 2, making the HV 491 stellar placement definite. Vestor, therefore, might still be 47 light years from earth.
+- With Vestor orbiting HV 491, and from clue 2 knowing Vestor is either 47 light-years or at BDF 198, and since BDF 198 isn't the star, it must be 47 light years.
+- Clue 3 tells us Istryn is closer than the planet orbiting MKP 427. This effectively orders their distances when combined with other clues about distances.
+- Since the planet orbiting PLC 120 is 2 light years closer to us than Rodul (clue 5), and PLC 120 and Rodul have to align accordingly. 
+
+Given this analysis, let’s arrange the puzzle solution:
+
+- If Vestor is at HV 491 and is 47 light years away, and if PLC 120 is 2 light years closer to us than Rodul, the only remaining stars for Istryn and Quael are MKP 427 and BDF 198. 
+- By clue 3, Istryn has to be closer than the planet around MKP 427. 
+- Assume distances: Rodul could be 45 light years (since Vestor at 47, and the planet at PLC 120 would be 43), and Istryn thus might be 41 light years (being closer as per clue 3).
+
+Taking the narrative confirmations:
+- Vestor, HV 491, 47 light years.
+- Rodul, 45 light years.
+- Planet orbiting PLC 120, 43 light years.
+- Istryn, 41 light years. Given MKP 427 has a relatively farther exoplanet which is closer than Rodul, the logical order could slot MKP 427 around 43, making Istryn at MKP 427 incorrect.
+
+Therefore, considering the distance and clue corrections:
+- PLC 120 orbits Quael (since PLC is 2 years less than Rodul).
+- Istryn therefore orbits the remaining star BDF 198 at 41 light years.
+- MKP 427 planets, by exclusion, would be Rodul at 45 light years.
+
+Final answer:
+- Vestor, HV 491, 47 light years
+- Quael, PLC 120, 43 light years
+- Rodul, MKP 427, 45 light years
+- Istryn, BDF 198, 41 light years
+
+Grade: 
+[False, True, False, False]
+Success: 
+False

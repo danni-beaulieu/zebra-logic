@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Peter Peck, royal wedding, April 4th
+Tam Terry, earthquake, April 5th
+Sid Snyder, mass protests, April 6th
+Randy Reid, flooding, April 7th
+
+Grade: 
+[True, False, True, False]
+Success: 
+False

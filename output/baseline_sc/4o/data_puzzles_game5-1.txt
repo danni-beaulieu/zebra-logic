@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Archadon, 78 million, $1000
+- Mirasaurus, 75 million, $500
+- Pilodontus, 69 million, $1250
+- Senosaurus, 85 million, $750
+
+Grade: 
+[True, True, False, False]
+Success: 
+False

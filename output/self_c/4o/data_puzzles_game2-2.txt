@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Mrs. Ingram, Bowling pin, October 5
+- Mrs. Becker, Turtle, October 6
+- Mrs. Keller, Rocket ship, October 7
+- Mrs. Massey, Sailboat, October 8
+
+Grade: 
+[False, True, False, True]
+Success: 
+False

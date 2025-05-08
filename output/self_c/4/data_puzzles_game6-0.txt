@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Old Jarvis (Nolan’s Pine), 144ft., 99 
+Roger’s Oak, 147ft., 85 
+Unknown, 150ft., 79 (This must be the Senator because it's the only name left)
+Unknown, 153ft., 94 (This must be Old Jarvis because it's the only name left)
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

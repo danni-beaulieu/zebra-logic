@@ -1,0 +1,36 @@
+Attempt: 
+
+:
+- 2007: Criminal Bane, Peter Powers
+- 2008: Green Avenger, Fred Fleming
+- 2009: Ultra Hex, Ned Nielsen
+- 2010: Prism Shield, Edsel Eaton
+
+Grade: 
+[True, False, True, False]
+Success: 
+False
+Attempt: 
+
+:
+- 2007: Criminal Bane, Peter Powers
+- 2008: Green Avenger, Fred Fleming
+- 2009: Ultra Hex, Ned Nielsen
+- 2010: Prism Shield, Edsel Eaton
+
+Grade: 
+[True, False, True, False]
+Success: 
+False
+Attempt: 
+
+:
+- 2007: Peter Powers, Criminal Bane
+- 2008: Fred Fleming, Prism Shield
+- 2009: Ned Nielsen, Ultra Hex
+- 2010: Edsel Eaton, Green Avenger
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

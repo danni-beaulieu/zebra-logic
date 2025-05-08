@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Bold Service, Adrienne Day, 5 nominations
+- Maximum Risk, [Remaining Director], 4 nominations
+- Fatal Sheen, Gabby Jones, 2 nominations
+- Wild Ones, Virgil Katz, 3 nominations
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

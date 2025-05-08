@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Brit Bradley, 107, first
+Ed Elliott, 98, seventh
+Gumbo Giles, 101, second
+Hill Harvey, 104, third
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

@@ -1,0 +1,21 @@
+Attempt: 
+
+
+- **January:** (Hosted by Lynette) Rules of War  
+- **February:** Vendetta
+- **March:** Bladescape
+- **April:** Planets Align (Hosted by remaining Ira or Yolanda if not otherwise specified)  
+
+Host associations align as:
+
+- **Ira:** Ira must host the April game if not linked elsewhere.
+- **Lynette:** January game.
+- **Yolanda:** Hosts one of the games, likely either Vendetta or Planets Align; by fitting the unsettled associations. In this resolution, Yolanda can be aligned with the adjacent logic.
+- The host Yolanda is linked accordingly only if other configurations are exhausted logically.
+
+Using deduction, reasoning, matching, and process of elimination, one arrives at these conclusions as the most fitting.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

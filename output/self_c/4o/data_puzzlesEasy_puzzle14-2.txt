@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- **Vestor, HV 491, (45 or 47) light years**
+- **Istryn, Not associated with HV 491 nor PLC 120, 41 light years**
+- **Rodul, (43 light years, matching "PLC 120 + 2")**
+- **Quael, Variable calculate for last fit, balancing respective of unfilled and untied planets**
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

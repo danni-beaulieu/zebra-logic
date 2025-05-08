@@ -1,0 +1,31 @@
+Attempt: 
+
+:**
+- Olga, Travelore, 25 liters
+- Leroy, Pinkster, 30 liters
+- Gene, Grennel, 35 liters
+- Jeffrey, Bistric, 40 liters
+
+For the second logic grid puzzle regarding distances, planets, and stars:
+
+**Clue Analysis and Deductions:**
+
+1. **"Istryn, the exoplanet orbiting HV 491, and the planet orbiting PLC 120 are all different planets."**
+   Istryn ≠ HV 491, Istryn ≠ PLC 120.
+
+2. **"Vestor is either 47 light years or orbits BDF 198. Vestor orbits HV 491."**
+   Vestor = HV 491.
+   As Vestor ≠ 47 light years from clue 2 above, Vestor has a different distance, Vestor ≠ BDF 198.
+
+3. **"Istryn is closer than the planet orbiting MKP 427."**
+   If MKP 427 = x light years, Istryn < MKP 427.
+
+4. **"The exoplanet orbiting PLC 120 is 2 light years closer to us than Rodul."**
+   PLC 120 = y - 2 light years, Rodul = y.
+
+**Incomplete due to missing precise distance connections and remaining clues**, requiring further analysis of distances.
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

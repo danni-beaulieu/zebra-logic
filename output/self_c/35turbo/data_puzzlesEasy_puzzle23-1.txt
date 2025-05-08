@@ -1,0 +1,26 @@
+Attempt: 
+
+From the clues, we can deduce the following:
+
+1. Merlin is older than Bubba
+2. Merlin is 10.2 feet long
+3. Bubba is 10 years older than the gator that is 14.0 feet long
+4. Barnabas is 12.0 feet long
+
+Using this information, we can determine the following associations:
+- Merlin is 15 years old and 10.2 feet long
+- Bubba is 5 years old and 14.0 feet long
+- Barnabas is 12.0 feet long
+- Draco is 20 years old and the length is 9.4 feet
+
+The final solution is:
+
+Bubba, 5, 14.0
+Merlin, 15, 10.2
+Barnabas, 12.0
+Draco, 20, 9.4
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

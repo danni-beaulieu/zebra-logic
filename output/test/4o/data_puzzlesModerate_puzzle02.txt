@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- Bruce - September 29th, $100000
+- William - $115000 (other logic ensures not needed with stated date benefits)
+- Jim - September 8th, $130,000
+- Shannon - September 1st, $100000
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

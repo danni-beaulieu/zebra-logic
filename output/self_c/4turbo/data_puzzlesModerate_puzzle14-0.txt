@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Bai Yun, Tian Tian, January
+- Den Ping, Wang Yu, February (since Bai Yun, Nan Sheng's baby, is in January, and Bai Yun is Tian Tian's baby; thus Den Ping is the only option left for February and Wang Yu)
+- Gao Gao, Tai Shan, March
+- Ling Ling, Wang Yu, April
+
+Grade: 
+[False, True, False, False]
+Success: 
+False

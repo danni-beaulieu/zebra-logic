@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+- Henrietta, Odyssey, March
+- Beulah, Escape, April
+- Yvonne, Orion, May
+- [Liberty], June (Implied from other data)
+- Darryl, Liberty, July
+
+Grade: 
+[False, True, False, False, False]
+Success: 
+False

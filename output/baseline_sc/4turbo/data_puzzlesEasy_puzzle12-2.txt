@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- Joann interprets for Karla at 9:00am.
+- Gordon interprets for Orlando at 10:00am.
+- Annie interprets for Rafael at 11:00am.
+- Charlie interprets for Sophie at 12:00pm.
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

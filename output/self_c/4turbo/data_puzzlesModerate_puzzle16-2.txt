@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- April: Clara Street, vacant manager
+- May: Fred Lane, Irma Ingram
+- June: Norway Court, Dawn Daniels
+- July: York Court, Gail Garrett
+
+Grade: 
+[False, True, False, False]
+Success: 
+False

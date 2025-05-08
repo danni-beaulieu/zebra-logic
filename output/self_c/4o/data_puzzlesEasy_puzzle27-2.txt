@@ -1,0 +1,13 @@
+Attempt: 
+
+:**
+
+- Bai Yun: January, Tian Tian
+- Ling Ling: February, Yuan Zai
+- Den Ping: March, Po Lang
+- Chi Chi: April, Wang Yu
+
+Grade: 
+[True, True, False, False]
+Success: 
+False

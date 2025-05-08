@@ -1,0 +1,37 @@
+Attempt: 
+
+:
+- Senosaurus, 500, 85 million
+- Archadon, 1250, 69 million
+- Pilodontus, 1000, 78 million
+- Mirasaurus, 750, 75 million
+
+Grade: 
+[False, False, True, True]
+Success: 
+False
+Attempt: 
+
+:
+- Mirasaurus, 75 million years, $500  
+- Pilodontus, 78 million years, $1000  
+- Archadon, 69 million years, $1250  
+- Senosaurus, 85 million years, $750
+
+Grade: 
+[True, True, True, True]
+Success: 
+True
+Attempt: 
+
+:
+- Pilodontus, 78 million, $1000
+- 75 million fossil (mirasaurus), $500
+- Archadon, 69 million, $1250
+- Senosaurus, 85 million, $750
+
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+Beulah, Odysse, July
+Darryl, Serenity, April
+Henrietta, Odyssey, March
+Joy, Liberty, May
+Yvonne, Escape, June
+
+Grade: 
+[False, False, False, False, False]
+Success: 
+False

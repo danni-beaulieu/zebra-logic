@@ -1,0 +1,12 @@
+Attempt: 
+
+ for the Bridges puzzle**:
+- Avery Bridge, suspension, 8500 ft
+- Bay Bridge, cantilever, 13000 ft
+- Gorem Bridge, truss, 11500 ft
+- North Bridge, girder, 8500 ft
+
+Grade: 
+[True, False, True, True]
+Success: 
+False

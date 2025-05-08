@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+1. Tara, Evans Gambit, first
+2. Luis, Torre Attack, second
+3. Rose, Giuoco Start, third
+4. Mae, Reti Opening, fourth
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

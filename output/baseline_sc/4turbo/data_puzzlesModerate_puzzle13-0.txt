@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- Po Lang is the mother of Ling Ling, born in January.
+- Wang Yu is the mother of Hua Mei, born in February.
+- Tai Shan is the mother of Gao Gao, born in March.
+- Nan Sheng is the mother of Den Ping, born in April.
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

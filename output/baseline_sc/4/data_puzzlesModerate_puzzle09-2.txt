@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Cheelia, HV 491, 43 Light Years
+Xidat, MKP 427, 45 Light Years
+Llyrak, BDF 198, 41 Light Years
+Ereph, VJD 913, 47 Light Years
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

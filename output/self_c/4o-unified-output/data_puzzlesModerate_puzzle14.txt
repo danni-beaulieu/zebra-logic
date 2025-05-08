@@ -1,0 +1,37 @@
+Attempt: 
+
+:
+- Bai Yun is Tian Tian’s baby born in March.
+- Den Ping is Tai Shan’s baby born in February.
+- Nan Sheng’s baby is the one born in January (not named explicitly in the clues).
+- Gao Gao is Wang Yu’s baby born in April.
+
+Grade: 
+[False, False, True, False]
+Success: 
+False
+Attempt: 
+
+:
+1. Den Ping, Nan Sheng, February
+2. Bai Yun, Tian Tian, March
+3. Gao Gao, Tai Shan, April
+4. Ling Ling, Wang Yu, January
+
+Grade: 
+[True, True, True, True]
+Success: 
+True
+Attempt: 
+
+:**
+
+- **Bai Yun, Tai Shan's baby, January**
+- **Ling Ling, Nan Sheng's baby, March**
+- **Den Ping, Tian Tian's baby, February**
+- **Gao Gao, Wang Yu's baby, April**
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

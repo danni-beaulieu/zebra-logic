@@ -1,0 +1,12 @@
+Attempt: 
+
+**:
+- Worul, Omnipax or Techtrin (unassigned month but can be inferred as January from the description setup), January
+- Foltron, Omnipax, February
+- Exatris, Techtrin, Unassigned exact month but not in the provided clues when others are fixed so potentially June
+- Athios, SpaceZen, April
+
+Grade: 
+[False, True, False, False]
+Success: 
+False

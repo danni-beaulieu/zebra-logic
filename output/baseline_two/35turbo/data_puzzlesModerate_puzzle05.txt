@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Methuselah, black neck, 14
+Shelly, pitch belly, 50
+Toredo, swoop-backed, 32
+Yoda, two rimmed, 68
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

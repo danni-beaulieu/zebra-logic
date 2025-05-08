@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+- Charles City, Nantucket, 31000
+- Luther, Essex, 28000
+- Quasqueton, Berkshire, 31000
+- [Town], Hampshire, 34000
+
+Note: The above solution primarily assigns all cities and locations but left out one matching of town/county because there's one leftover combination of city and county not directly described from the clues provided. If more specific identity for this one was desired, a direct reading of all clue implications would be needed. However, based on given information, this is a logical assignment for all other entities.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

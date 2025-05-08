@@ -1,0 +1,51 @@
+Attempt: 
+
+For the second puzzle, let’s analyze the clues provided and use them to determine the correct distribution across entities:
+
+Clues:
+1. "Peter Peck was either the person sent out on April 4th or the person who covered the earthquake."
+2. "Peter Peck covered the royal wedding."
+3. "Randy Reid left 2 days after the person who covered the flooding."
+4. "Sid Snyder covered the mass protests."
+
+Steps:
+
+**Step 1: Direct Assignments**
+- Peter Peck covered the royal wedding (from clue 2).
+- Sid Snyder covered the mass protests (from clue 4).
+
+As Peter Peck covered the royal wedding, ignore the other option in clue 1 that Peter could have covered the earthquake.
+
+**Step 2: Determine related dates and other reporters**
+- Peter was either out on April 4th or covered another event. We apply more details later.
+
+**Step 3: Explore Relations and Consequences**
+From clue 3, Randy Reid left 2 days after the person who covered the flooding. So we align the dates:
+- If the ‘flooding’ happened on April 4th, then Randy Reid left on April 6th.
+- If the ‘flooding’ happened on April 5th, then Randy Reid left on April 7th.
+- If the ‘flooding’ happened on April 6th, Randy cannot leave 2 days later, as April 8th is not part of the options, so this is not possible.
+
+**Step 4: Assign Remaining Stories and Dates**
+- With the royal wedding and mass protests taken by Peter Peck and Sid Snyder, the remaining stories are flooding and the earthquake for the remaining reporters (Randy Reid and Tam Terry).
+- Since Randy left 2 days after flooding, flooding can't be on April 6th. Therefore, it can either be on April 4th or April 5th with Randy leaving on April 6th or April 7th, respectively. 
+
+Thus:
+- If we assume flooding occurred on April 4th (and thus Randy leaving on April 6th), that remains the only logical conclusion as April 5th as the date of flooding would require Randy to leave on a non-existent date (April 8th). Then, Tam would be left with covering the earthquake.
+
+Placing these:
+- Flooding on April 4th.
+- Randy Reid covered another story and left on April 6th.
+- Since Peter has been given as possibly out on April 4th and he covered royal wedding from above resolution (may align April 4th), then earthquake has to be Tam Terry’s story.
+
+Summary of the final alignment:
+- April 4th, Flooding, Randy Reid
+- April 5th, Royal Wedding, Peter Peck
+- April 6th, Earthquake, Tam Terry
+- April 7th, Mass Protests, Sid Snyder
+
+These events satisfy all clues and reported orders provided, correctly associating reporters, their stories, and respective days. This conclusion involves careful examination of possible and impossible scenarios based on the clue about the 2-day gap after flooding.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

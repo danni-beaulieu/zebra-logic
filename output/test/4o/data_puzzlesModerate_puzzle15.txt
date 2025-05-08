@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+
+- Year 2008: Gilda Frank discovered Casputi.
+- Year 2009: Dean Courtis discovered Klionne.
+- Year 2010: Klein discovered Sporrin.
+- Year 2011: Gostroma was discovered (by Ken Jones, through process of elimination).
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

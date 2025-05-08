@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+1. Kermit, #118, first
+2. Ophelia, #128, second
+3. Stretch, #126, third
+4. Bridget, #105, fourth
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

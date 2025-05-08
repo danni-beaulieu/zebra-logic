@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Lynette hosted Rules of War in January.
+- Yolanda hosted Planets Align in February.
+- Manuel hosted Bladescape in March.
+- Ira hosted Vendetta in April.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

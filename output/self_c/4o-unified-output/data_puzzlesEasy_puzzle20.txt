@@ -1,0 +1,37 @@
+Attempt: 
+
+:**
+
+- Anthony, arachnid, $60
+- Lonnie, arachnid, $75
+- Olga, raft spider, $45
+- Tim, whip spider, $90
+
+Grade: 
+[False, False, False, False]
+Success: 
+False
+Attempt: 
+
+:
+- Anthony, Redback, $45
+- Lonnie, Whip Spider, $75
+- Olga, Raft Spider, $45
+- Tim, Wolf Spider, $60
+
+Grade: 
+[False, False, True, False]
+Success: 
+False
+Attempt: 
+
+:**
+- Anthony, Redback, 75
+- Lonnie, whip spider, 75
+- Olga, raft spider, 45
+- Tim, wolf spider, 90
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

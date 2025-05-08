@@ -1,0 +1,15 @@
+Attempt: 
+
+:**
+
+- **Bai Yun:** Tian Tian, January
+- **Den Ping:** Wang Yu, February
+- **Gao Gao:** Nan Sheng, March
+- **Ling Ling:** Tai Shan, April
+
+This completes the puzzle based on logic derived from the clues provided.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

@@ -1,0 +1,15 @@
+Attempt: 
+
+):
+
+- **Stanley, Jackman, June 10**
+- **Kyle, Hardwick, June 11**
+- **Eugene, Daly City, June 12**
+- **Chris, Leland, June 13**
+
+Each of these individuals is associated with a destination and a specific departure date which fits all the given conditions.
+
+Grade: 
+[True, True, False, False]
+Success: 
+False

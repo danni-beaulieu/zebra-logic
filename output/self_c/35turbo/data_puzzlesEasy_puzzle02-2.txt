@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+June 9, Stanley, Jackman
+June 10, Kyle, Hardwick
+June 11, Eugene, Leland
+June 12, Chris, Leland
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

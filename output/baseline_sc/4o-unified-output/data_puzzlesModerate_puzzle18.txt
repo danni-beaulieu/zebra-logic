@@ -1,0 +1,36 @@
+Attempt: 
+
+**:
+- 9:00am - Ira with Sophie
+- 10:00am - Harold working with Nelson
+- 11:00am - Frederick with Karla
+- 12:00pm - Charlie with Orlando
+
+Grade: 
+[True, True, False, False]
+Success: 
+False
+Attempt: 
+
+:
+- **Ira with Orlando at 9:00am**
+- **Frederick with Nelson at 10:00am**
+- **Charlie with Karla at 11:00am**
+- **Harold with Sophie at 12:00pm**
+
+Grade: 
+[False, False, True, False]
+Success: 
+False
+Attempt: 
+
+:
+- Harold with Orlando at 9:00am
+- Frederick with Nelson at 10:00am
+- Ira with Karla at 11:00am
+- Charlie with Sophie at 12:00pm
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

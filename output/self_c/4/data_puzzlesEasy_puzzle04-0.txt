@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+Lirios, DM-5000, 600 
+Torvia, [Unknown model], 625 
+Cober, G-290, [Unknown price] 
+Nectron, Tela G5, 575
+
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

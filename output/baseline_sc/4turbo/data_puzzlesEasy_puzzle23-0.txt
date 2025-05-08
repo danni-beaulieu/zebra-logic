@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Merlin, 20 years, 10.2 feet
+Bubba, 15 years, 9.4 feet
+Draco, 10 years, 14.0 feet
+Barnabas, 12.0 feet (age remaining is 5 years per the above deductions)
+
+Grade: 
+[False, False, True, True]
+Success: 
+False

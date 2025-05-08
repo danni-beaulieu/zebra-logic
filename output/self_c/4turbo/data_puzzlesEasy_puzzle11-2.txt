@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Mt. Ingram, 14600, Gerry Gamble
+Mt. Norman, 14470, [Yet to assign]
+Mt. Larsen, 14210, Irving Igor (by elimination)
+Mt. Dawson, 14340, Kermit Kramer
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

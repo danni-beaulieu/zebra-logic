@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Herbert, sei whale, 27 ft
+Adam, fin whale, 25 ft
+Dennis, beluga whale, 23 ft
+Brent, right whale, 21 ft
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Clara Street, Al Anderson, April
+Irma Ingram, May
+Norway Court, Gail Garrett, June
+York Court, Dawn Daniels, July
+
+Grade: 
+[True, False, True, True]
+Success: 
+False

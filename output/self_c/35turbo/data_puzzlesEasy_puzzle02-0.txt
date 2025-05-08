@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Kyle, Jackman, June 10
+Eugene, Hardwick, June 11
+Chris, Leland, June 12
+Stanley, Daly City, June 13
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

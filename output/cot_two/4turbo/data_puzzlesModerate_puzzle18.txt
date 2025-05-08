@@ -1,0 +1,12 @@
+Attempt: 
+
+**:
+- **Charlie** works with **Sophie** at **12:00pm**
+- **Frederick** works with **Nelson** at **10:00am**
+- **Ira** works with **Orlando** at **9:00am**
+- **Harold** works with **Karla** at **11:00am**
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

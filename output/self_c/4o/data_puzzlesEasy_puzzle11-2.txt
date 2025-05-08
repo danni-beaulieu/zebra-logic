@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+
+- **Mt. Dawson:** 14340 feet, first summited by Kermit Kramer
+- **Mt. Ingram:** 14600 feet, first summited by Gerry Gamble
+- **Mt. Larsen:** 14210 feet, first summited by Irving Igor
+- **Mt. Norman:** 14470 feet, first summited by Hal Hudson
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

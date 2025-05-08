@@ -1,0 +1,41 @@
+Attempt: 
+
+To solve the second logic grid puzzle involving baking times, recipes, and temperatures, let's analyze the given clues systematically:
+
+1. The recipe that cooks at 325 degrees requires 10 minutes less baking time than the meatloaf.
+2. The chicken cutlet requires 5 minutes less baking time than the candied yams recipe.
+3. The mac and cheese requires 5 minutes less baking time than the dish that cooks at 340 degrees.
+4. The recipe that cooks at 325 degrees bakes somewhat longer than the recipe that cooks at 410 degrees.
+
+Let's consider the possible baking times in order: 25 minutes, 30 minutes, 35 minutes, and 40 minutes.
+
+Since the 325-degree recipe takes 10 minutes less than the meatloaf, and it must also be longer than the recipe at 410 degrees — let's explore possibilities:
+- Assume the meatloaf takes the longest baking time we have, 40 minutes. Then the 325 degrees recipe would take 30 minutes (40 - 10). Yet it also exceeds the time of the recipe at 410 degrees, which could fit with it taking 25 minutes.
+- This means the baking times are distributed such that: 410 degrees -> 25 minutes, 325 degrees -> 30 minutes, Meatloaf (unknown temperature) -> 40 minutes.
+
+Next:
+- The chicken cutlet takes 5 minutes less than the candied yams. The candied yams cannot be 40 minutes, as this is taken by the meatloaf.
+- If we hypothetically set the candied yams at 35 minutes, then the chicken cutlet would be at 30 minutes. But, the 30-minute slot is taken by 325 degrees.
+- So, the only feasible setup left here would then have candied yams at 30 minutes and the chicken cutlet at 25 minutes - again clashing as 25 minutes is occupied by 410 degrees.
+
+Let's revisit and finalise:
+- With the given information and remaining possibilities, mac and cheese must take the slot left by others. The chicken cutlet then can't be 25 minutes (410 degrees) and not 30 minutes. If chicken cutlet is 25 minutes, and considering it's 5 minutes less than candied yams:
+  - Candied yams -> 30 minutes.
+  - Mac and cheese takes 5 minutes less than 340 degrees—so if 340 degrees is 35 minutes (since the only longer option 40 is taken by meatloaf), Mac and cheese would be 30 minutes. But candied yams holds this spot.
+  - Hence, place chicken cutlet at 25 minutes (410 degrees), candied yams at 35 minutes. The only open slot for mac and cheese is 30 minutes, and meatloaf remains at 40 minutes.
+
+Final arrangement for temperatures:
+- If 340 degrees were set for mac and cheese (35 minutes), it contradicts mac and cheese being 5 minutes less at 30 minutes. The only temperatures left are for meatloaf, and 325 degrees which fits chicken cutlet.
+
+Completed Solution (with final temperature placements):
+- Chicken Cutlet, 25 minutes, 410 degrees
+- Mac and Cheese, 30 minutes, 350 degrees
+- Candied Yams, 35 minutes, 340 degrees
+- Meatloaf, 40 minutes, 325 degrees
+
+Corrected from earlier work. Use this as reference to cross-verify baking times, recipes, and temperature allocations matching the initial clues.
+
+Grade: 
+[False, True, False, False]
+Success: 
+False

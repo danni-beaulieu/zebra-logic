@@ -1,0 +1,56 @@
+Attempt: 
+
+To solve the logic grid puzzle for the entities and clues provided about the hedge funds, their returns, and their managers:
+
+1. First Crescent is run by Kip Kerr.
+
+   From this information directly:
+   - First Crescent → Kip Kerr
+
+2. Citizen Trust is either the one with a return of 7% or the fund run by Kip Kerr.
+
+   But since Kip Kerr runs First Crescent, Citizen Trust must have a return of 7%.
+   - Citizen Trust → 7%
+   - This also implies Walter Wade manages Citizen Trust (From clue 4).
+
+3. The fund run by Ule Underwood has a 2 percent larger return than Hudson Brook.
+
+   We will specify the exact returns after evaluating the remaining clues.
+
+4. The fund with a return of 7% is run by Walter Wade.
+
+   Already used to identify that Walter Wade manages Citizen Trust, confirming Citizen Trust → 7%, Walter Wade.
+   
+   Remaining managers and their funds:
+   - Kip Kerr → First Crescent
+   - Ule Underwood
+   - Mike McClain
+   - Remaining funds:
+   - Hudson Brook
+   - Oak Capital
+
+   The funds' returns left to assign:
+   - 6%, 8%, 9%
+
+   Since Ule Underwood's fund has a 2 percent larger return than Hudson Brook, let's find a combination that fits:
+   - If Hudson Brook → 6%, then Ule Underwood's fund → 8% (6% + 2%)
+   - This leaves the 9% return to the remaining fund and manager.
+
+5. Fill in the remaining hedging:
+   - Hudson Brook → 6%
+   - Mike McClain then must run Oak Capital with a 9% return because the remaining pairing options are exhausted.
+   - Ule Underwood → 8%
+   - First Crescent is the only remaining fund without a return assigned. Returns for First Crescent cannot be 6%, 7%, or 8%, so it must be 9%.
+   - This leaves Kip Kerr having the fund of 9% instead, thus adjusting Mike McClain must be with Hudson Brook with 6%.
+   - Ule Underwood runs Oak Capital with 8%.
+
+Final solution:
+- Citizen Trust, 7%, Walter Wade
+- Hudson Brook, 6%, Mike McClain
+- Oak Capital, 8%, Ule Underwood
+- First Crescent, 9%, Kip Kerr
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

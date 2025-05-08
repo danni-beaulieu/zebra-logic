@@ -1,0 +1,37 @@
+Attempt: 
+
+:
+- April 4th: Peter Peck, Royal wedding
+- April 5th: Flooding (unnamed reporter)
+- April 6th: Sid Snyder, Mass protests
+- April 7th: Randy Reid, Earthquake
+
+Grade: 
+[True, False, True, True]
+Success: 
+False
+Attempt: 
+
+:**
+- April 4th: Peter Peck, Royal Wedding
+- April 5th: Tam Terry, Flooding
+- April 6th: Sid Snyder, Mass Protests
+- April 7th: Randy Reid, Earthquake
+
+Grade: 
+[True, True, True, True]
+Success: 
+True
+Attempt: 
+
+:
+
+April 4th: Peter Peck, Royal Wedding  
+April 5th: Tam Terry, Flooding  
+April 6th: Sid Snyder, Mass Protests  
+April 7th: Randy Reid, Earthquake  
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

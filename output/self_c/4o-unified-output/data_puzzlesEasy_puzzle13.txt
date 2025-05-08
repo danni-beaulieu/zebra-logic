@@ -1,0 +1,36 @@
+Attempt: 
+
+:
+- Citizen Trust: 7% return, Walter Wade
+- First Crescent: 9% return, Kip Kerr
+- Hudson Brook: 6% return, Mike McClain
+- Oak Capital: 8% return, Ule Underwood
+
+Grade: 
+[True, True, True, True]
+Success: 
+True
+Attempt: 
+
+:**
+- Citizen Trust, Walter Wade, 7%
+- First Crescent, Kip Kerr, 9%
+- Hudson Brook, Ule Underwood, 6%
+- Oak Capital, Mike McClain, 8%
+
+Grade: 
+[False, True, False, True]
+Success: 
+False
+Attempt: 
+
+:
+- Citizen Trust, Walter Wade, 7%
+- First Crescent, Kip Kerr, 9%
+- Hudson Brook, Mike McClain, 6%
+- Oak Capital, Ule Underwood, 8%
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

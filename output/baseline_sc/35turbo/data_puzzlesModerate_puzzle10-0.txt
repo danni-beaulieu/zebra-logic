@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Earnest, Karla, 9:00am
+Frederick, Nelson, 11:00am
+Ira, Patrick, 10:00am
+Joann, Tyler, 12:00pm
+
+Grade: 
+[False, True, False, False]
+Success: 
+False

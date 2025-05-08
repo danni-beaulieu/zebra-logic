@@ -1,0 +1,12 @@
+Attempt: 
+
+":
+- Mad Mashers used the Vacuum Cannon and reached 135 ft.
+- Russets used the Trebuchet and reached 165 ft.
+- Spud Chuckers used the Slingshot and reached 180 ft.
+- Super Tubers used the Catapult and reached 150 ft.
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

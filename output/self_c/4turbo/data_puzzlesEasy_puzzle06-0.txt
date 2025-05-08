@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+- Binson C40, 5000 BTUs, $440
+- Freezon Flux, 25000 BTUs, $375
+- Z-Free XL, 20000 BTUs, $505
+- Chiller Z, 10000 BTUs, $570 
+
+There is ample scope for adjusting depending on slight variances or unclarified interpretations of cost relations and the fullest extents of exclusions. This solution assumes a linear and exclusive interpretation of the less/more expressions around costs relative to BTUs.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

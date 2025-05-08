@@ -1,0 +1,40 @@
+Attempt: 
+
+To solve the second logic grid puzzle, analyze and synthesize the clues provided:
+
+1. "The ostrich that finished second was #128."
+   - #128 finishes second.
+
+2. "Ophelia finished second."
+   - Ophelia is #128 since both finished second.
+
+3. "The ostrich that finished first was either #118 or #126."
+   - First is occupied by either #118 or #126.
+
+4. "The runner that finished third was either #126 or Bridget."
+   - Third is either #126 or Bridget.
+
+5. "Stretch finished 2 places after Kermit."
+   - Stretch is two places behind Kermit.
+
+Analyzing the clues altogether:
+
+- Ophelia is #128 and finishes second.
+- Since the third position is either #126 or Bridget, and Stretch finishes two places after Kermit:
+  - If Kermit finishes first or second, then Stretch would be third or fourth.
+  - But if Kermit were first, Stretch should ideally be third, yet this is not possible because third is either Bridget or #126.
+  - Thus, if Kermit finishes third, it allows Stretch to finish fourth. But then both first and second should not be him, so Kermit can’t be first.
+  - Kermit cannot finish third because third is for #126 or Bridget.
+  - Hence, Kermit must be first. Stretch, therefore, will finish fourth.
+  - Since Kermit is first and Ophelia (as #128) is second, then either #118 or #126 takes the first. If First was #126, third would be #118, leaving Bridget not fitting as #118 isn’t an option for third. Therefore, #118 is first (and is Kermit), #126 is third, and Bridget is also third.
+  
+Final answer:
+- Kermit, #118, first.
+- Ophelia, #128, second.
+- Bridget, #126, third.
+- Stretch, fourth.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

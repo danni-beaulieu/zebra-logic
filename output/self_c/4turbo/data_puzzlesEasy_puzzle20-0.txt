@@ -1,0 +1,15 @@
+Attempt: 
+
+:**
+
+- Olga: raft spider, $45
+- Lonnie: whip spider, $75
+- Anthony: redback, $60 (wolf's $15 cheaper variant is redback)
+- Tim: wolf spider, $90
+  
+Further clues disambiguation might be necessary for complete accuracy, but based on logic deductions, this configuration stands as a fitted solution.
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

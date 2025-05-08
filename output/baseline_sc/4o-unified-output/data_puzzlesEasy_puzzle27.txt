@@ -1,0 +1,36 @@
+Attempt: 
+
+:**
+- Bai Yun - January - Tian Tian
+- Ling Ling - February - Yuan Zai
+- Chi Chi - March - Wang Yu
+- Den Ping - April - Po Lang
+
+Grade: 
+[True, True, True, True]
+Success: 
+True
+Attempt: 
+
+:
+- January, Bai Yun, Yuan Zai
+- February, Chi Chi, Wang Yu
+- March, Ling Ling, Tian Tian
+- April, Den Ping, Po Lang
+
+Grade: 
+[False, False, False, True]
+Success: 
+False
+Attempt: 
+
+:
+- January: Bai Yun, Mother: Yuan Zai
+- February: Chi Chi, Mother: Wang Yu
+- March: Ling Ling, Mother: Tian Tian
+- April: Den Ping, Mother: Po Lang
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

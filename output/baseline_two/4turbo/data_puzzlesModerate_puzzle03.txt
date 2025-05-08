@@ -1,0 +1,39 @@
+Attempt: 
+
+:
+
+Avery Bridge, suspension, 8500 ft  
+North Bridge, girder, 10000 ft  
+Gorem Bridge, truss, 13000 ft  
+Bay Bridge, cantilever, 14500 ft  
+
+Let's solve the logic grid puzzle step by step using the given clues:
+
+1. **North Bridge is the girder bridge.**
+   - North Bridge: Girder
+
+2. **Gorem Bridge is 3000 feet longer than the girder bridge.**
+   - Since North Bridge is the girder bridge and the next increment from any known length should be 3000 ft higher, Gorem Bridge has to be 13000 ft (10000 ft + 3000 ft = 13000 ft).
+   - Gorem Bridge: 13000 ft
+
+3. **Of Avery Bridge and North Bridge, one is the suspension bridge and the other is 8500 ft.**
+   - Since North Bridge is already identified as the girder bridge and not the suspension bridge, Avery Bridge must be the suspension bridge.
+   - Avery Bridge: Suspension
+   - Therefore, since North Bridge is not 8500 ft (as it would have been already stated), Avery Bridge must be 8500 ft.
+   
+4. **Gorem Bridge is 1500 feet shorter than Bay Bridge.**
+   - Gorem Bridge is 13000 ft, so Bay Bridge must be 14500 ft (13000 ft + 1500 ft).
+
+5. **The 11500 ft bridge is either the truss structure or Bay Bridge.**
+   - Since Bay Bridge is 14500 ft, the 11500 ft cannot apply to Bay Bridge, which implies the 11500 ft bridge must be the truss structure.
+   - There are no indications directly contradicting any other allocations.
+
+Filling in remaining types and correlating lengths:
+- Since the types and lengths align only one way confirmed by all clues: North Bridge, already identified as Girder, must be 10000 ft; Gorem Bridge being the truss, aligns with 13000 ft; Bay Bridge remains as Cantilever, therefore correlates with 14500 ft. 
+
+All entities match with the provided clues without contradictions, and the lengths align from smallest to largest cohesively with the type and bridge identities.
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

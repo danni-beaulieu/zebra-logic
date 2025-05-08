@@ -1,0 +1,37 @@
+Attempt: 
+
+:
+Gumbo Giles, 101 meters, first
+Hill Harvey, 104 meters, second
+Brit Bradley, 107 meters, third
+Ed Elliott, 98 meters, seventh
+
+Grade: 
+[False, False, False, False]
+Success: 
+False
+Attempt: 
+
+:
+- Brit Bradley, Second, 107 meters
+- Hill Harvey, Third, 104 meters
+- Gumbo Giles, First, 98 meters
+- Ed Elliott, Seventh, 101 meters
+
+Grade: 
+[False, True, False, True]
+Success: 
+False
+Attempt: 
+
+:**
+
+- Brit Bradley, 107 meters, went first.
+- Ed Elliott, 98 meters, went second. 
+- Hill Harvey, 104 meters, went third.
+- Gumbo Giles, 101 meters, went seventh.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

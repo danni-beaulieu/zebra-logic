@@ -1,0 +1,14 @@
+Attempt: 
+
+ for Puzzle 2:
+- **Spud Chuckers, vacuum cannon, 135 ft**
+- **Super Tubers, catapult, 150 ft**
+- **Russets, trebuchet, 165 ft**
+- **Mad Mashers, slingshot, 180 ft**
+
+These solutions correctly fit all given information and constraints in the puzzles.
+
+Grade: 
+[False, True, True, False]
+Success: 
+False

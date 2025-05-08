@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Fernando: 1 GB RAM, 128 GB HD
+- Jack: 12 GB RAM, 512 GB HD
+- Rex: 3 GB RAM, 384 GB HD
+- Wade: 6 GB RAM, 256 GB HD
+
+Grade: 
+[False, True, False, False]
+Success: 
+False

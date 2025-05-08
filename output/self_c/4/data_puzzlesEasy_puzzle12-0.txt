@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+Rafael, Gordon (from inference), 9:00am  
+Orlando, Gordon, 10:00am  
+Sophie, Annie, 11:00am  
+Karla, Joann 12:00pm
+
+
+Grade: 
+[False, True, False, False]
+Success: 
+False

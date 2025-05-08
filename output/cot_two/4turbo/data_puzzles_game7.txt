@@ -1,0 +1,63 @@
+Attempt: 
+
+Steps to solve the last logic grid puzzle:
+
+Extract information from each clue.
+
+1. "Greg finished 2 minutes before the contestant in the maroon shirt."
+- Greg's time + 2 = time of the contestant in the maroon shirt.
+
+2. "The competitor who finished in 24 minutes wore the orange shirt."
+- Runner who finished in 24 minutes = competitor in the orange shirt.
+
+3. "The contestant in the violet shirt finished 1 minute before Kelly."
+- Time for the contestant in the violet shirt + 1 = Kelly's time.
+
+4. "Herman finished 1 minute before Patrick."
+- Herman's time + 1 = Patrick's time.
+
+Combine information from multiple clues:
+
+From clue 2: Orange shirt = 24 minutes.
+This also sets the 24-minute time as used, limiting other finish times to 21, 22, and 23 minutes.
+
+From clue 3: 
+- Violet shirted contestant's finish time is 1 less than Kelly's.
+- Thus, neither Kelly nor the violet shirted contestant can have the 24-minute time.
+
+From clue 4: 
+- Herman finished 1 minute before Patrick. Options are: (21 & 22) or (22 & 23). 24 is not possible for either as Patrick or Herman must finish in 24 minutes if that was the case.
+
+From clue 1:
+- Greg finished 2 minutes before maroon, which eliminates 22 and 24 for Greg, as 24 + 2 is not a valid time, and 22 + 2 = 24, which is taken by the orange shirt.
+
+So let's assign times factoring in available gaps:
+1. Since Greg can't finish in 22 or 24, and 22 needs to be Herman or Patrick (with the latter being exactly 1 minute later), we must place Greg at 21 and the maroon shirt contestant at 23 minutes due to their 2-minute difference.
+2. This placement requires the finish times for Herman and Patrick to be 22 and 23 respectively or vice versa. Given Herman is 1 minute before Patrick and neither can be 21 (Greg's time), Herman finishes at 22 and Patrick finishes at 23 minutes.
+3. This leaves Kelly with the only unused time, which is 24 minutes, but it contradicts earlier reasoning because Kelly can't coincide with orange (already at 24). Review—Kelly takes 23 (Error with Herman's time working backward).
+   Adjusting based on the violet shirt leads us to find that the violet shirt must be at 22 (making Kelly at 23).
+4. Therefore, the person with the orange shirt remains at 24; however, we know it can't be Herman, Patrick, or Greg now considering revised placements and clues about Kelly. Thus, Kelly must wear something other than orange or violet.
+
+Final arrangement based on clues and logical deductions:
+
+- Greg: 21 minutes, Not maroon, Not violet, Not orange
+- Herman: 22 minutes, Not maroon, Violet, Not orange
+- Patrick: 23 minutes, Maroon, Not violet, Not orange
+- Kelly: 24 minutes, Not maroon, Not violet, Orange
+
+Now assigning shirt colors remaining:
+
+- If Herman wears violet, then the other unused color (silver and maroon accounted for), Greg would be wearing remaining option.
+- Patrick wears maroon.
+- Kelly wears orange.
+
+Final answer:
+Greg, 21 minutes, Silver
+Herman, 22 minutes, Violet
+Patrick, 23 minutes, Maroon
+Kelly, 24 minutes, Orange
+
+Grade: 
+[True, False, True, False]
+Success: 
+False

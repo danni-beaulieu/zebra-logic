@@ -1,0 +1,14 @@
+Attempt: 
+
+:**
+1. Al Anderson - York Court - April 
+2. Irma Ingram - Fred Lane - May 
+3. Gail Garrett - Norway Court - June
+4. Dawn Daniels - Clara Street - July 
+
+This solution satisfies all given clues logically.
+
+Grade: 
+[False, True, True, False]
+Success: 
+False

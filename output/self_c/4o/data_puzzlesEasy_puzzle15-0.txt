@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- Penny Perry, Buick, 3 day
+- Vicky Vaughan, Jeep, 4 day
+- Rose Rowland, Kia, any remaining duration that hasn't been mentioned specifically (either implicitly deduced or logically the 5-day car as nothing else fits)
+- Juana Juarez, Fiat, 5 day
+
+Grade: 
+[False, True, False, False]
+Success: 
+False

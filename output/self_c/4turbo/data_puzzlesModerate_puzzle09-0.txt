@@ -1,0 +1,14 @@
+Attempt: 
+
+ for the second puzzle:
+
+Planet / Star / Distance:
+- Cheelia / BDF 198 / 41 light years
+- Ereph / VJD 913 / 41 light years
+- Llyrak / HV 491 / 43 light years
+- Xidat / MKP 427 / 45 light years
+
+Grade: 
+[False, True, False, False]
+Success: 
+False

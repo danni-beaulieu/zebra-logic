@@ -1,0 +1,36 @@
+Attempt: 
+
+:
+- Luther, turkey soup, 49
+- Bertha, smoked pork, 63
+- Hattie, cajun chili, 56
+- Wade, cashew tofu, 42
+
+Grade: 
+[False, True, False, True]
+Success: 
+False
+Attempt: 
+
+:
+- Bertha, cajun chili, 63
+- Hattie, smoked pork, 49
+- Luther, turkey soup, 56
+- Wade, cashew tofu, 42
+
+Grade: 
+[False, False, False, False]
+Success: 
+False
+Attempt: 
+
+":
+- Luther, Cajun chili, 49
+- Bertha, smoked pork, 56
+- Hattie, turkey soup, 63
+- Wade, cashew tofu, 42
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+Claude, Malta, 5:30 pm  
+Jeanne, Qatar, 4:30 pm  
+Pablo, Peru, 3:30 pm  
+Terrance, Jamaica, 3:30 pm
+
+Grade: 
+[False, True, True, True]
+Success: 
+False

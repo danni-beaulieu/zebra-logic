@@ -1,0 +1,38 @@
+Attempt: 
+
+:
+Olga, Travelore, 25 
+Leroy, Pinkster, 30 
+Gene, Grennel, 35 
+Jeffrey, Bistric, 40
+
+Now for the second logic grid puzzle:
+
+Entities:
+machines: Archer Quest, Bowling Alley, Disco Mania, Meteor Rise
+companies: Dow Games, Hayco Inc, Pinnefore, Tarco Inc
+years: 1974, 1975, 1976, 1977
+
+Clues:
+1. "Disco Mania" came out sometime before the machine made by Pinnefore.
+2. Between the machine released in 1977 and the machine by Tarco Inc., one is "Bowling Alley" and the other is "Archer Quest".
+3. The machine made by Dow Games came out 1 year after "Bowling Alley".
+4. The system made by Tarco Inc. came out after the machine made by Pinnefore.
+
+From clues:
+- "Disco Mania" was released before Pinnefore’s machine.
+- Bowling Alley and Archer Quest are split between 1977 and Tarco Inc.
+- Dow Games' machine came out 1 year after Bowling Alley.
+- Tarco Inc.'s machine came out after Pinnefore's.
+
+Since we don't have a starting machine or year, we must hypothesize:
+- If Disco Mania came out before Pinnefore's machine, and Tarco’s came after Pinnefore's, Archer Quest or Bowling Alley must be Tarco’s (as per the clue).
+- Let's consider Bowling Alley to be the 1977 machine, making Archer Quest Tarco Inc.'s. Therefore, Bowling Alley cannot be 1976 because Dow Games released their machine a year after Bowling Alley.
+- Pinnefore's machine can’t be Disco Mania (it’s earlier); it must be either Meteor Rise if Archer Quest (Tarco’s) is later.
+
+Further evidence is needed to resolve the order completely, but this setup complies with all provided clues.
+
+Grade: 
+[False, False, True, True]
+Success: 
+False

@@ -1,0 +1,38 @@
+Attempt: 
+
+:**
+
+- Charles City, Berkshire, 28000
+- Luther, Essex, 37000
+- Oakland Acres, Hampshire, 31000
+- Quasqueton, Nantucket, 34000
+
+Grade: 
+[False, False, False, False]
+Success: 
+False
+Attempt: 
+
+:
+- **Charles City**, Hampshire County, 37000
+- **Luther**, Essex County, 28000
+- **Oakland Acres**, Nantucket County, 34000
+- **Quasqueton**, Berkshire County, 31000
+
+Grade: 
+[False, False, False, False]
+Success: 
+False
+Attempt: 
+
+:**
+
+- Charles City, Nantucket, 31000
+- Luther, Hampshire, 37000 
+- Oakland Acres, Essex, 34000
+- Quasqueton, Berkshire, 28000
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

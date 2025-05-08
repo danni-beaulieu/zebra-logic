@@ -1,0 +1,36 @@
+Attempt: 
+
+:**
+Super Tubers, catapult, 150 ft  
+Russets, trebuchet, 165 ft  
+Mad Mashers, vacuum cannon, 180 ft  
+Spud Chuckers, slingshot, 135 ft  
+
+Grade: 
+[False, True, True, False]
+Success: 
+False
+Attempt: 
+
+:
+Mad Mashers, Vacuum Cannon, 135 ft  
+Super Tubers, Catapult, 150 ft  
+Russets, Trebuchet, 165 ft  
+Spud Chuckers, Slingshot, 180 ft
+
+Grade: 
+[True, True, True, True]
+Success: 
+True
+Attempt: 
+
+:**
+- Super Tubers, catapult, 150 ft
+- Russets, trebuchet, 165 ft
+- Mad Mashers, vacuum cannon, 135 ft
+- Spud Chuckers, slingshot, 180 ft
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

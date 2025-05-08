@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- **Archadon** at 69 million years, costing 1000.
+- **Mirasaurus** at 75 million years, costing 250.
+- **Pilodontus** at 78 million years, costing 750.
+- **Senosaurus** at 85 million years, costing 1250.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Ling Ling, Nan Sheng, January
+- Den Ping, Wang Yu (by exclusion as each baby has a unique mother), February
+- Bai Yun, Tian Tian, March
+- Gao Gao, Tai Shan, April
+
+Grade: 
+[False, False, True, True]
+Success: 
+False

@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Namibia, 12 silver, 2 gold
+Paraguay, 1 silver, 2 gold
+Russia, 12 silver, 0 gold
+Turkmenistan, 8 silver, 4 gold
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

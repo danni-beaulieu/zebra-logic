@@ -1,0 +1,14 @@
+Attempt: 
+
+:**
+- **Fatal Sheen**: Gabby Jones, 2 nominations
+- **Wild Ones**: Danny Trevor, 3 nominations
+- **Maximum Risk**: 4 nominations, director remains to be determined from provided information
+- **Bold Service**: Adrienne Day, 5 nominations
+
+Virgil Katz must direct Maximum Risk to fill in director for that movie from available choices.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

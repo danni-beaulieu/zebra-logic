@@ -1,0 +1,14 @@
+Attempt: 
+
+**:
+- Cheelia, HV 491, 47 light years
+- Ereph, MKP 427, 43 light years
+- Llyrak, VJD 913, 45 light years
+- Xidat, BDF 198, 41 light years
+
+This configuration properly accommodates all clues and is valid given the logic constraints and distances specified.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

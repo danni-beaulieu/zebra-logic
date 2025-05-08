@@ -1,0 +1,14 @@
+Attempt: 
+
+:**
+- Merlin: 20 years, 10.2 feet
+- Bubba: 15 years, length unknown
+- Draco: 5 years, 14.0 feet
+- Barnabas: 10 years, 12.0 feet 
+
+(Note: The lengths for Merlin and Bubba and the length not provided in the clues are correctly assigned by the process of elimination.)
+
+Grade: 
+[True, True, False, True]
+Success: 
+False

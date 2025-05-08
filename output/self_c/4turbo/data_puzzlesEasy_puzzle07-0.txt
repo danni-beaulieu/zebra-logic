@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Gumbo Giles, first, 98 meters
+- Brit Bradley, second, 107 meters
+- Hill Harvey, third, 104 meters
+- The remaining diver at seventh, 101 meters (this is Ed Elliott, by elimination).
+
+Grade: 
+[False, True, False, True]
+Success: 
+False

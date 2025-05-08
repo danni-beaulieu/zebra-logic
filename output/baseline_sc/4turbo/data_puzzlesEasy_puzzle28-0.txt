@@ -1,0 +1,45 @@
+Attempt: 
+
+To solve this puzzle, let's break down the given clues and use logic to assign each borrower to a book and a due date.
+
+1. **"Kip and Ken" was due 2 weeks before Sherrie's book.**
+   - This means Sherrie's book cannot be due on September 1 (since there isn't a book due 2 weeks before that).
+   - Thus, if Sherrie's book is due on any other date, subtract 2 weeks to find the due date for "Kip and Ken".
+
+2. **The book due on September 15 was "Ohio Haunts".**
+   - This sets "Ohio Haunts" to September 15.
+
+3. **"Stars Below" was due 2 weeks after Wayne's book.**
+   - This implies that Wayne's book is not on the second-to-last or last due date, September 15 or September 22, to allow another book due 2 weeks later.
+
+4. **Latasha's book was due on September 15.**
+   - Therefore, Latasha's book is "Ohio Haunts".
+
+From clue 1, we know "Kip and Ken" was due 2 weeks before Sherrie, leaving the possible due weeks for Sherrie’s book as September 15 or September 22. If Sherrie’s book was due on September 15, the due date for "Kip and Ken" would be September 1.
+
+From clue 3, because "Stars Below" was due 2 weeks after Wayne's, if we place Wayne on September 1 (the only date allowing another book exactly 2 weeks later), then "Stars Below" would be due on September 15. However, this conflicts with clue 4, as Latasha's due date is September 15 for "Ohio Haunts". Therefore, Wayne's book must be due on September 8, and consequently, “Stars Below” due on September 22.
+
+So, our assignments so far:
+- September 1: "Kip and Ken"
+- September 8: Wayne's book (undetermined)
+- September 15: "Ohio Haunts", Latasha
+- September 22: "Stars Below"
+
+Sherrie cannot have "Ohio Haunts" (Latasha has it), "Stars Below" (due 2 weeks after Wayne's book), or "Kip and Ken" (due 2 weeks before her). Thus, Sherrie has her book due on September 22, which leaves "Kip and Ken" for Muriel due on September 1.
+
+This means:
+- Wayne's book should be something other than "Stars Below" or "Ohio Haunts". Wayne has the remaining book not selected by others, which should be “Heaven’s Seal” due on September 8.
+
+Thus, the detailed completed logic grid would be:
+
+**- September 1:** Muriel, "Kip and Ken"
+**- September 8:** Wayne, "Heaven's Seal"
+**- September 15:** Latasha, "Ohio Haunts"
+**- September 22:** Sherrie, "Stars Below"
+
+This completes the puzzle based on the logical deductions from the provided clues.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

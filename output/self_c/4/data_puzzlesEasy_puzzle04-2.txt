@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Cober, Zenix 2C, 550
+Lirios, Tela G5, 600
+Nectron, G-290, 625
+Torvia, DM-5000, 575.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

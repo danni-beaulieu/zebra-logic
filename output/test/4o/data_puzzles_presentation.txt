@@ -1,0 +1,13 @@
+Attempt: 
+
+:**
+
+- Bold Service: Director - Adrienne Day, Nominations - 5
+- Fatal Sheen: Director - Gabby Jones, Nominations - 2
+- Maximum Risk: Director - Danny Trevor, Nominations - 4
+- Wild Ones: Director - Virgil Katz, Nominations - 3
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

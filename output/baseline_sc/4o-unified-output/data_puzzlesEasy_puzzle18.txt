@@ -1,0 +1,36 @@
+Attempt: 
+
+:
+1. **First Place**: Kermit, #118
+2. **Second Place**: Ophelia, #128
+3. **Third Place**: Stretch, #126
+4. **Fourth Place**: Bridget, #105
+
+Grade: 
+[True, True, True, True]
+Success: 
+True
+Attempt: 
+
+*:
+- Kermit, #126, first
+- Ophelia, #128, second
+- Bridget, #118, third
+- Stretch, #105, fourth
+
+Grade: 
+[False, True, False, False]
+Success: 
+False
+Attempt: 
+
+:**
+- First: Kermit, #118
+- Second: Ophelia, #128
+- Third: Stretch, #126
+- Fourth: Bridget, #105
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

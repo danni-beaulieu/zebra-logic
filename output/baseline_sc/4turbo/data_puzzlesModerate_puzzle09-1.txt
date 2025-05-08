@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+Llyrak orbits BDF 198 at a distance of 41 light years.
+Ereph orbits VJD 913 at a distance of 43 light years.
+Cheelia orbits HV 491 at a distance of 45 light years.
+Xidat orbits MKP 427 at a distance of 47 light years.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

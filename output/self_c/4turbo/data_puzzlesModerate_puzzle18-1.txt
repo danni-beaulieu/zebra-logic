@@ -1,0 +1,71 @@
+Attempt: 
+
+**Step-by-step reasoning using clues:** 
+
+**First Puzzle:**
+
+1. **Clue 1**: The Pinkster pack is 5 liters smaller than the Grennel pack.
+   - Pinkster = Grennel - 5 liters.
+
+2. **Clue 2**: Olga's pack is 25 liters.
+
+3. **Clue 3**: The 30 liter pack, the Bistric pack, and the Grennel pack are all different packs. 
+   - Bistric ≠ 30 liters; Grennel ≠ 30 liters.
+
+4. **Clue 4**: Of Leroy's pack and the Travelore pack, one is 25 liters and the other is 30 liters.
+
+5. **Clue 5**: Gene's pack is 35 liters.
+
+Starting from clues 2 and 5:
+- Olga = 25 liters, Gene = 35 liters.
+
+Following Clue 3:
+- Bistric ≠ 30 liters; Grennel ≠ 30 liters; only Pinkster could be 30 liters or 25 liters remains feasible for Leroy or the Travelore pack, knowing Olga's initial option.
+
+Applying Clue 4:
+- With Olga having 25 liters, Leroy must have 30 liters. Travelore must then be 25 liters.
+
+Using Clue 1 (and remaining sizes):
+- If Pinkster is 30 liters (as options are now narrowing due to Clue 4), Grennel must be 35 liters (Gene's).
+- This places Jeffrey with the only leftover size and brand: Bistric, 40 liters.
+
+**Final Solution:**
+- Olga, Travelore, 25 liters
+- Leroy, Pinkster, 30 liters 
+- Gene,  Grennel, 35 liters
+- Jeffrey, Bistric, 40 liters
+
+**Second Puzzle:**
+1. **Clue 1**: Charlie will start sometime after the person who will be working with Nelson.
+   - Charlie’s time > Nelson’s interpreter's time.
+
+2. **Clue 2**: Of the person whose assignment begins at 10:00am and Frederick, one will be working with Nelson and the other will be working with Orlando.
+   - If 10:00am interpreter works with Nelson, Frederick works with Orlando, and vice versa.
+
+3. **Clue 3**: The interpreter whose assignment begins at 11:00am is either Ira or the interpreter who will be working with Karla.
+
+4. **Clue 4**: The person who will be working with Nelson will start 1 hour after Ira.
+   - Indicates Nelson's interpreter starts at either 10:00am or 12:00pm if Ira starts at 9:00am or 11:00am respectively.
+
+With Clue 4:
+- Place Ira at 9:00am or 11:00am.
+
+Using Clue 2:
+- If Ira was 11:00am, 10:00am slot is free for Nelson's interpreter and consequently, Frederick at 10:00am with either Nelson or Orlando.
+
+Revisit Clue 3:
+- Given Ira starts at 11:00am, it refines who can start at 10:00am with Nelson.
+
+Combine Clue 1:
+- Charlie must start after this which confirms Ira ≠ Nelson's and Charlie's time.
+
+Accurately fixing:
+- Nelson’s interpreter is 10:00am (post Ira at 9:00am), confirming Frederick works with Orlando.
+- Charlie's start time constraint and Clue 2 implicate Charlie later than 10:00am but before 12:00pm given remaining slots.
+
+**Subject to refinement based on revisiting the evidence chain or additional details provided in puzzle setup.**
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

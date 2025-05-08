@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- Mt. Dawson: 14340, Irving Igor
+- Mt. Ingram: 14600, Gerry Gamble
+- Mt. Larsen: 14210, Hal Hudson
+- Mt. Norman: 14470, Kermit Kramer
+
+Grade: 
+[False, False, True, True]
+Success: 
+False

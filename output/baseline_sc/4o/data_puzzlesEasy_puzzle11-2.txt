@@ -1,0 +1,64 @@
+Attempt: 
+
+To solve the logic grid puzzle, let's use the given clues step-by-step:
+
+1. We know Mt. Norman is 14470 feet tall.
+2. Kermit Kramer's mountain is taller than Mt. Dawson and shorter than Mt. Ingram.
+3. Mt. Dawson is 260 feet shorter than the mountain Kermit first summited.
+4. Mt. Ingram was first climbed by Gerry Gamble.
+5. The 14210 feet mountain is either Mt. Larsen or the one Irving Igor first summited.
+
+Now let's find more relations and focus on identifying each element.
+
+- Start with the known mountain, Mt. Norman = 14470 feet.
+
+Let's analyze:
+- The mountain first summited by Kermit Kramer is the mountain taller than Mt. Dawson but shorter than Mt. Ingram. This means: 
+  - Mt. Dawson = 14470 - 260 = 14210.
+  - Therefore, Kermit's mountain = Mt. Norman with 14470 feet.
+  
+Mt. Norman (14470) is confirmed as Kermit's mountain.
+- From this, Mt. Dawson is confirmed to be 14210 feet.
+
+Next, we look at:
+- Mt. Dawson is 14210 feet.
+- The peak that is 14210 feet tall is either Mt. Larsen or the one first summited by Irving Igor.
+  
+Since Mt. Dawson = 14210, and Mt. Norman was Kermit's peak, the 14210-ft peak summited by Irving is not possible; hence, it must be Mt. Larsen.
+
+Now let’s solve for the remaining elements:
+- Mt. Ingram was first climbed by Gerry Gamble. Mt. Norman was summited by Kermit. That leaves:
+  - Mt. Larsen = 14210 was summited by Irving Igor.
+  
+Thus, the last mountain without a climber, which is Mt. Ingram, must be first climbed by Gerr Gamble and its height fits the sequence as the next height is 14600.
+
+Now we can organize the data:
+- Mt. Dawson = 14210 feet (summited by Irving Igor)
+- Mt. Larsen = 14340 feet (not assigned yet)
+- Mt. Norman = 14470 feet (summited by Kermit Kramer)
+- Mt. Ingram = 14600 feet (summited by Gerry Gamble)
+
+Now, handing out the remaining unassigned mountain and summiter:
+- So, 14600 must be Gerry's, means other heights and summits fit sequentially.
+
+Final assignment:
+- The last remaining one links to summits:
+  - Hal Hudson's Mountain is the remaining one (Mt. Larsen), since Gerry, Irving, and Kermit are all assigned their mountains.
+
+Thus:
+- Mt. Dawson - 14210 feet - Irving Igor
+- Mt. Larsen - 14340 feet - Hal Hudson
+- Mt. Norman - 14470 feet - Kermit Kramer
+- Mt. Ingram - 14600 feet - Gerry Gamble
+
+The final answer is organized thus:
+
+Mt. Dawson, 14210, Irving Igor  
+Mt. Larsen, 14340, Hal Hudson  
+Mt. Norman, 14470, Kermit Kramer  
+Mt. Ingram, 14600, Gerry Gamble
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

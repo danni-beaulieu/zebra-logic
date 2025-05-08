@@ -1,0 +1,36 @@
+Attempt: 
+
+
+- **Istryn, 41 light years, BDF 198**
+- **Quael, 43 light years, PLC 120**
+- **Rodul, 45 light years, MKP 427**
+- **Vestor, 47 light years, HV 491**
+
+Grade: 
+[True, True, True, True]
+Success: 
+True
+Attempt: 
+
+:**
+- Istryn, 41 light years
+- Quael, PLC 120, 43 light years
+- Rodul, 45 light years
+- Vestor, HV 491, 47 light years
+
+Grade: 
+[False, True, False, True]
+Success: 
+False
+Attempt: 
+
+:
+- Istryn, MKP 427, 43 light years
+- Vestor, HV 491, 45 light years
+- Rodul, PLC 120, 41 light years
+- Quael, BDF 198, 47 light years
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

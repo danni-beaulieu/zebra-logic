@@ -1,0 +1,30 @@
+Attempt: 
+
+Steps:
+Extract information from each clue.
+
+1. "Fred Fleming began 1 year before Ned Nielsen."
+- Fred Fleming began in an earlier year (2007, 2008, 2009).
+- Ned Nielsen began in a later year (2008, 2009, 2010).
+- Fred Fleming did not begin in the same year as Ned Nielsen.
+
+2. "'Prism Shield' began 2 years before Edsel Eaton."
+- Prism Shield began in an earlier year (2007, 2008).
+- Edsel Eaton began in a later year (2009, 2010).
+- Prism Shield did not begin in the same year as Edsel Eaton.
+
+3. "'Criminal Bane' began his crusade in 2007."
+- Criminal Bane began in 2007.
+
+4. "'Ultra Hex' is Ned Nielsen."
+- Ultra Hex is associated with Ned Nielsen.
+
+Combine information from multiple clues.
+
+From Clue 3, Criminal Bane began in 2007. 
+From Clue 1, Fred Fleming began 1 year before Ned Nielsen; and from Clue 4, Ned Nielsen is Ultra Hex. Therefore, Ultra Hex (Ned Nielsen) can't begin in 2007. Since Ultra Hex must start after 2007, he also can't be the one who started 2 years before Edsel Eaton (from Clue 2). So, Prism Shield could not be associated with Ultra Hex. Fred Fleming also can't assume the role of Prism Shield because he didn't start 2 years ahead of anyone. Therefore, since the only unassigned superhero is Green Avenger, Fred Fleming must be Green Avenger. Since Prism Shield can't be associated with Ultra Hex (Ned Nielsen) or Green Avenger (Fred Fleming), he must be associated with the only unassigned person, Peter Powers. Therefore, the only unassigned superhero, Criminal Bane, must be associated with the only unassigned person, Edsel Eaton. From Clue 1, since Fred Fleming (Green Avenger) started a year before Ned Nielsen (Ultra Hex), the only logical deduction would be for Green Avenger to have started in 2008 and Ultra Hex in 2009. And from Clue 2, since Prism Shield (Peter Powers) started 2 years before Edsel Eaton (Criminal Bane), the only logical deduction would be for Prism Shield to have started in 2007 and Criminal Bane in 2009. But from Clue 3, we know that Criminal Bane started in 2007. Therefore, Prism Shield must have started in 2005, which is not possible as we do not have a year 2005. Hence there seems to be a contradiction in the clues, and the puzzle is not possible to solve logically.
+
+Grade: 
+[True, True, True, False]
+Success: 
+False

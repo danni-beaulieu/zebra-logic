@@ -1,0 +1,36 @@
+Attempt: 
+
+:**
+- Namibia: 3 gold, 1 silver
+- Paraguay: 1 gold, 8 silver
+- Russia: 2 gold, 12 silver
+- Turkmenistan: 4 gold, 2 silver
+
+Grade: 
+[False, False, False, True]
+Success: 
+False
+Attempt: 
+
+:
+- **Namibia:** 3 gold, 2 silver
+- **Paraguay:** 0 gold, 1 silver
+- **Russia:** 2 gold, 12 silver
+- **Turkmenistan:** 4 gold, 8 silver
+
+Grade: 
+[False, False, False, False]
+Success: 
+False
+Attempt: 
+
+:**
+- Namibia: 2 gold, 2 silver 
+- Paraguay: 1 gold, 8 silver
+- Russia: 3 gold, 12 silver 
+- Turkmenistan: 4 gold, 1 silver
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

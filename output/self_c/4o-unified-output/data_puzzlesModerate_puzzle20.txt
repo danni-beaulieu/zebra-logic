@@ -1,0 +1,37 @@
+Attempt: 
+
+:**
+
+- **Bev Baird**: Architect, 8500 votes
+- **Cate Carlson**: Teacher, 9000 votes
+- **Gilda Gray**: [Undetermined Profession in this sequence], 10000 votes
+- **Ida Ingram**: Academic, 9500 votes
+
+Grade: 
+[False, False, False, False]
+Success: 
+False
+Attempt: 
+
+:**
+- Bev Baird, Architect, 9500 votes
+- Cate Carlson, Academic, 9000 votes
+- Gilda Gray, Writer, 10000 votes
+- Ida Ingram, Teacher, 8500 votes
+
+Grade: 
+[False, True, False, False]
+Success: 
+False
+Attempt: 
+
+:
+- Cate Carlson (academic) → 9000 votes
+- Bev Baird (architect) → 9500 votes
+- Gilda Gray (teacher) → 10000 votes
+- Ida Ingram (writer) → 8500 votes
+
+Grade: 
+[True, True, False, False]
+Success: 
+False

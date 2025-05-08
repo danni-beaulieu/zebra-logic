@@ -1,0 +1,54 @@
+Attempt: 
+
+For the second logic puzzle:
+
+Entities:
+- Prices: 550, 575, 600, 625
+- Companies: Cober, Lirios, Nectron, Torvia
+- Cameras: DM-5000, G-290, Tela G5, Zenix 2C
+
+Clues:
+1. The Tela G5 costs 25 dollars less than the model made by Nectron.
+2. The camera made by Lirios is either the $625 camera or the DM-5000.
+3. The camera made by Lirios costs 25 dollars less than the model made by Torvia.
+4. The four cameras are the G-290, the $625 camera, the $550 camera and the model made by Lirios.
+
+Steps and Solution:
+
+1. **Clue 1:** Tela G5 is 25 dollars less than Nectron's model.
+   - Nectron's prices: 575, 600, 625
+   - Tela G5's prices: 550, 575, 600 
+
+2. **Clue 2:** Lirios is either $625 or DM-5000.
+   - Lirios: 625 or DM-5000.
+
+3. **Clue 3:** Lirios’s price is 25 dollars less than Torvia’s price.
+   - If Lirios is 625, Torvia is not possible as it would exceed available prices.
+   - If Lirios is DM-5000 and fits in available prices: Lirios = 600, Torvia = 625.
+
+4. **Clue 4:** The cameras are G-290, $625 camera, $550 camera, Lirios.
+   - G-290 needs a different price from Lirios.
+   - Based on prior clues and eliminations from price, if Lirios has DM-5000, it is 600, and Torvia is 625.
+   - G-290 then can be 550 or 575.
+   - Tela G5, from clue 1, fits remaining price slots left for Nectron's camera.
+
+With Lirios implied as 600, this leaves:
+- Lirios: DM-5000, 600
+- Torvia: 625 with G-290 or Zenix 2C
+- Nectron: higher than Tela G5 by 25 dollars. If Tela G5 is 575 (as it is the only remaining price for Nectron to be 600), Nectron is 600.
+- Remaining camera for Cober: should be G-290 or Zenix 2C with the price 550.
+- This leaves Torvia with Zenix 2C at 625, and Cober with G-290 at 550.
+
+Final answer:
+
+- Lirios, DM-5000, 600
+- Torvia, Zenix 2C, 625
+- Nectron, Tela G5, 575
+- Cober, G-290, 550
+
+This configuration adheres to all clues provided.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

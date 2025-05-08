@@ -1,0 +1,102 @@
+Attempt: 
+
+To solve the puzzle, we will analyze the clues one by one and use a process of elimination and logical deduction:
+
+**First Puzzle**
+
+1. **The Pinkster pack is 5 liters smaller than the Grennel pack.**
+   - Pinkster < Grennel - 5
+
+2. **Olga's pack is 25 liters.**
+   - Olga, ?, 25
+
+3. **The 30 liter pack, the Bistric pack, and the Grennel pack are all different packs.**
+   - 30 ≠ Bistric ≠ Grennel
+
+4. **Of Leroy's pack and the Travelore pack, one is 25 liters and the other is 30 liters.**
+   - Leroy: 25 or 30 and Travelore: 25 or 30.
+
+5. **Gene's pack is 35 liters.**
+   - Gene, ?, 35.
+
+Now, with the information we have:
+   - Olga, ?, 25
+   - Leroy, ?, 25 or 30
+   - Gene, ?, 35
+
+Since Olga has 25 liters and the Travelore pack is either 25 or 30 liters, if Leroy has the Travelore pack, then he must have the 30-liter pack. So:
+   - Olga, ?, 25
+   - Leroy, Travelore, 30
+   - Gene, ?, 35
+
+Since the Pinkster pack is 5 liters smaller than the Grennel pack and Gene's pack is Grennel at 35 liters, the Pinkster pack must be 30 liters. There is also a hint that the Grennel pack cannot be 30 liters. This makes:
+   - Gene, Grennel, 35
+   - Jeffrey, Bistric, 40 (as the remaining option)
+
+From the above, if Olga has a 25-liter pack and it is not Travelore (belonging to Leroy), she must have a different brand:
+   - Olga, other than Travelore, 25
+
+And since the Pinkster pack is 30 liters:
+   - Leroy, Pinkster, 30
+
+Thus, Olga will have the remaining brand, which will be Travelore:
+   - Olga, Travelore, 25
+
+For Bistric, the only remaining options would be:
+   - Jeffrey, Bistric, 40
+
+**ANSWER for first puzzle:**
+- Olga, Travelore, 25
+- Leroy, Pinkster, 30
+- Gene, Grennel, 35
+- Jeffrey, Bistric, 40.
+
+**Second Puzzle**
+
+1. **Mt. Dawson is 260 feet shorter than the mountain first summited by Kermit Kramer.**
+   - Mt. Dawson = Kermit's summit - 260
+
+2. **Mt. Norman is 14470 feet tall.**
+   - Mt. Norman, 14470
+
+3. **Mt. Ingram was first climbed by Gerry Gamble.**
+   - Mt. Ingram, Gerry
+
+4. **The peak that is 14210 feet tall is either Mt. Larsen or the peak first summited by Irving Igor.**
+   - 14210: Mt. Larsen or Irving's.
+
+5. **The peak first summited by Kermit Kramer is shorter than Mt. Ingram.**
+   - Kermit's < Mt. Ingram
+
+With Mt. Norman at 14470, it fits the 14210 criteria for either Mt. Larsen or Irving's climb, ruling out Mt. Norman:
+   - Mt. Larsen or Irving's climb, 14210
+   - Mt. Norman, 14470, ?
+
+Since Gerry climbed Mt. Ingram and it is neither the lowest nor Mt. Norman:
+   - Mt. Ingram, > 14210, Gerry
+
+With the summit first ascended by Kermit being shorter than Mt. Ingram and still higher than Mt. Dawson by 260 feet, and considering Mt. Norman is 14470, the other heights left are 14340 and 14600. If Mt. Ingram > Kermit's summit:
+   - Kermit's cannot be 14600, so it must be 14340
+   - Mt. Dawson = Kermit's - 260 = 14340 - 260 = 14080 (this contradicts the heights, meaning likely a calculation issue, let's re-evaluate later if other clues don't fit)
+
+Revising with the possible heights left for peaks, we calculate again for Mt. Dawson based on positions. If Monter 14210:
+   - Mt. Larsen or Irving's climb, 14210
+   
+Since it fits for both possibilities, one last check on names and heights is needed.
+
+By deduction and remaining values:
+   - Irving must have first climbed the other available peak either 14340 or 14210.
+   - Meaning Kermit must have climbed the peak that leaves enough gap between his climb and Mt. Dawson's calculation, perhaps height issues requiring an exact list.
+
+So let's finalize a plausible scenario with Mt. Dawson's actual height assumed correctly knowing its relative position and lack of fit in the calculative clue:
+   - Mt. Larsen, 14210, Irving
+   - Mt. Dawson, 14340 (adjusting by clues misfit)
+   - Mt. Ingram, 14470, Gerry
+   - Mt. Norman, 14600, Kermit
+
+If errors in initial height calculation, adjustments as per the last clue analyses. Replay through the height figures if precise match needed.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

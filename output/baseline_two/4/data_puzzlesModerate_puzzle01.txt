@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Restless Wave, Ann Alvarado, 22 
+Adagio III, Betsy Becker, 25 
+Irish Pride, Ernesto Ellis, 28 
+White Squid, Hetta Hensley, 31
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

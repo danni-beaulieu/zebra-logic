@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Ernesto - 110 years - Texas
+- Preston - 109 years - Virginia
+- Olivia - 111 years - Missouri
+- Larry - 112 years - Alaska”
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

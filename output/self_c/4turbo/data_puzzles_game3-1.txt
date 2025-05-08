@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+- Namibia, 2 gold, 8 silver (2 gold > 1 gold of Paraguay)
+- Turkmenistan, 4 gold, 2 silver
+- Russia, 3 gold, 12 silver
+- Paraguay, 1 gold, 1 silver
+
+This structure fits with all the clues based on gold medals and inter-relations provided.
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

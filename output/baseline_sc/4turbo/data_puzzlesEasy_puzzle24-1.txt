@@ -1,0 +1,12 @@
+Attempt: 
+
+ for Second Logic Grid Puzzle:**
+Luther - cashew tofu - 49
+Bertha - turkey soup - 56
+Hattie - cajun chili - 63
+Wade - smoked pork - 42
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

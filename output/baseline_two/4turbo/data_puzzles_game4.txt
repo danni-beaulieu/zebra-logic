@@ -1,0 +1,54 @@
+Attempt: 
+
+To solve this logic grid puzzle, let's list out the information and use the clues to deduce the remaining associations:
+
+Entities:
+- Year: 2007, 2008, 2009, 2010
+- Superheroes: Criminal Bane, Green Avenger, Prism Shield, Ultra Hex
+- Real names: Edsel Eaton, Fred Fleming, Ned Nielsen, Peter Powers
+
+Based on the clues:
+1. Fred Fleming began 1 year before Ned Nielsen.
+2. "Prism Shield" began 2 years before Edsel Eaton.
+3. "Criminal Bane" began his crusade in 2007.
+4. "Ultra Hex" is Ned Nielsen.
+
+Steps:
+
+- Right away from clue 3, we know Criminal Bane started in 2007.
+- From clue 4, Ultra Hex is Ned Nielsen. 
+- Fred Fleming began 1 year before Ned Nielsen (clue 1). If Ned as Ultra Hex began in year X, Fred must have begun in year X-1.
+- Since clue 2 states Prism Shield began 2 years before Edsel Eaton, we need to fit Edsel Eaton into the timeline correctly.
+
+Let's fill these out based on possible timelines:
+- Since Criminal Bane started in 2007, and Ultra Hex is Ned Nielsen, Ultra Hex cannot start in 2007.
+- Fred Fleming starts one year before Ned Nielsen; since Ned is Ultra Hex, let's place Ned at the latest possible year, given no other constraints:
+  - If Ned (Ultra Hex) started in 2010, Fred would have begun in 2009.
+  - If Ned (Ultra Hex) started in 2009, Fred would have begun in 2008. This plus the fact Prism Shield starts 2 years before Edsel is critical. Since Fred has to start before Ned, placing Ned in 2009 (as Ultra Hex) will allow Fred to be the superhero in 2008.
+
+From the years already taken:
+- 2007: Criminal Bane
+- 2008: Fred Fleming
+- 2009: Ned Nielsen (Ultra Hex)
+- 2010: Left for the remaining superheroe and real name.
+
+Matching the superheroes and real names not yet used:
+- Edsel Eaton must be Prism Shield (as per clue 2).
+- Peter Powers must be left for the remaining superhero — Green Avenger.
+
+With all years and matching real names and superheroes:
+- 2007: Criminal Bane, Edsel Eaton (since Prism Shield starts 2 years before Edsel, Edsel must begin latest possible year relative to Prism Shield)
+- 2010: Prism Shield, Peter Powers (since Criminal Bane and Ultra Hex already matched and Edsel Eaton cannot be Prism Shield in 2010 due to clue 2)
+- 2008: Green Avenger, Fred Fleming
+- 2009: Ultra Hex, Ned Nielsen
+
+Final answer:
+2007: Criminal Bane, Edsel Eaton
+2008: Green Avenger, Fred Fleming
+2009: Ultra Hex, Ned Nielsen
+2010: Prism Shield, Peter Powers
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

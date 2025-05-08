@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+Chris, Leland, June 13
+Kyle, Daly City, June 11
+Stanley, Jackman, June 10
+Eugene, Hardwick, June 12 
+
+This conclusion fits all constraints given in the clues.
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

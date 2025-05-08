@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Bev Baird, academic, 9000 votes
+- Gilda Gray (by elimination the only one remaining who can be a writer), 10000 votes
+- Cate Carlson, teacher, 8500 votes
+- Ida Ingram, architect, 9500 votes
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

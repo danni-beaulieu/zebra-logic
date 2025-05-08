@@ -1,0 +1,51 @@
+Attempt: 
+
+First, we gather and analyze the information given in the clues for the second puzzle regarding hedge funds, YTD returns, and managers:
+
+1. "First Crescent is run by Kip Kerr."
+- Kip Kerr manages First Crescent.
+
+2. "Citizen Trust is either the one with a return of 7% or the fund run by Kip Kerr."
+- Because Kip Kerr manages First Crescent, he cannot also manage Citizen Trust. So, Citizen Trust must have a return of 7%.
+
+3. "The fund run by Ule Underwood has a 2 percent larger return than Hudson Brook."
+- Let's denote Ule Underwood’s fund's return as U and Hudson Brook’s return as H such that U = H + 2%.
+
+4. "The fund with a return of 7% is run by Walter Wade."
+- Walter Wade manages Citizen Trust (from the information that Citizen Trust returns 7%).
+
+To further deduce and solve:
+
+- Since Ule Underwood's fund has 2% higher returns than Hudson Brook, and we know we have the return percentages of 6%, 7%, 8%, and 9%, we can figure from this clue:
+   - If Hudson Brook had 6%, Ule Underwood's fund would have 8%.
+   - If Hudson Brook had 7%, Ule Underwood's fund would have 9%. But Walter Wade manages Citizen Trust, which tabs the 7% return.
+
+So, from this, let's assign:
+- Hudson Brook: 6% return.
+- Ule Underwood’s fund: 8% return.
+
+Now, we have designated managers and funds for:
+- Citizen Trust: 7% (Walter Wade)
+- First Crescent: (unknown return since Kip Kerr cannot have 7% return, and since 8% is taken by Ule’s fund, possible returns are 6% or 9%)
+- Hudson Brook has a 6% return (manager unknown).
+
+Remaining entities:
+- Oak Capital (remaining fund).
+- Mike McClain (remaining manager).
+- 9% (remaining return).
+
+Therefore:
+- Kip Kerr cannot manage the 7% return fund, and neither can Ule Underwood. Ule manages the fund with 8% return. Thus, the only remaining return for Kip Kerr's managed fund, First Crescent, must be 9%.
+- This leaves Hudson Brook to be managed by Mike McClain (the remaining manager) with a return of 6%.
+- And Oak Capital by default now is managed by Ule Underwood with an 8% return.
+
+Solution:
+- Kip Kerr, First Crescent, 9%
+- Mike McClain, Hudson Brook, 6%
+- Ule Underwood, Oak Capital, 8%
+- Walter Wade, Citizen Trust, 7%
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

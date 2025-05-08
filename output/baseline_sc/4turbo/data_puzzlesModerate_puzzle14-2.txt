@@ -1,0 +1,49 @@
+Attempt: 
+
+To solve each logic puzzle, we must analyze the clues and match each entity appropriately based on given information and process of elimination.
+
+**First Puzzle:**
+
+1. **Clue**: The Pinkster pack is 5 liters smaller than the Grennel pack.
+2. **Clue**: Olga's pack is 25 liters.
+3. **Clue**: The 30-liter pack, the Bistric pack, and the Grennel pack are all different packs.
+4. **Clue**: Of Leroy's pack and the Travelore pack, one is 25 liters and the other is 30 liters.
+5. **Clue**: Gene's pack is 35 liters.
+
+Starting with the known information:
+- Olga's pack is 25 liters, and since the 30-liter pack and Grennel are different from Bistric, and noting the sizes, initially, we can assume the Bistric is not 25 liters and neither is Grennel.
+- Gene's 35-liter pack could either be Pinkster or Grennel, but because of Clue 3, let's assume it must be Grennel since Pinkster must be smaller than Grennel. Thus, Gene has the Grennel pack, which is 35 liters.
+- Pinkster, being 5 liters smaller than Grennel (35 liters), must be 30 liters. Given the options left, Leroy, who also has either a 25 or 30-liter pack, must have Pinkster, and since Olga already has the 25-liter pack, Travelore is the one left for Leroy.
+- Because the 30-liter pack can't be Bistric or Grennel, and is labeled Pinkster (30 liters), that leaves 40 liters for Bistric, which would then be Jeffrey's.
+
+From these deductions, the solved logic grid would look like:
+- Olga, Travelore, 25
+- Leroy, Pinkster, 30
+- Gene, Grennel, 35
+- Jeffrey, Bistric, 40
+
+**Second Puzzle:**
+
+1. **Clue**: The four pandas were Bai Yun, the baby born in February, Tai Shan's baby, and the baby born in January.
+2. **Clue**: Nan Sheng's baby was born 2 months before Gao Gao.
+3. **Clue**: Of Den Ping and Bai Yun, one was born in February and the other was Tian Tian's baby.
+4. **Clue**: Bai Yun was either the offspring born in March or the baby born in January.
+
+Let's analyze the clues:
+- If Nan Sheng's baby was born 2 months before Gao Gao, then Gao Gao can't be the baby born in January because there wouldn't be a baby born 2 months prior. This implies Gao Gao couldn’t be born in March if there is a strict 2-month interval.
+- Bai Yun was born either in January or March. 
+- Of Den Ping and Bai Yun, if one is in February and the other belongs to Tian Tian, knowing Bai Yun is not February (as that would lead to two years without fitting the 2-month rule for Nan Sheng and Gao Gao), Den Ping must be the one born in February.
+- Thus, Tian Tian's baby could be Bai Yun.
+
+Using these relationships, let's assign:
+- Tian Tian’s baby: Bai Yun born in March.
+- Gao Gao, considering Gao Gao is 2 months after Nan Sheng's baby, if Bai Yun is in March, then this could place Gao Gao in January.
+- Bai Yun not being February implies Den Ping is in February.
+- This arranges Tai Shan's baby as possibly April since there's no overlap with previous assignments and fits the 2-month interval (optionally, validate if this speculation aligns when more information is available).
+
+This puzzle still needs additional information to accurately determine the sorted months for Wang Yu's baby and mother assignments for Ling Ling. This setup expects more clues or examination from missing details not provided here.
+
+Grade: 
+[False, True, True, False]
+Success: 
+False

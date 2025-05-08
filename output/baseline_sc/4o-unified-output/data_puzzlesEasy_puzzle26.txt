@@ -1,0 +1,37 @@
+Attempt: 
+
+:**
+
+- Candied yams: 35 minutes, 340 degrees
+- Chicken cutlet: 30 minutes, 325 degrees
+- Mac and cheese: 25 minutes, 410 degrees
+- Meatloaf: 40 minutes, 350 degrees
+
+Grade: 
+[False, False, False, False]
+Success: 
+False
+Attempt: 
+
+:**
+- Chicken Cutlet, 35 minutes, 325 degrees
+- Candied Yams, 30 minutes, 340 degrees
+- Meatloaf, 40 minutes, 350 degrees
+- Mac and Cheese, 25 minutes, 410 degrees
+
+Grade: 
+[False, False, False, False]
+Success: 
+False
+Attempt: 
+
+:
+- Candied Yams, 325 degrees, 30 minutes
+- Chicken Cutlet, 410 degrees, 25 minutes
+- Mac and Cheese, 340 degrees, 35 minutes
+- Meatloaf, 350 degrees, 40 minutes
+
+Grade: 
+[True, True, False, False]
+Success: 
+False

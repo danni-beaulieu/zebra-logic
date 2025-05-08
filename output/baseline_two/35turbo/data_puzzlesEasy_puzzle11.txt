@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+14210, Mt. Larsen, Irving Igor
+14340, Mt. Dawson, Kermit Kramer
+14470, Mt. Norman, Hal Hudson
+14600, Mt. Ingram, Gerry Gamble
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

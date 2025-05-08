@@ -1,0 +1,16 @@
+Attempt: 
+
+:
+
+Bai Yun, Mother Tai Shan, January
+
+Den Ping, Mother Tian Tian, February
+
+Gao Gao, Mother Wang Yu, March
+
+Ling Ling, Mother Nan Sheng, April
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

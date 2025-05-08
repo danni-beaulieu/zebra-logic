@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Criminal Bane, 2007, 
+Green Avenger, Peter Powers, 
+Prism Shield, Fred Fleming, 
+Ultra Hex, Edsel Eaton
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

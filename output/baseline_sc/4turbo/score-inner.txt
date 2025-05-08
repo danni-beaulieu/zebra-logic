@@ -1,0 +1,348 @@
+Grade Average: 
+16.666666666666668
+Success Percent: 
+0.0
+Success: 
+False
+Grade Average: 
+66.66666666666667
+Success Percent: 
+66.66666666666666
+Success: 
+True
+Grade Average: 
+58.333333333333336
+Success Percent: 
+33.33333333333333
+Success: 
+False
+Grade Average: 
+16.666666666666668
+Success Percent: 
+0.0
+Success: 
+False
+Grade Average: 
+41.666666666666664
+Success Percent: 
+0.0
+Success: 
+False
+Grade Average: 
+8.333333333333334
+Success Percent: 
+0.0
+Success: 
+False
+Grade Average: 
+75.0
+Success Percent: 
+66.66666666666666
+Success: 
+True
+Grade Average: 
+16.666666666666668
+Success Percent: 
+0.0
+Success: 
+False
+Grade Average: 
+0.0
+Success Percent: 
+0.0
+Success: 
+False
+Grade Average: 
+58.333333333333336
+Success Percent: 
+0.0
+Success: 
+False
+Grade Average: 
+41.666666666666664
+Success Percent: 
+33.33333333333333
+Success: 
+False
+Grade Average: 
+16.666666666666668
+Success Percent: 
+0.0
+Success: 
+False
+Grade Average: 
+8.333333333333334
+Success Percent: 
+0.0
+Success: 
+False
+Grade Average: 
+25.0
+Success Percent: 
+0.0
+Success: 
+False
+Grade Average: 
+16.666666666666668
+Success Percent: 
+0.0
+Success: 
+False
+Grade Average: 
+8.333333333333334
+Success Percent: 
+0.0
+Success: 
+False
+Grade Average: 
+58.333333333333336
+Success Percent: 
+33.33333333333333
+Success: 
+False
+Grade Average: 
+25.0
+Success Percent: 
+0.0
+Success: 
+False
+Grade Average: 
+8.333333333333334
+Success Percent: 
+0.0
+Success: 
+False
+Grade Average: 
+41.666666666666664
+Success Percent: 
+33.33333333333333
+Success: 
+False
+Grade Average: 
+16.666666666666668
+Success Percent: 
+0.0
+Success: 
+False
+Grade Average: 
+66.66666666666667
+Success Percent: 
+33.33333333333333
+Success: 
+False
+Grade Average: 
+50.0
+Success Percent: 
+33.33333333333333
+Success: 
+False
+Grade Average: 
+33.333333333333336
+Success Percent: 
+0.0
+Success: 
+False
+Grade Average: 
+83.33333333333333
+Success Percent: 
+66.66666666666666
+Success: 
+True
+Grade Average: 
+50.0
+Success Percent: 
+33.33333333333333
+Success: 
+False
+Grade Average: 
+16.666666666666668
+Success Percent: 
+0.0
+Success: 
+False
+Grade Average: 
+66.66666666666667
+Success Percent: 
+33.33333333333333
+Success: 
+False
+Grade Average: 
+83.33333333333333
+Success Percent: 
+66.66666666666666
+Success: 
+True
+Grade Average: 
+25.0
+Success Percent: 
+0.0
+Success: 
+False
+Grade Average: 
+50.0
+Success Percent: 
+33.33333333333333
+Success: 
+False
+Grade Average: 
+41.666666666666664
+Success Percent: 
+33.33333333333333
+Success: 
+False
+Grade Average: 
+25.0
+Success Percent: 
+0.0
+Success: 
+False
+Grade Average: 
+16.666666666666668
+Success Percent: 
+0.0
+Success: 
+False
+Grade Average: 
+33.333333333333336
+Success Percent: 
+33.33333333333333
+Success: 
+False
+Grade Average: 
+0.0
+Success Percent: 
+0.0
+Success: 
+False
+Grade Average: 
+0.0
+Success Percent: 
+0.0
+Success: 
+False
+Grade Average: 
+41.666666666666664
+Success Percent: 
+0.0
+Success: 
+False
+Grade Average: 
+16.666666666666668
+Success Percent: 
+0.0
+Success: 
+False
+Grade Average: 
+41.666666666666664
+Success Percent: 
+33.33333333333333
+Success: 
+False
+Grade Average: 
+16.666666666666668
+Success Percent: 
+0.0
+Success: 
+False
+Grade Average: 
+0.0
+Success Percent: 
+0.0
+Success: 
+False
+Grade Average: 
+50.0
+Success Percent: 
+0.0
+Success: 
+False
+Grade Average: 
+8.333333333333334
+Success Percent: 
+0.0
+Success: 
+False
+Grade Average: 
+58.333333333333336
+Success Percent: 
+33.33333333333333
+Success: 
+False
+Grade Average: 
+100.0
+Success Percent: 
+100.0
+Success: 
+True
+Grade Average: 
+16.666666666666668
+Success Percent: 
+0.0
+Success: 
+False
+Grade Average: 
+8.333333333333334
+Success Percent: 
+0.0
+Success: 
+False
+Grade Average: 
+0.0
+Success Percent: 
+0.0
+Success: 
+False
+Grade Average: 
+33.333333333333336
+Success Percent: 
+0.0
+Success: 
+False
+Grade Average: 
+58.333333333333336
+Success Percent: 
+0.0
+Success: 
+False
+Grade Average: 
+83.33333333333333
+Success Percent: 
+66.66666666666666
+Success: 
+True
+Grade Average: 
+16.666666666666668
+Success Percent: 
+0.0
+Success: 
+False
+Grade Average: 
+25.0
+Success Percent: 
+0.0
+Success: 
+False
+Grade Average: 
+25.0
+Success Percent: 
+0.0
+Success: 
+False
+Grade Average: 
+6.666666666666667
+Success Percent: 
+0.0
+Success: 
+False
+Grade Average: 
+33.333333333333336
+Success Percent: 
+0.0
+Success: 
+False
+Grade Average: 
+33.333333333333336
+Success Percent: 
+0.0
+Success: 
+False

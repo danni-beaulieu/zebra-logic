@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- **1100 sq ft**: La Palma, rents **$1100/month**
+- **1225 sq ft**: rents **$1525/month**
+- **1350 sq ft**: in **Monticello**, rents **$825/month**
+- **1475 sq ft**: in **Eagle Grove**, rents **$1600/month**
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

@@ -1,0 +1,39 @@
+Attempt: 
+
+:
+- Anthony, 60, redback
+- Lonnie, 90, whip spider
+- Olga, 60, raft spider
+- Tim, 45, wolf spider
+
+Grade: 
+[False, False, False, False]
+Success: 
+False
+Attempt: 
+
+:**
+- Anthony: $75 - whip spider
+- Lonnie: $90 - wolf spider
+- Olga: $60 - redback
+- Tim: $45 - raft spider
+
+Grade: 
+[False, False, False, False]
+Success: 
+False
+Attempt: 
+
+:
+
+- **Anthony**: $45, Redback
+- **Lonnie**: $90, Whip Spider
+- **Olga**: $60, Raft Spider
+- **Tim**: $75, Wolf Spider
+
+Each answer meets its respective clues through exhaustive check after aligning with the character details.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

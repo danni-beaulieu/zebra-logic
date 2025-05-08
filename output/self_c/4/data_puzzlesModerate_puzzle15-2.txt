@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Dean Courtis, Klionne, 2009 
+Gilda Frank, Casputi, 2008 
+Ken Jones, Sporrin, 2010 
+Klein, Gostroma, 2011
+
+Grade: 
+[True, True, False, False]
+Success: 
+False

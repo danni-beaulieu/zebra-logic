@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- January: Foltron, Omnipax
+- February: Exatris, (remaining company Techtrin since Athios is SpaceZen and Vexatech assigned March)
+- March: Worul, Vexatech
+- Athios is made by SpaceZen
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

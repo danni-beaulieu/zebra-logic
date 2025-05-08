@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+  - 1st: Rose, (unknown gambit)
+  - 2nd: Tara, Giuoco Start
+  - 3rd: Mae, Reti Opening
+  - 4th: Luis, Evans Gambit
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

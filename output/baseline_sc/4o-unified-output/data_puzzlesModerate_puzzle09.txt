@@ -1,0 +1,45 @@
+Attempt: 
+
+:
+- Cheelia, MKP 427, 47 light years
+- Ereph, VJD 913, 43 light years
+- Llyrak, HV 491, 45 light years
+- Xidat, BDF 198, 41 light years
+
+Grade: 
+[False, False, False, True]
+Success: 
+False
+Attempt: 
+
+:**
+
+- Cheelia orbits MKP 427 at 47 light years.
+- Ereph orbits VJD 913 at 41 light years.
+- Xidat is orbiting either through as noted better fit at HV 491, 45 light years.
+- Llyrak orbits BDF 198 at 43 light years. 
+
+Re-confirm further:
+Thus fittingly, proper solve is concluded with steps similar ensuring alignment:
+
+- Cheelia, MKP 427, 45 light years (via remaining fits).
+- Ereph, VJD 913, 41 light years.
+- Xidat, HV 491, 47 light years.
+- Llyrak, BDF 198, 43 light years.
+
+Grade: 
+[False, False, False, True]
+Success: 
+False
+Attempt: 
+
+:**
+- **Cheelia:** HV 491, 41 light years
+- **Ereph:** VJD 913, 43 light years
+- **Llyrak:** BDF 198, 45 light years
+- **Xidat:** MKP 427, 47 light years
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Kip Kerr, First Crescent, 9%
+Mike McClain, Hudson Brook, 6%
+Ule Underwood, Citizen Trust, 8%
+Walter Wade, Oak Capital, 7%
+
+Grade: 
+[True, False, False, True]
+Success: 
+False

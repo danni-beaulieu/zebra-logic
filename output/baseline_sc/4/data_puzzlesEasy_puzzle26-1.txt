@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Candied yams, 340 degrees, 35 minutes
+Chicken cutlet, 410 degrees, 30 minutes
+Mac and cheese, 325 degrees, 25 minutes
+Meatloaf, 350 degrees, 40 minutes
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

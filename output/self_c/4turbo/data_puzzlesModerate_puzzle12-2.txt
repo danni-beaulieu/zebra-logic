@@ -1,0 +1,44 @@
+Attempt: 
+
+To solve the logic grid puzzle for cities, counties, and populations, let's extract and combine information step by step from each clue.
+
+1. "The city in Berkshire County has 3000 fewer people than the town in Hampshire County."
+   - The population of the city in Berkshire is always 3000 less than that of Hampshire.
+
+2. "The city in Essex County has more people than Charles City."
+   - Essex has a higher population than Charles City, but no specific numbers yet.
+
+3. "Of the town with a population of 28000 and the city with a population of 37000, one is in Essex County and the other is Luther."
+   - Essex County is either 28000 or 37000, Luther is the other one between these two.
+   - We now know populations of Essex and Luther are 28000 and 37000, but which corresponds to which needs to be fixed by elimination with other clues.
+
+4. "Quasqueton has 3000 fewer people than the city in Nantucket County."
+   - We subtract 3000 from the population of Nantucket to determine Quasqueton.
+
+Now, using elimination and combining the clues:
+- Quasqueton has 3000 fewer people than Nantucket, and since Quasqueton is not believed to be 37000 or 28000 from earlier elimination due to Essex and Luther, it must be one of the other numbers.
+- Nantucket thus cannot be 28000 as this would make Quasqueton 25000, which is not part of our available choices (28000, 31000, 34000, 37000).
+- Since Luther and Essex can only be the cities mentioned in clue 3, the only choices for Quasqueton are 31000 and 34000, leading Nantucket to be either 34000 or 37000.
+
+Let's assign:
+
+- If Quasqueton is 31000, then Nantucket is 34000. 
+- Berkshire being 3000 fewer than Hampshire: if Hampshire is 37000, then Berkshire is 34000. But 34000 is already taken by Nantucket, so Hampshire cannot be 37000. The next plausible scenario is Hampshire at 34000 and Berkshire at 31000.
+- From earlier, Luther cannot be 31000 because it must be 28000 or 37000 based on clue 3. Since Essex County has a higher population than Charles City, if Charles City is not Luther or Essex (it's neither according to clue 3), it can be 28000 or 31000 but it has to be smaller than the population in Essex.
+- By now, the only logical arrangement left is: Essex must be 37000, Luther 28000. 
+
+Then order populations:
+- Charles City must be the 34000 (since Charles City is smaller than Essex but larger than Luther).
+
+Solution:
+- **Luther, Berkshire, 28000**
+- **Charles City, Hampshire, 34000**
+- **Quasqueton, Nantucket, 31000**
+- **Oakland Acres, Essex, 37000**
+
+By following each clue and using the elimination method, this arrangement satisfies all conditions provided in the puzzle.
+
+Grade: 
+[True, False, False, True]
+Success: 
+False

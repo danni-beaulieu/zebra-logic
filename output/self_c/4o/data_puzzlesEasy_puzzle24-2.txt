@@ -1,0 +1,13 @@
+Attempt: 
+
+:**
+
+- **Hattie**: Cashew tofu, 42 points
+- **Bertha**: Smoked pork, 56 points
+- **Luther**: Turkey soup, 49 points
+- **Wade**: Cajun chili, 63 points
+
+Grade: 
+[True, True, False, False]
+Success: 
+False

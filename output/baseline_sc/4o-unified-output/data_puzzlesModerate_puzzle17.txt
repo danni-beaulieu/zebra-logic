@@ -1,0 +1,37 @@
+Attempt: 
+
+:
+
+- First: Rose, Torre Attack
+- Second: Tara, Evans Gambit
+- Third: Luis, Giuoco Start
+- Fourth: Mae, Reti Opening
+
+Grade: 
+[True, False, False, True]
+Success: 
+False
+Attempt: 
+
+:
+- Rose, Evans Gambit, First
+- Tara, Torre Attack, Second
+- Luis, Reti Opening, Third
+- Mae, Giuoco Start, Fourth
+
+Grade: 
+[False, False, False, False]
+Success: 
+False
+Attempt: 
+
+**:
+1. Rose, Torre Attack, First
+2. Tara, Evans Gambit, Second
+3. Mae, Reti Opening, Third
+4. Luis, Giuoco Start, Fourth
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

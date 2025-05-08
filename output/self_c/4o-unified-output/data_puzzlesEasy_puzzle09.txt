@@ -1,0 +1,37 @@
+Attempt: 
+
+:**
+- Bailey: 9 weeks, Martha
+- Jake: 7 weeks, Teresa
+- Buster: 8 weeks, Stephanie
+- Gizmo: 6 weeks, Odette
+
+Grade: 
+[True, False, False, True]
+Success: 
+False
+Attempt: 
+
+:
+
+- Bailey, trained by Martha, 9 weeks
+- Gizmo, trained by Odette, 6 weeks
+- Buster, trained by Teresa, 8 weeks
+- Jake, trained by Stephanie, 7 weeks
+
+Grade: 
+[True, True, True, True]
+Success: 
+True
+Attempt: 
+
+:**
+- Gizmo, 6 weeks, Odette
+- Jake, 7 weeks, Stephanie
+- Buster, 8 weeks, Teresa
+- 9-week dog, Martha
+
+Grade: 
+[True, True, True, False]
+Success: 
+False

@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Old Jarvis, Nolan's Pine, 144, 79 
+The Senator, Roger's Oak, 147, 94 
+, , 150, 85 
+, , 153, 99
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

@@ -1,0 +1,36 @@
+Attempt: 
+
+:
+- January: Worul, Techtrin
+- February: Exatris, Omnipax
+- March: Foltron, Vexatech
+- April: Athios, SpaceZen
+
+Grade: 
+[False, False, False, False]
+Success: 
+False
+Attempt: 
+
+:**
+- January: Worul, Techtrin
+- February: Exatris, Omnipax
+- March: Foltron, Vexatech
+- April: Athios, SpaceZen
+
+Grade: 
+[False, False, False, False]
+Success: 
+False
+Attempt: 
+
+:
+- January: Omnipax, Foltron
+- February: Omnipax, Exatris
+- March: Vexatech, Worul
+- April: SpaceZen, Athios
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

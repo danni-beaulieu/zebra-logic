@@ -1,0 +1,40 @@
+Attempt: 
+
+:
+- Beulah, Escape, March
+- Darryl, Liberty, April 
+- Henrietta, Odyssey, March
+- Yvonne, Serenity, June
+- Joy, Orion, July
+
+Grade: 
+[False, False, False, False, False]
+Success: 
+False
+Attempt: 
+
+:**
+- Henrietta: Odyssey, March
+- Beulah: Orion, April
+- Joy: Escape, May
+- Yvonne: Serenity, June
+- Darryl: Liberty, July
+
+Grade: 
+[False, True, False, False, False]
+Success: 
+False
+Attempt: 
+
+:
+
+- March: Henrietta, Odyssey
+- April: Beulah, Serenity
+- May: Joy, Escape
+- June: Yvonne, Liberty
+- July: Darryl, Orion
+
+Grade: 
+[False, False, False, False, False]
+Success: 
+False

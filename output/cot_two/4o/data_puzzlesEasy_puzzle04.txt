@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- $550: Tela G5 made by Nectron
+- $575: G-290 made by Cober
+- $600: DM-5000 made by Lirios
+- $625: Zenix 2C made by Torvia
+
+Grade: 
+[False, False, True, True]
+Success: 
+False

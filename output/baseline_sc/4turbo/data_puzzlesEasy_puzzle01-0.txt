@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Audio Array, 1.5 million, January
+Lip Savage, 1.3 million, August
+Sodium Green, 1.4 million, June
+Jagged Knee, 1.2 million, September
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

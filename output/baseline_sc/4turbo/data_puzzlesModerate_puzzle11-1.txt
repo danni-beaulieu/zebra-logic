@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+- Rex, 3 GB RAM, 512 GB HDD
+- Jack, 1 GB RAM, 128 GB HDD
+- Wade, 6 GB RAM, 256 GB HDD
+- Fernando, 12 GB RAM, 384 GB HDD
+
+That satisfies all given clues and logical deductions required.
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Willie, 181 points, first
+- Natasha, 184 points, second
+- Evelyn, 190 points, eighth
+- The remaining person (who must be Melissa), 187 points, seventh
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

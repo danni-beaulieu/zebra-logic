@@ -1,0 +1,15 @@
+Attempt: 
+
+:
+- **Henrietta**: Odyssey, March
+- **Darryl**: Orion, July
+- **Beulah**: Serenity, May
+- **Yvonne**: Escape, April
+- **Joy**: Liberty, June
+
+All ships and students are matched based on clue intersections and logical deduction.
+
+Grade: 
+[True, False, False, False, False]
+Success: 
+False

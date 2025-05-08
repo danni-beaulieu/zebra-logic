@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Hill Harvey - first - 104 meters
+Brit Bradley - second - 107 meters
+Ed Elliott - third - 98 meters
+Gumbo Giles - seventh - 101 meters
+
+Grade: 
+[False, False, True, True]
+Success: 
+False

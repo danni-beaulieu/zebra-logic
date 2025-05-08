@@ -1,0 +1,14 @@
+Attempt: 
+
+:**
+- Disco Mania, Hayco Inc, 1974
+- Bowling Alley, Pinnefore, 1976
+- Meteor Rise, Dow Games, 1977
+- Archer Quest, Tarco Inc, 1977 
+
+Each machine is aligned with clues while associating them with the correct company and year of release.
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

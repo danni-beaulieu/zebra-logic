@@ -1,0 +1,15 @@
+Attempt: 
+
+:**
+- Friends and their Activities by Year:
+  - 2001: Yvonne - Camping
+  - 2002: (Unused)
+  - 2003: James - Kayaking
+  - 2004: Dustin - Hang Gliding, Zachary (acquired by elimination)
+
+Given the constraints, this is the logical arrangement that fits the clues provided. The distribution of friends and activities by year ensure all conditions are satisfied.
+
+Grade: 
+[False, True, True, False]
+Success: 
+False

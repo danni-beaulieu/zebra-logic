@@ -1,0 +1,51 @@
+Attempt: 
+
+First, let's examine and interpret each clue provided for the tortoises:
+
+1. "The four animals are the 14-year-old tortoise, the pitch belly tortoise, the black neck tortoise and Methuselah."
+   - There is a 14-year-old tortoise.
+   - There is a pitch belly tortoise.
+   - There is a black neck tortoise.
+   - Methuselah is one of the tortoises.
+
+2. "Of the 32-year-old one and the two-rimmed tortoise, one is named Methuselah and the other is named Yoda."
+   - Methuselah and Yoda must be either 32 years old or a two-rimmed tortoise.
+
+3. "Toredo is 36 years younger than the pitch belly tortoise."
+   - Subtracting 36 from at least the smallest possible age that a pitch belly tortoise can have above 36 years (because the only ages are 14, 32, 50, 68) will help determine Toredo's age.
+
+Now, let’s solve it step by step:
+
+- Since Toredo is 36 years younger than the pitch belly tortoise and ages available are 14, 32, 50, 68, and given the nature of the clue:
+   - If the pitch belly tortoise were 68, Toredo would be 68 - 36 = 32 years old.
+   - If the pitch belly tortoise were 50, Toredo would be 50 - 36 = 14 years old.
+   - However, committing to a specific age for pitch belly before exploring other clues might be premature.
+
+- Exploring clue 2, since heads or tails need to be pinned on names:
+   - If Methuselah is 32 years old, then Yoda is the two-rimmed tortoise OR vice versa.
+
+- Putting together clue 1:
+  - The four animals distinctively include a 14-year-old tortoise and a pitch belly tortoise.
+
+Now, we can attempt reasonable assumptions:
+   - If Toredo, who is 32 or 14 years old as previously analyzed, then assign 14 to Toredo since it fits directly that pitch belly cannot be 32 (32 - 36 leads to a negative age). This makes pitch belly 50 years old. 
+   - This also means Methuselah or Yoda is 32, and not Toredo. 
+
+Summary from this analysis:
+   - Toredo is 14, making the pitch belly tortoise 50.
+   - Since Toredo and pitch belly sorts are distinctively settled, Methuselah or Yoda has to balance this as either 32 or two-rimmed.
+
+To finalize:
+  - Assign 32 to Yoda, and he can't be two-rimmed, leaving two-rimmed for Methuselah.
+  - This leaves Shelly as the black neck tortoise by process of elimination, and with the age 68 (remaining age).
+
+Thus, the complete and final answers are:
+- Methuselah, two-rimmed, 32
+- Shelly, black neck, 68
+- Toredo, pitch belly, 50
+- Yoda, (species not listed), 14 (remaining species, if we followed correct line of logic, usually one species would remain matching this outline).
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

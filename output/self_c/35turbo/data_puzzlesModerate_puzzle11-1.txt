@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Fernando, 512 GB, 1 GB
+Jack, 384 GB, 6 GB
+Rex, 256 GB, 3 GB
+Wade, 128 GB, 1 GB
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

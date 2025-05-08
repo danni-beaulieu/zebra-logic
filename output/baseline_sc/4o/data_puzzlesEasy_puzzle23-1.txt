@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- Barnabas, 5 years, 12.0 feet
+- Bubba, 20 years, 10.2 feet
+- Draco, 5 years, 14.0 feet
+- Merlin, 15 years, 10.2 feet
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Olga, Raft Spider, 45 
+Anthony, Redback, 60 
+Lonnie, Wolf Spider, 75 
+Tim, Whip Spider, 90
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

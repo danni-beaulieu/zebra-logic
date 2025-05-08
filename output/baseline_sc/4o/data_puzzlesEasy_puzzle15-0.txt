@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Juana Juarez: Fiat, 5 days
+- Penny Perry: Buick, 3 days
+- Rose Rowland: Kia, 2 days
+- Vicky Vaughan: Jeep, 4 days
+
+Grade: 
+[False, True, False, False]
+Success: 
+False

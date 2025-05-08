@@ -1,0 +1,15 @@
+Attempt: 
+
+:**
+
+- Avery Bridge: suspension, 10000 ft
+- Bay Bridge: cantilever, 13000 ft
+- Gorem Bridge: truss, 11500 ft
+- North Bridge: girder, 8500 ft
+
+This arrangement satisfies all given clues consistently.
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

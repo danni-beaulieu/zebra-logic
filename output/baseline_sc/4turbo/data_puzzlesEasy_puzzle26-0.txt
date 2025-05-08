@@ -1,0 +1,16 @@
+Attempt: 
+
+:**
+| Recipe       | Temp      | Time  |
+|--------------|-----------|-------|
+| Candied yams | 325 degrees | 30 minutes |
+| Chicken cutlet | 410 degrees | 25 minutes |
+| Mac and cheese | 350 degrees | 35 minutes |
+| Meatloaf     | 340 degrees | 40 minutes |
+
+This arrangement fulfills all given conditions and relational statements.
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

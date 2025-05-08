@@ -1,0 +1,12 @@
+Attempt: 
+
+**:
+- Istryn, BDF 198, 41 light years
+- Quael, PLC 120, 43 light years
+- Rodul, MKP 427, 45 light years
+- Vestor, HV 491, 47 light years
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

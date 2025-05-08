@@ -1,0 +1,51 @@
+Attempt: 
+
+Let's solve the second logic grid puzzle using provided clues:
+
+Entities:
+- Fares: $6.50, $9.50, $12.50, $15.50
+- Customers: Allen, Kate, Max, Vera
+- Pickup points: Arctic Building, Camlin Hotel, Moore Mansion, Space Needle
+
+Clues:
+1. Vera was picked up at the Moore Mansion.
+2. The customer who got picked up at the Space Needle paid $6 less than the client who got picked up at the Arctic Building.
+3. The person who got picked up at the Space Needle paid $3 more than Kate.
+4. Max paid $15.50.
+
+Step by step analysis:
+- We know Vera was picked up at Moore Mansion (Clue 1).
+- Max paid $15.50 (Clue 4). He did not necessarily to be picked up at Moore Mansion; rather, it only tells his fare.
+
+Identifying other fares and locations:
+- The customer from the Space Needle paid $6 less than from the Arctic Building (Clue 2).
+- The person from the Space Needle paid $3 more than Kate (Clue 3).
+
+We need to find the correct fare values for the Space Needle and Arctic Building using clues 2 and 3 in conjunction:
+Since we know the fares list, let’s test possible values:
+- If Space Needle = $9.50, Arctic Building = $15.50 (the max fare and also $6.50 difference).
+- Which means, Kate paid $6.50 (Space Needle - $3 = $6.50).
+
+Distributing remaining fare and locations:
+- Vera (Moore Mansion) cannot pay $15.50 since Max paid this fare. We also know Kate paid $6.50. Remaining fares for Vera are either $9.50 or $12.50.
+- Max thus is not Moore Mansion or Space Needle, as their fares were $9.50 and $6.50, both wrong for his $15.50 fare. Max was picked at Arctic Building. 
+- Remaining Location for Kate (who paid $6.50) is Camlin Hotel.
+
+Let's summarize the information:
+- Max (Arctic Building, $15.50),
+- Kate (Camlin Hotel, $6.50),
+- Vera (Moore Mansion, $9.50) as the only left valid combination based on Clue 1.
+- Thereby, remaining one is Allen at Space Needle, paying $9.50.
+
+Final solution:
+- Allen, Space Needle, $9.50
+- Kate, Camlin Hotel, $6.50
+- Max, Arctic Building, $15.50
+- Vera, Moore Mansion, $12.50 
+
+This aligns with all given clues and distributes fares uniquely for all customers and pickup points without contradictions.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

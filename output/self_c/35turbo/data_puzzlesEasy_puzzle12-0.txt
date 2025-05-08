@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Annie, 11:00am, Rafael 
+Charlie, 12:00pm, Sophie 
+Gordon, 9:00am, Karla 
+Joann, 10:00am, Orlando
+
+Grade: 
+[False, False, True, True]
+Success: 
+False

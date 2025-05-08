@@ -1,0 +1,21 @@
+Attempt: 
+
+ for the second logic grid puzzle:
+   
+1. Mrs. Massey's cake, delivered on October 8, must be in the shape of a sailboat, following the clues.
+2. Mrs. Becker's cake is delivered the day after a cake shaped like a rocket ship implies rocket ship delivery dates are October 5, 6, or 7, and Mrs. Becker’s cake dates are October 6, 7, or 8. Since Mrs. Massey has October 8 booked, Mrs. Becker can only have her cake delivered on October 7.
+3. This makes the rocket ship shape for October 6 because Mrs. Becker can’t have the October 8 sailboat or her delivery on October 8.
+4. As Mrs. Massey's sailboat is set for October 8, and the rocket ship is dated October 6, the remaining October 5 must be for the shape delivered before Mrs. Keller, which is the bowling pin.
+5. Last shape turtle is either Mrs. Becker or Mrs. Massey. Since Mrs. Massey has the sailboat, the turtle must be Mrs. Becker’s cake.
+6. The last remaining customer, Ingram, gets the rocket ship cake on October 6.
+
+Final Resolution:
+- October 8: Massey, sailboat
+- October 7: Becker, turtle
+- October 6: Ingram, rocket ship
+- October 5: Keller, bowling pin
+
+Grade: 
+[True, False, True, False]
+Success: 
+False

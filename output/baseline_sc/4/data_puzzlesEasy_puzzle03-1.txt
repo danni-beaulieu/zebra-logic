@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Allen, Arctic Building, $15.50
+Kate, Camlin Hotel, $6.50
+Max, Moore Mansion, $12.50
+Vera, Space Needle, $9.50
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

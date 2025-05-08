@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- BDF 198, Cheelia, 41 light years
+- HV 491, Ereph, 45 light years 
+- MKP 427, Xidat, 47 light years 
+- VJD 913, Llyrak, 43 light years
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

@@ -1,0 +1,39 @@
+Attempt: 
+
+:**
+- Allen, Space Needle, $12.50
+- Kate, $6.50
+- Max, Arctic Building, $15.50
+- Vera, Moore Mansion, $9.50
+
+Grade: 
+[False, False, False, True]
+Success: 
+False
+Attempt: 
+
+:
+- Max, Arctic Building, $15.50
+- Vera, Moore Mansion, $12.50
+- Allen, Space Needle, $9.50
+- Kate, Camlin Hotel, $6.50
+
+Grade: 
+[True, True, True, True]
+Success: 
+True
+Attempt: 
+
+:**
+- Vera, Moore Mansion, unspecified fare (not directly required to solve puzzle, but by elimination her fare must be $9.50 due to other values and placements).
+- Max, Arctic Building, $15.50
+- Allen, Camlin Hotel, $12.50
+- Space Needle, $9.50
+- Kate paid $6.50 (picked up at an unlisted location here to make it all consistent, but she pays reference fare tied to the Needle).
+
+Note: For full logical value coverage within set up if needed based on strict rules: Kate's pickup was implied elsewhere, possibly at Camlin proximate for fairness, as only non-listed for immediate structure but internal logic relations rotate as verified in all allocations.
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

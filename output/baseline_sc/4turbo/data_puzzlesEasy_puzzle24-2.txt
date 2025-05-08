@@ -1,0 +1,14 @@
+Attempt: 
+
+:**
+- Wade, turkey soup, 56
+- Bertha, smoked pork, 63
+- Luther, cajun chili, 56
+- Hattie, cashew tofu, 42
+
+Note: This calculation holds considering that the data available fits with the clues. A key remark is that identifying Bertha's assumption as the highest score and linking it to cajun chili's points deduction helps finalize placements.
+
+Grade: 
+[True, False, False, True]
+Success: 
+False

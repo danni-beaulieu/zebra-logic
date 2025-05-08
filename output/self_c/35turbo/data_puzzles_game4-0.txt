@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Fred Fleming, Criminal Bane, 2008
+Prism Shield, 2009
+Edsel Eaton, 2010
+Ultra Hex, Ned Nielsen
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

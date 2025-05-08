@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+- Penny Perry, Buick, 3 days
+- Vicky Vaughan, Fiat, 4 days
+- Rose Rowland, Kia, 5 days (corrected based on matching options left)
+- Juana Juarez, Jeep, 2 days (corrected based on matching options left)
+
+This construction completes the valid solution for the puzzle based on the given clues.
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

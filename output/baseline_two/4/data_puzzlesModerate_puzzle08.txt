@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Super Tubers, catapult, 150 
+Russets, trebuchet, 165 
+Mad Mashers, vacuum cannon, 180 
+Spud Chuckers, slingshot, 135
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

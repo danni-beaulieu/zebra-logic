@@ -1,0 +1,13 @@
+Attempt: 
+
+:**
+
+- Cheelia: 45 light years, star MKP 427
+- Ereph: 41 light years, star HV 491
+- Llyrak: 45 light years, star VJD 913
+- Xidat: 47 light years, star BDF 198
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

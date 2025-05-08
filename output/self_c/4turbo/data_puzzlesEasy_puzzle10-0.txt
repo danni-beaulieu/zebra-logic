@@ -1,0 +1,14 @@
+Attempt: 
+
+:**
+- Ernesto, 112, Texas
+- Larry, 110, Alaska
+- Olivia, 111, Missouri
+- Preston, 109, Virginia
+  
+This logically completes the puzzle using the given clues.
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

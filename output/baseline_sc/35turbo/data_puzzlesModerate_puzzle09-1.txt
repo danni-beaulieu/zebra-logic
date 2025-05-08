@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+Cheelia, HV 491, 43 
+Ereph, VJD 913, 45 
+Llyrak, BDF 198, 41 
+Xidat, MKP 427, 47
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

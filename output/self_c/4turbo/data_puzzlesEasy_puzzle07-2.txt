@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- First: Brit Bradley, 107 meters
+- Second: Gumbo Giles, 98 meters
+- Third: Hill Harvey, 104 meters
+- Seventh: Ed Elliott, 101 meters (since all other divers are placed)
+
+Grade: 
+[False, True, False, False]
+Success: 
+False

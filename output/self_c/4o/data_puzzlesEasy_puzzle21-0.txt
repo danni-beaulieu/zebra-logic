@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+- Midge Mintz, Alfalfa, $5.50
+- Lemon Blossom, $6.50 (implicitly inferred since it's $6.50 in the context)
+- Keith Koch, Sage, $7.50
+- Linda Lynn, Sourwood/Implicit from price positioning, $8.50
+- Jim Joyner, Sourwood, $8.50
+
+Grade: 
+[True, False, True, True]
+Success: 
+False

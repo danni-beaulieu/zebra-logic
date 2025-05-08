@@ -1,0 +1,12 @@
+Attempt: 
+
+ (updated after correction and missing conclusions):
+Jeanne, Jamaica, 2:30 pm
+Pablo, Peru, 3:30 pm 
+Terrance, Malta, 4:30 pm 
+Claude, Qatar, 5:30 pm
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

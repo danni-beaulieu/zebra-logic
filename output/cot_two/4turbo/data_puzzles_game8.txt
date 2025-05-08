@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+- Willie, 181 points, eighth
+- Natasha, 184 points, first
+- Melissa, 187 points, seventh
+- Evelyn, 190 points, second
+
+This arrangement resolves clues 1-5 logically, ensuring Evelyn scored higher than the seventh performer, Willie scored the lowest and went last, Natasha took either first or second and performed higher than Melissa, and the point differences meet the criteria set by the clues.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Ernesto, Texas, 110
+Preston, Missouri, 109
+Olivia, Virginia, 111
+Larry (remaining person), Alaska, 112
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

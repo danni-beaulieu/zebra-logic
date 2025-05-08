@@ -1,0 +1,38 @@
+Attempt: 
+
+:**
+Ling Ling, Po Lang, January  
+Hua Mei, Wang Yu, February  
+Gao Gao, Tai Shan, March   
+Den Ping, Nan Sheng, April  
+
+Grade: 
+[True, True, True, True]
+Success: 
+True
+Attempt: 
+
+:
+- Ling Ling, Po Lang, January
+- Gao Gao, Wang Yu, February
+- Hua Mei, Tai Shan, March
+- Den Ping, Nan Sheng, April
+
+Grade: 
+[True, False, False, True]
+Success: 
+False
+Attempt: 
+
+**:
+- Wang Yu, Hua Mei, February
+- Nan Sheng, Den Ping, April
+- Po Lang, Ling Ling, January
+- Tai Shan, Gao Gao, March
+
+All the babies and months have been successfully deduced with respect to their mothers.
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

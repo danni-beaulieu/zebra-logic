@@ -1,0 +1,39 @@
+Attempt: 
+
+:**
+
+- Mt. Dawson: 14340 feet, Irving Igor
+- Mt. Ingram: 14600 feet, Gerry Gamble
+- Mt. Larsen: 14210 feet, Kermit Kramer
+- Mt. Norman: 14470 feet, Hal Hudson
+
+Grade: 
+[False, False, False, True]
+Success: 
+False
+Attempt: 
+
+:**
+
+- Mt. Dawson, 14210 feet, climber: Hal Hudson
+- Mt. Ingram, 14600 feet, climber: Gerry Gamble
+- Mt. Larsen, 14340 feet, climber: Irving Igor
+- Mt. Norman, 14470 feet, climber: Kermit Kramer
+
+Grade: 
+[False, False, True, True]
+Success: 
+False
+Attempt: 
+
+:**
+
+Mt. Dawson, 14210, Hal Hudson  
+Mt. Norman, 14470, Kermit Kramer  
+Mt. Larsen, 14340, Irving Igor  
+Mt. Ingram, 14600, Gerry Gamble
+
+Grade: 
+[False, False, True, True]
+Success: 
+False

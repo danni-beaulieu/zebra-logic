@@ -1,0 +1,12 @@
+Attempt: 
+
+ for the Second Puzzle:**
+- Gerry Gamble, Mt. Ingram, 14600 feet
+- Hal Hudson, Mt. Norman, 14470 feet
+- Irving Igor, Mt. Larsen, 14210 feet
+- Kermit Kramer, Mt. Dawson, 14340 feet
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

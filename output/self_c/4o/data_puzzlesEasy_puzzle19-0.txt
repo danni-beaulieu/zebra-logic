@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Silver coin, Colbert Run, $325
+- Diamond ring, $475, Not a location match but placed correctly (trying possibilities)
+- Cannonball, Burr Woods, $400
+- Earring, Heffen Lane, $325
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

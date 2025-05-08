@@ -1,0 +1,36 @@
+Attempt: 
+
+:
+- Bold Service, Adrienne Day, 5
+- Maximum Risk, Danny Trevor, 4
+- Fatal Sheen, Virgil Katz, 2
+- Wild Ones, Gabby Jones, 3
+
+Grade: 
+[False, False, False, False]
+Success: 
+False
+Attempt: 
+
+:
+- Bold Service, Adrienne Day, 3 nominations
+- Fatal Sheen, Gabby Jones, 4 nominations (since Virgil's movie gets 5)
+- Maximum Risk, Danny Trevor, 2 nominations (as Fatal Sheen and Maximum Risk can't have the same nominations)
+- Wild Ones, Virgil Katz, 5 nominations
+
+Grade: 
+[True, True, True, True]
+Success: 
+True
+Attempt: 
+
+:
+- **Bold Service**, Adrienne Day, 5 nominations
+- **Fatal Sheen**, Gabby Jones, 2 nominations
+- **Maximum Risk**, Danny Trevor, 4 nominations
+- **Wild Ones**, Virgil Katz, 3 nominations
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

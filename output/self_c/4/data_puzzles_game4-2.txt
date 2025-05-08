@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+2007, Criminal Bane, Peter Powers 
+2007, Prism Shield, Fred Fleming 
+2008, Ultra Hex, Ned Nielsen 
+2010, Green Avenger, Edsel Eaton
+
+
+Grade: 
+[True, False, False, True]
+Success: 
+False

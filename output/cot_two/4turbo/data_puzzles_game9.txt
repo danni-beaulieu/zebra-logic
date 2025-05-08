@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+- Beulah, Orion, April
+- Henrietta, Odyssey, May (from elimination with June as another month for the assignment)
+- Darryl, Liberty, July
+- Yvonne, Serenity, June
+- Joy (remaining student), Escape, March.
+
+Grade: 
+[False, True, False, True, False]
+Success: 
+False

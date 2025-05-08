@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Charles City, Berkshire County, 28000
+Luther, Essex County, 37000
+Oakland Acres, Nantucket County, 34000
+Quasqueton, Hampshire County, 31000
+
+Grade: 
+[False, True, False, False]
+Success: 
+False

@@ -1,0 +1,18 @@
+Attempt: 
+
+:
+- Midge Mintz, alfalfa, $5.50
+- Linda Lynn, nectar unknown, $8.50
+- Keith Koch, sage, $7.50
+- Jim Joyner, sourwood, $6.50
+
+Note: Linda Lynn's nectar isn't explicitly provided but it logically can't be sage, alfalfa, or sourwood, thus it must be lemon blossom. Hence, the complete answer would be:
+- Midge Mintz, alfalfa, $5.50
+- Linda Lynn, lemon blossom, $8.50
+- Keith Koch, sage, $7.50
+- Jim Joyner, sourwood, $6.50
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

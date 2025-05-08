@@ -1,0 +1,19 @@
+Attempt: 
+
+:
+For the first puzzle's solution:
+- Olga, Travelore, 25 liters
+- Leroy, Pinkster, 30 liters
+- Gene, Grennel, 35 liters
+- Jeffrey, Bistric, 40 liters
+
+For the second puzzle's solution:
+- Evelyn: 190 points, First
+- Natasha: 184 points, Second
+- Melissa: 187 points, Seventh
+- Willie: 181 points, Eighth
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

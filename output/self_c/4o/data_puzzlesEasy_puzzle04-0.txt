@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- **Cober:** Tela G5, $550
+- **Nectron:** [Undetermined camera], $575
+- **Lirios:** DM-5000, $600
+- **Torvia:** G-290, $625
+
+Grade: 
+[True, False, True, False]
+Success: 
+False

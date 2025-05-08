@@ -1,0 +1,36 @@
+Attempt: 
+
+:**
+- January: Planets Align, hosted by Lynette
+- February: Vendetta
+- March: Bladescape 
+- April: Rules of War, hosted at Ira's house
+
+Grade: 
+[True, False, False, False]
+Success: 
+False
+Attempt: 
+
+:
+- January: Rules of War, Lynette
+- February: Vendetta, Ira
+- March: Bladescape, Yolanda
+- April: Planets Align, Manuel
+
+Grade: 
+[False, False, False, False]
+Success: 
+False
+Attempt: 
+
+**:
+- January: Planets Align, Lynette
+- February: Vendetta, Ira
+- March: Bladescape, Manuel
+- April: Rules of War, Yolanda
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

@@ -1,0 +1,59 @@
+Attempt: 
+
+**Analysis of the first puzzle:** 
+
+1. Olga has a 25-liter pack.
+2. The Pinkster pack is 5 liters smaller than the Grennel pack.
+3. The 30 liter pack, the Bistric pack, and the Grennel pack are different packs.
+4. Leroy has either a 25-liter or a 30-liter pack. The Travelore pack is either 25-liter or 30-liter.
+5. Gene has a 35-liter pack.
+
+Based on clue 1, Olga must have the 25-liter pack. 
+
+Gene holds a 35-liter pack per clue 5. This setup leaves a choice between 30 and 40 liters for Leroy and Jeffrey.
+
+Since the Pinkster pack is exactly 5 liters smaller than the Grennel pack (clue 2), and the Grennel pack isn't the 30-liter pack (clue 3), Grennel should be 35 or 40 liters. Given Gene has the 35-liter pack, Gene's pack must be Grennel. 
+
+So, from clue 2, the Pinkster pack must be 30 liters, which fits because the Grennel, Bistric, and 30-liter pack are different (clue 3). Therefore, Leroy, with either a 25-liter or 30-liter pack, must have the 30-liter Pinkster pack.
+
+Now, of Leroy's pack and the Travelore pack, one is 25 liters and the other is 30 liters (clue 4). Since Leroy has the 30-liter pack, the Travelore must be the 25-liter pack, which Olga has.
+
+Jeffrey must then have the remaining pack, which is 40 liters, and the remaining brand, which is Bistric.
+
+Final solution: 
+Olga, Travelore, 25 liters;
+Leroy, Pinkster, 30 liters;
+Gene, Grennel, 35 liters;
+Jeffrey, Bistric, 40 liters.
+
+**Analysis of the second puzzle:**
+
+1. "Disco Mania" came out before the Pinnefore machine.
+2. Either "Bowling Alley" is 1977 or made by Tarco Inc; the other choice is "Archer Quest."
+3. The machine by Dow Games launched a year after "Bowling Alley."
+4. The Tarco Inc. machine came out after the Pinnefore machine.
+
+Suppose "Bowling Alley" was released in 1977. That means "Archer Quest" is by Tarco Inc. Also, since the Disco Mania is prior to the Pinnefore machine, and the Tarco Inc. machine is after the Pinnefore machine, "Bowling Alley" cannot be the earliest among the four. So, "Disco Mania" is the earliest machine.
+
+If Bowling Alley is from 1977, by Clue 3, the Dow Games entry is 1976. This can only be Disco Mania or the Meteor Rise. If Disco Mania was 1974 or 1975, then Meteor Rise should fit for Dow Games in 1976. Pinnefore's machine, following the other placements, will take 1975.
+
+Final solutions thus are:
+- Disco Mania, Hayco Inc, 1974
+- Meteor Rise, Dow Games, 1976
+- The Pinnefore machine is in 1975
+- Archer Quest, Tarco Inc, 1977
+
+However, a contradiction emerges since Disco Mania's placement before Pinnefore isn't met if it's from Hayco Inc. Therefore, Disco Mania and the Pinnefore machine must be sequenced: 1974, 1975 respectively.
+
+Thus the correct solution now would be:
+- Disco Mania, Hayco Inc, 1974
+- (possibly the Meteor Rise or another depending on missing exact clues), Pinnefore, 1975
+- Meteor Rise or Bowling Alley, Dow Games, 1976
+- The remaining one, Archer Quest, Tarco Inc, 1977
+
+Note: The exact detail about certain entities is slightly incomplete due to unclear resolutions in the partial clues.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

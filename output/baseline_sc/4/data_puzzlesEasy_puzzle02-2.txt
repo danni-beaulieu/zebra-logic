@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Stanley, Hardwick, June 10 
+Person from Jackman, Jackman, June 11 
+Kyle, Daly City, June 13 
+Chris, Leland, June 12
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

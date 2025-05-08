@@ -1,0 +1,39 @@
+Attempt: 
+
+From the clues: 
+
+1. "Willie scored 181 points." 
+- Willie scored 181 points.
+
+2. "Evelyn scored somewhat higher than the dancer who performed seventh." 
+- Evelyn did not perform seventh.
+- Evelyn scored more than whoever performed seventh.
+
+3. "The dancer who performed eighth scored 3 points lower than the dancer who performed first."
+- The dancer who performed first scored 3 points higher than the dancer who performed eighth.
+
+4. "The person who danced second scored somewhat lower than the person who danced seventh."
+- The person who danced second scored less than the person who danced seventh.
+
+5. "Natasha was either the person who danced second or the dancer who performed first."
+- Natasha did not perform seventh.
+- Natasha was either second or first.
+
+Using this information, we can deduce the following:
+
+- Willie scored 181, meaning Natasha did not score 181. Therefore Natasha was the person who danced second or first, and since the person who danced second scored less than the person who danced seventh, Natasha must have performed first.
+- Natasha performed first, scoring more than the dancer who performed seventh. Since the person who performed first scored 3 points higher than the person who performed eighth, Natasha (first) must have scored 190 and the dancer who performed eighth must have scored 187.
+- The person who performed second scored less than the person who performed seventh, so Melissa (second) must have scored 181 points and not Evelyn.
+- Evelyn did not perform seventh, so Evelyn must have performed either seventh or eighth. Since Evelyn's score must be more than 181 (Willie's score) and Melissa already scored 181, Evelyn must have performed eighth and scored 184.
+- This leaves Melissa with the seventh position and 181 points.
+
+Therefore, the final solution is:
+Natasha, first, 190 points
+Melissa, seventh, 181 points
+Evelyn, eighth, 184 points
+Willie, second, 187 points
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

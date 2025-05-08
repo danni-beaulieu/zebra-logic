@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Bev Baird, academic, 10000 votes
+Cate Carlson, teacher, 8500 votes
+Gilda Gray, writer, 9500 votes
+Ida Ingram, architect, 9000 votes
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

@@ -1,0 +1,36 @@
+Attempt: 
+
+:
+- Po Lang, Ling Ling, January
+- Wang Yu, Hua Mei, February
+- Tai Shan, Gao Gao, March
+- Nan Sheng, Den Ping, April
+
+Grade: 
+[True, True, True, True]
+Success: 
+True
+Attempt: 
+
+:**
+- Ling Ling - Po Lang - January
+- Hua Mei - Wang Yu - February
+- Baby - Tai Shan - March
+- Den Ping - Nan Sheng - April
+
+Grade: 
+[True, True, False, True]
+Success: 
+False
+Attempt: 
+
+:
+- Den Ping, Tai Shan, March
+- Gao Gao, Po Lang, January
+- Hua Mei, Nan Sheng, April
+- Ling Ling, Wang Yu, February
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

@@ -1,0 +1,13 @@
+Attempt: 
+
+:**
+- Beulah: May, Escape
+- Darryl: April, Orion
+- Henrietta: March, Odyssey
+- Joy: Not explicitly mentioned; implies association with June, Serenity as a consequence.
+- Yvonne: July, Liberty
+
+Grade: 
+[False, False, False, False, False]
+Success: 
+False

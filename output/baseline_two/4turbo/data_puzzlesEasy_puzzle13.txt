@@ -1,0 +1,12 @@
+Attempt: 
+
+:**
+- Hudson Brook: Mike McClain, 6%
+- Citizen Trust: Walter Wade, 7%
+- Oak Capital: Ule Underwood, 8%
+- First Crescent: Kip Kerr, 9%
+
+Grade: 
+[True, True, True, True]
+Success: 
+True

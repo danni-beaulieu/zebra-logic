@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+April 4th - Tam Terry, flooding
+April 5th - Randy Reid, royal wedding
+April 6th - Sid Snyder, mass protests
+April 7th - Peter Peck, earthquake
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

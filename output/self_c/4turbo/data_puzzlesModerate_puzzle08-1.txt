@@ -1,0 +1,51 @@
+Attempt: 
+
+To solve the logic grid puzzle involving teams, devices, and distances, I will use the information from the given clues and logically figure out the associations between entities.
+
+1. **"The Super Tubers used the catapult."**
+   - Super Tubers ↔ Catapult
+
+2. **"The team that made it to 135 ft was either the contestants that used the vacuum cannon or the team that used the trebuchet."**
+   - 135 ft ↔ (Vacuum Cannon or Trebuchet)
+
+3. **"Of the group that made it to 150 ft and the group that made it to 165 ft, one was the Super Tubers and the other used the trebuchet."**
+   - Since Super Tubers used the catapult, they did not use the trebuchet (used by the Russets).
+   - Super Tubers ↔ (150 ft or 165 ft)
+   - Russets (Trebuchet) ↔ (150 ft or 165 ft)
+
+4. **"The Russets used the trebuchet."**
+   - Russets ↔ Trebuchet
+
+5. **"The Super Tubers landed somewhat short of the Russets."**
+   - Since the Super Tubers landed short of the Russets, the Super Tubers did not go the farthest among the given distances and their distance is less than that of the Russets.
+
+6. **"The group that used the vacuum cannon was either the Mad Mashers or the contestants that made it to 180 ft."**
+   - Vacuum Cannon ↔ (Mad Mashers or 180 ft)
+
+Let's analyze the details logically from the clues:
+- If the Super Tubers used the catapult, then considering the travel distances where one of them is associated with the Super Tubers and the other with the trebuchet (Russets), and knowing Super Tubers landed short of the Russets, the logical allocation would be:
+  - Super Tubers: 150 ft
+  - Russets (Trebuchet): 165 ft
+  - Hence, the 135 ft must be associated with the fourth group that used either the trebuchet or vacuum cannon. 
+
+Since the Russets are using the trebuchet, this means:
+- Vacuum cannon must be associated with 135 ft.
+
+From the clue about vacuum cannon:
+- If the vacuum cannon is linked to 135 ft, then it's neither with Mad Mashers nor reaching 180 ft, leaving:
+  - Mad Mashers must achieve 180 ft.
+- This leaves the only remaining team (Spud Chuckers) with the only remaining distance and device:
+  - Spud Chuckers ↔ Slingshot, 150 ft
+
+The final solution is as follows:
+- **Super Tubers**, catapult, **150 ft**
+- **Russets**, trebuchet, **165 ft**
+- **Mad Mashers**, vacuum cannon, **135 ft**
+- **Spud Chuckers**, slingshot, **180 ft**
+
+From this logical deduction, we have properly associated all groups with corresponding devices and distances based on the provided clues and the logic grid puzzle framework.
+
+Grade: 
+[False, True, False, True]
+Success: 
+False

@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- 69 million years old: Price 1000, Dinosaur archadon
+- 75 million years old: Price 750, Dinosaur mirasaurus
+- 78 million years old: Price 1250, Dinosaur pilodontus
+- 85 million years old: Price 500, Dinosaur senosaurus
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

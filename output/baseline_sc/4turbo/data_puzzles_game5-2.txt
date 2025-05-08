@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Pilodontus, 78 million years, $1250
+- Senosaurus, 85 million years, $500
+- Dinosaur (either archadon or mirasaurus), 75 million years, $750
+- Remaining dinosaur (either archadon or mirasaurus), 69 million years, $1000
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

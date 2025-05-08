@@ -1,0 +1,37 @@
+Attempt: 
+
+:**
+
+- Daryl, You Otter Know, 5 million
+- Rodney, Gabe Goes Nuts, 6 million
+- Tonya, Happy Hermits, 7 million
+- Yvonne, Beach Brouhaha, 4 million
+
+Grade: 
+[True, True, True, True]
+Success: 
+True
+Attempt: 
+
+:
+Rodney, Beach Brouhaha, 4 million  
+Tonya, Happy Hermits, 7 million  
+Daryl, You Otter Know, 5 million  
+Yvonne, Gabe Goes Nuts, 6 million
+
+Grade: 
+[False, True, False, True]
+Success: 
+False
+Attempt: 
+
+:**
+- Tonya, 4 million, Happy Hermits
+- Yvonne, 5 million, Beach Brouhaha
+- Daryl, 6 million, You Otter Know
+- Rodney, 7 million, Gabe Goes Nuts
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Evan's Fir, 79, 144
+Nolan's Pine, 85, 153
+Roger's Oak, 87, 147
+Zeke's Spruce, 94, 150
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

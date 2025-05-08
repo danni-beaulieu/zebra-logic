@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Kermit, First, #118 or #126
+Ophelia, Second, #128
+Stretch, Third, #105
+Bridget, Fourth, #126
+
+Grade: 
+[True, True, False, False]
+Success: 
+False

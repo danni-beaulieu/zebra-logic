@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Brit Bradley, first, 107 meters
+- Hill Harvey, second, 104 meters
+- Ed Elliott, third, 101 meters
+- Gumbo Giles, seventh, 98 meters
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

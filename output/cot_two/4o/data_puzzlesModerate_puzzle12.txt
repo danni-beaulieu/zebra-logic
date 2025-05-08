@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Charles City, Hampshire, 34000
+Luther, Essex, 28000
+Oakland Acres, Nantucket, 37000
+Quasqueton, Berkshire, 31000
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

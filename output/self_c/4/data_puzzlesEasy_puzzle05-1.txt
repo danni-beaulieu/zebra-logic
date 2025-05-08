@@ -1,0 +1,13 @@
+Attempt: 
+
+:
+ 
+Daryl, You Otter Know, 5 million 
+Tonya, Happy Hermits, 7 million 
+Rodney, Beach Brouhaha, 4 million 
+Yvonne, Gabe Goes Nuts, 6 million
+
+Grade: 
+[False, True, False, True]
+Success: 
+False

@@ -1,0 +1,48 @@
+Attempt: 
+
+Breaking down the clues to solve the logic grid puzzle:
+
+1. "The vacation with Dustin is either the 2004 holiday or the hang gliding holiday."
+2. "The kayaking trip was 2 years after the camping vacation."
+3. "The trip with Zachary was after the kayaking vacation."
+4. "The camping trip was 2 years before the vacation with James."
+
+Steps to solve:
+- Start by noting the relationship between the kayaking trip and the camping trip—it must be with a 2-year difference. Same applies to the camping trip and James' vacation.
+- This sets the camping trip to the first year (2001) to allow a consistent two-year spacing:
+   - Camping in 2001
+   - Kayaking in 2003 (2 years after camping)
+   - James' vacation in 2003 (2 years after camping)
+- The trip with Zachary is after the kayaking vacation:
+   - Zachary's vacation cannot be in 2001 or 2003, so it must be 2004.
+- With Dustin’s vacation being either the hang gliding trip or the 2004 vacation and Zachary’s trip set in 2004, Dustin's activity must be hang gliding and not in 2004 due to exclusion:
+   - Dustin hangs gliding in 2003
+   - Zachary not involved in hang gliding, hence he is involved in cycling or some other activity in 2004 due to available activity types left.
+
+Let's progress with the information available:
+- One year is left, which is 2002. The activities left are cycling and kayaking. Since kayaking happened in 2003, cycling must be in 2002.
+- Dustin being in hang gliding in 2003 rules him out of other activities and years. James was tied to 2003; since he cannot be kayaking (as it coincides with camping), he must be in hang gliding, leaving Zachary with cycling in 2004 and Yvonne as the kayaker in 2003.
+
+So placing all this together:
+- 2001, Camping (activity left as only Dustin and Zachary are known)
+- 2002, Cycling, Zachary
+- 2003, Hang Gliding, James
+- 2003, Kayaking, Yvonne
+- 2004, Cycling, Zachary
+
+Since camping lines up with no friend mentioned earlier before James and the only activity left for 2001 remains cycling:
+- Yvonne must be the one who went camping in 2001 since the only friend left for 2001 is her.
+
+Thus, the final answer, completing all associations:
+- 2001, Yvonne, camping
+- 2002, Zachary, cycling
+- 2003, James, hang gliding
+- 2003, Dustin, kayaking
+- 2004, Zachary, cycling  
+
+These solutions match the friends, activities, and years according to the puzzle constraints.
+
+Grade: 
+[False, True, False, False]
+Success: 
+False

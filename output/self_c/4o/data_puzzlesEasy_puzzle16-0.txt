@@ -1,0 +1,13 @@
+Attempt: 
+
+:**
+- **Square Footage: 975 sq ft**; **Neighborhood: Eagle Grove**; **Rent: $1100/month**
+- **Square Footage: 1100 sq ft**; **Neighborhood: La Palma**; **Rent: $1525/month**
+- **Square Footage: 1225 sq ft**; **Neighborhood: Unknown**; **Rent: $1525/month**
+- **Square Footage: 1350 sq ft**; **Neighborhood: Unknown**; **Rent: $825/month**
+- **Square Footage: 1475 sq ft**; **Neighborhood: Monticello**; **Rent: $1600/month**
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

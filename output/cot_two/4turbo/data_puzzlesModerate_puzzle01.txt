@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Ann Alvarado owns Adagio III, 22 ft
+Betsy Becker owns Restless Wave, 25 ft
+Ernesto Ellis owns Irish Pride, 28 ft
+Hetta Hensley owns White Squid, 31 ft
+
+Grade: 
+[True, False, False, True]
+Success: 
+False

@@ -1,0 +1,36 @@
+Attempt: 
+
+:**
+- Willie, 181 points, eighth
+- Evelyn, 184 points, seventh
+- Natasha, 181 points, second
+- Melissa, 190 points, first
+
+Grade: 
+[False, False, False, False]
+Success: 
+False
+Attempt: 
+
+:**
+Evelyn, First, 190
+Natasha, Second, 184
+Melissa, Seventh, 187
+Willie, Eighth, 181
+
+Grade: 
+[False, False, False, False]
+Success: 
+False
+Attempt: 
+
+:
+Natasha, 184 points, First  
+Melissa, 187 points, Second  
+Evelyn, 190 points, Seventh  
+Willie, 181 points, Eighth
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

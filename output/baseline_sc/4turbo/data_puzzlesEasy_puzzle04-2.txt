@@ -1,0 +1,14 @@
+Attempt: 
+
+:
+- **DM-5000, Lirios, $600**
+- **G-290, Cober, $550**
+- **Tela G5, Nectron, $575**
+- **Zenix 2C, Torvia, $625** 
+
+This arrangement respects all clues including price differentials and associations between model names, companies, and prices.
+
+Grade: 
+[False, False, True, True]
+Success: 
+False

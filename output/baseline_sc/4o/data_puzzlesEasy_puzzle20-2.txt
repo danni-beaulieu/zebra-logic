@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+- Anthony, unknown spider, $75
+- Lonnie, whip spider, $75
+- Olga, unknown spider, $60
+- Tim, raft spider, $45
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

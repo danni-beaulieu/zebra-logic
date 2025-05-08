@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Ira, 9:00am, Orlando.
+- Charlie, 12:00pm, Sophie.
+- Frederick, 10:00am, Nelson.
+- Harold, 11:00am, Karla.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

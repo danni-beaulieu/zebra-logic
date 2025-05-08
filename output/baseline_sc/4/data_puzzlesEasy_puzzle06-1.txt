@@ -1,0 +1,12 @@
+Attempt: 
+
+: 
+Binson C40, 5000 BTUs, 440
+Chiller Z, 10000 BTUs, 505
+Z-Free XL, 20000 BTUs, 570
+Freezon Flux, 25000 BTUs, 375
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+Becker, Turtle, October 6
+Ingram, Bowling Pin, October 8
+Keller, Rocket Ship, October 5
+Massey, Sailboat, October 8
+
+Grade: 
+[False, False, False, True]
+Success: 
+False

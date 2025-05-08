@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+archadon, 1250, 78
+mirasaurus, 1000, 69 
+pilodontus, 750, 75 
+senosaurus, 500, 85
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

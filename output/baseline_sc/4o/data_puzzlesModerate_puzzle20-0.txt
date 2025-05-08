@@ -1,0 +1,12 @@
+Attempt: 
+
+:**  
+- Bev Baird, teacher, 8500  
+- Cate Carlson, academic, 9000  
+- Gilda Gray, writer, 10000  
+- Ida Ingram, architect, 9500
+
+Grade: 
+[False, True, False, False]
+Success: 
+False

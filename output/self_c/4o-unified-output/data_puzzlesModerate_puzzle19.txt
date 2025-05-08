@@ -1,0 +1,37 @@
+Attempt: 
+
+:**
+1. Disco Mania, Hayco Inc, 1974
+2. Meteor Rise, Pinnefore, 1975
+3. Bowling Alley, Hayco Inc, 1976
+4. Archer Quest, Tarco Inc, 1977
+
+Grade: 
+[True, True, False, False]
+Success: 
+False
+Attempt: 
+
+:
+- Disco Mania, Dow Games, 1976
+- Bowling Alley, Tarco Inc., 1975
+- Meteor Rise, Pinnefore, 1974
+- Archer Quest, Hayco Inc., 1977
+
+Grade: 
+[False, False, False, False]
+Success: 
+False
+Attempt: 
+
+:**
+
+- Disco Mania, Hayco Inc, 1974
+- Pinnefore, Pinnefore, 1975
+- Bowling Alley, Dow Games, 1976
+- Archer Quest, Tarco Inc., 1977
+
+Grade: 
+[True, False, False, False]
+Success: 
+False

@@ -1,0 +1,12 @@
+Attempt: 
+
+ for the second logic grid puzzle:
+- Adam, right whale, 21 ft
+- Brent, fin whale, 25 ft
+- Dennis, beluga whale, 23 ft
+- Herbert, sei whale, 27 ft
+
+Grade: 
+[False, False, True, False]
+Success: 
+False

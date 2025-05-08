@@ -1,0 +1,52 @@
+Attempt: 
+
+To solve the logic grid puzzle for the second part, we need to correctly assign customers, cake shapes, and delivery dates based on the given clues. 
+
+Step-by-step analysis:
+
+1. "The October 8 delivery will be in the shape of a sailboat."
+   - October 8, sailboat.
+
+2. "Mrs. Massey's cake will be delivered on October 8."
+   - Mrs. Massey, October 8.
+   - Combining this with clue 1: Mrs. Massey's cake is a sailboat, delivered on October 8.
+
+3. "The order shaped like a turtle is either Mrs. Becker's order or Mrs. Massey's cake."
+   - Since Mrs. Massey's cake is a sailboat, the turtle shape must be Mrs. Becker's cake.
+   - Mrs. Becker, turtle.
+
+4. "Mrs. Becker's cake will be delivered 1 day after the order shaped like a rocket ship."
+   - Mrs. Becker's cake delivery date is one day after the rocket ship cake.
+   - This implies that the rocket ship cake cannot be delivered on October 8, and thus can only be delivered on October 7, making Mrs. Becker's cake delivered on October 6.
+
+5. "The order shaped like a bowling pin will be delivered sometime before Mrs. Keller's cake."
+   - The bowling pin cake is delivered before Mrs. Keller's cake.
+   - Given the dates left are October 5, 7, and those assigned for Mrs. Becker and Mrs. Massey, Mrs. Keller's cake cannot be delivered on October 5 but on October 6 or 7.
+
+Given this information:
+- Mrs. Massey's sailboat cake is on October 8.
+- Mrs. Becker's turtle cake is on October 6.
+  
+Leftover:
+- Dates needed for other cakes: October 5 and October 7.
+- Unidentified cakes: rocket ship and bowling pin.
+- Unassigned customers and cake shapes/day: Mr. Ingram, Mrs. Keller, rocket ship, bowling pin.
+
+Based on clues and eliminations:
+- Rocket ship is delivered on October 7.
+- Bowling pin must be delivered on October 5 (before Mrs. Keller's as said in clues), and this must be assigned to the remaining customer who is not Mrs. Becker or Mrs. Massey, leaving it likely for either Mr. Ingram or Mrs. Keller not on Mrs. Keller's day.
+- Mrs. Keller must then get her cake on October 7 besides the rocket ship, but due to the ordering and requirements above, we know the bowling pin is not Mrs. Keller but must be Mr. Ingram.
+- Keller receives the rocket ship on October 7.
+
+Final solution:
+- Mrs. Becker, turtle, October 6
+- Mrs. Massey, sailboat, October 8
+- Mr. Ingram, bowling pin, October 5
+- Mrs. Keller, rocket ship, October 7
+
+Thus, each entity has been assigned a distinct attribute based on the available data and clues.
+
+Grade: 
+[False, False, False, False]
+Success: 
+False

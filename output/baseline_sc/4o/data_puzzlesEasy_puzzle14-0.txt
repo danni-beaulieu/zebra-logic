@@ -1,0 +1,12 @@
+Attempt: 
+
+:
+- Quael, PLC 120, 41 light years
+- Rodul, HV 491 (not directly allocated by distance), 43 light years
+- Istryn, BDF 198, 45 light years
+- Vestor, HV 491, 47 light years
+
+Grade: 
+[False, False, False, True]
+Success: 
+False
