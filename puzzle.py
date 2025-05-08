@@ -1,3 +1,5 @@
+import os 
+
 class Puzzle:
 
     def __init__(self, dirname):
@@ -82,8 +84,19 @@ class Puzzle:
         self.grade = grade
         self.success = all(grade)
 
-    def output_puzzle(self, outdir):
-        with open(outdir + "/" + "_".join(self.dirname.split("/")) + ".txt", "a") as f:
+    def output_puzzle(self, outdir, majority=False):
+        prefix = "_".join(self.dirname.split("/"))
+        name = prefix + ".txt"
+
+        count = 0
+        for filename in os.listdir(outdir):
+            if filename.startswith(prefix) and os.path.isfile(os.path.join(outdir, filename)):
+                count += 1
+
+        if majority:
+            name = prefix + "-" + str(count) + ".txt"
+
+        with open(outdir + "/" + name, "a") as f:
             f.write("Attempt: \n\n" + self.attempt + "\n\n")
             f.write("Grade: \n" + str(self.grade) + "\n")
             f.write("Success: \n" + str(self.success) + "\n")
